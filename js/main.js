@@ -110,6 +110,7 @@ async function display_dictionary() {
             details_section.appendChild(dict_button)
             // current_alphabet.appendChild(document.createElement("br"))
         }
+        current_alphabet.appendChild(details_section)
         hangeul_index.appendChild(current_alphabet)
     }
 }
