@@ -123,6 +123,17 @@ def write_dict_as_JSON(filename, dict_to_write):
 
 
 def main():
+    # 
+    # Creates JSON dictionary file with the following keys:
+    # 
+    # - character : string, length = 1
+    # - pronunciation : string, length = 1
+    # - stroke_count : int
+    # - names : string array
+    # - definitions : string array
+    # 
+
+
     # check arguments
     if len(sys.argv) == 1:
         print('please give readfile and writefile')
