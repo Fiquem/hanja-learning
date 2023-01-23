@@ -11,7 +11,7 @@ async function load_dict(url) {
 }
 
 async function load_random_hanja() {
-    document.querySelector('section').innerHTML = ""
+    document.querySelector('main').innerHTML = ""
     const hanja_dict = await load_dict(db_url)
     percent = Math.random()
     const index = Math.round(hanja_dict.length * percent)
@@ -22,7 +22,7 @@ async function load_random_hanja() {
 
 // SHARED
 function display_hanja_info(hanja) {
-    const section = document.querySelector('section')
+    const main = document.querySelector('main')
 
     const p_char = document.createElement('p')
     const p_names = document.createElement('p')
@@ -32,9 +32,9 @@ function display_hanja_info(hanja) {
     p_names.textContent = hanja.names
     p_definitions.textContent = hanja.definitions
 
-    section.appendChild(p_char)
-    section.appendChild(p_names)
-    section.appendChild(p_definitions)
+    main.appendChild(p_char)
+    main.appendChild(p_names)
+    main.appendChild(p_definitions)
 }
 
 
@@ -43,7 +43,7 @@ async function display_hanja_given_reading(evt) {
     // console.log("we made it")
     var reading = evt.currentTarget.textContent
     const hanja_dict = await load_dict(db_url)
-    const display = document.querySelector('section')
+    const display = document.querySelector('main')
     display.innerHTML = ""
     hangeul_title = document.createElement("heading")
     hangeul_title.textContent = reading
@@ -69,21 +69,18 @@ function get_unique_readings(hanja) {
 }
 
 async function display_dictionary() {
-    const hangeul_index = document.querySelector('section')
+    const hangeul_index = document.querySelector('main')
     hangeul_index.innerHTML = ""
 
     const hanja_dict = await load_dict(db_url)
     const readings = get_unique_readings(hanja_dict)
 
-    // var hangeul_index = document.createElement("section")
     const alphabet = ['가', '나', '다', '라', '마', '바', '사', '아', '자', '차', '카', '타', '파', '하']
 
     var current_alphabet = document.createElement("details")
-    // current_alphabet.setAttribute("class", "collapsible")
     var alphabet_summary = document.createElement("summary")
     alphabet_summary.textContent = alphabet[0]
     current_alphabet.appendChild(alphabet_summary)
-    // hangeul_index.appendChild(current_alphabet)
     current_alphabet_index = 0
     for (const element of readings) {
         if (element) { // there's an undefined...
@@ -92,7 +89,6 @@ async function display_dictionary() {
             if (current_alphabet_index+1 < alphabet.length && element >= alphabet[current_alphabet_index+1]) {
                 hangeul_index.appendChild(current_alphabet)
                 current_alphabet_index += 1
-                // current_alphabet = document.createElement("heading")
                 alphabet_summary = document.createElement("summary")
                 alphabet_summary.textContent = alphabet[current_alphabet_index]
                 current_alphabet = document.createElement("details")
@@ -102,7 +98,6 @@ async function display_dictionary() {
             console.log("adding button")
             var dict_button = document.createElement('button')
             dict_button.textContent = element
-            // dict_button.setAttribute("onclick", "display_hanja_given_reading(" + element + ")")
             dict_button.addEventListener('click', display_hanja_given_reading, false)
             current_alphabet.appendChild(dict_button)
             current_alphabet.appendChild(document.createElement("br"))
@@ -114,7 +109,7 @@ async function display_dictionary() {
 
 // TEST
 // async function test() {
-//     document.querySelector('section').innerHTML = ""
+//     document.querySelector('main').innerHTML = ""
 //     const hanja_dict = await load_dict(db_url)
 //     display_hanja_given_reading(hanja_dict, '가')
 // }
