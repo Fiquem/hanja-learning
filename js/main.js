@@ -18,6 +18,9 @@ async function load_random_hanja() {
     display_hanja_info(hanja_dict[index])
 }
 
+
+
+// SHARED
 function display_hanja_info(hanja) {
     const section = document.querySelector('section')
 
@@ -36,6 +39,25 @@ function display_hanja_info(hanja) {
 
 
 // DICTIONARY
+async function display_hanja_given_reading(evt) {
+    // console.log("we made it")
+    var reading = evt.currentTarget.textContent
+    const hanja_dict = await load_dict(db_url)
+    const display = document.querySelector('section')
+    display.innerHTML = ""
+    hangeul_title = document.createElement("heading")
+    hangeul_title.textContent = reading
+    display.appendChild(hangeul_title)
+
+    for (var i = 0; i < hanja_dict.length; i++) {
+        if (hanja_dict[i].pronunciation == reading) {
+            let hanja_p = document.createElement("p")
+            hanja_p.textContent = hanja_dict[i].character + " - " + hanja_dict[i].names
+            display.appendChild(hanja_p)
+        }
+    }
+}
+
 function get_unique_readings(hanja) {
     // console.log("creating dictionary outline")
     // console.log(hanja.slice(10,40))
@@ -47,12 +69,11 @@ function get_unique_readings(hanja) {
 }
 
 async function display_dictionary() {
-    document.querySelector('section').innerHTML = ""
+    const hangeul_index = document.querySelector('section')
+    hangeul_index.innerHTML = ""
 
     const hanja_dict = await load_dict(db_url)
     const readings = get_unique_readings(hanja_dict)
-
-    const hangeul_index = document.querySelector('section')
 
     // var hangeul_index = document.createElement("section")
     const alphabet = ['가', '나', '다', '라', '마', '바', '사', '아', '자', '차', '카', '타', '파', '하']
@@ -81,6 +102,8 @@ async function display_dictionary() {
             console.log("adding button")
             var dict_button = document.createElement('button')
             dict_button.textContent = element
+            // dict_button.setAttribute("onclick", "display_hanja_given_reading(" + element + ")")
+            dict_button.addEventListener('click', display_hanja_given_reading, false)
             current_alphabet.appendChild(dict_button)
             current_alphabet.appendChild(document.createElement("br"))
         }
@@ -89,7 +112,15 @@ async function display_dictionary() {
 }
 
 
+// TEST
+// async function test() {
+//     document.querySelector('section').innerHTML = ""
+//     const hanja_dict = await load_dict(db_url)
+//     display_hanja_given_reading(hanja_dict, '가')
+// }
+
 // MAIN
 function main() {
     // ...not much to see here
+    // test()
 }
