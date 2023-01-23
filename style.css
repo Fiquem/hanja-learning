@@ -37,6 +37,7 @@ details > *:not(summary) {
 
 .single-hanja {
     font-size: 24px;
+    text-align: center;
 }
 
 .single-hanja-character {
