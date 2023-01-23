@@ -84,6 +84,7 @@ async function display_dictionary() {
             current_alphabet.appendChild(dict_button)
             current_alphabet.appendChild(document.createElement("br"))
         }
+        hangeul_index.appendChild(current_alphabet)
     }
 }
 
