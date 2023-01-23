@@ -24,7 +24,10 @@ async function load_random_hanja() {
 function display_hanja_info(hanja) {
     const main = document.querySelector('main')
 
+    const hanja_section = document.createElement('section')
+    hanja_section.setAttribute('class', 'single-hanja')
     const p_char = document.createElement('p')
+    p_char.setAttribute('class', 'single-hanja-character')
     const p_names = document.createElement('p')
     const p_definitions = document.createElement('p')
 
@@ -32,9 +35,10 @@ function display_hanja_info(hanja) {
     p_names.textContent = hanja.names
     p_definitions.textContent = hanja.definitions
 
-    main.appendChild(p_char)
-    main.appendChild(p_names)
-    main.appendChild(p_definitions)
+    hanja_section.appendChild(p_char)
+    hanja_section.appendChild(p_names)
+    hanja_section.appendChild(p_definitions)
+    main.appendChild(hanja_section)
 }
 
 
@@ -78,6 +82,7 @@ async function display_dictionary() {
     const alphabet = ['가', '나', '다', '라', '마', '바', '사', '아', '자', '차', '카', '타', '파', '하']
 
     var current_alphabet = document.createElement("details")
+    var details_section = document.createElement("section")
     var alphabet_summary = document.createElement("summary")
     alphabet_summary.textContent = alphabet[0]
     current_alphabet.appendChild(alphabet_summary)
@@ -87,6 +92,8 @@ async function display_dictionary() {
 
             // check if we've moved to next consonant
             if (current_alphabet_index+1 < alphabet.length && element >= alphabet[current_alphabet_index+1]) {
+                current_alphabet.appendChild(details_section)
+                details_section = document.createElement("section")
                 hangeul_index.appendChild(current_alphabet)
                 current_alphabet_index += 1
                 alphabet_summary = document.createElement("summary")
@@ -97,10 +104,11 @@ async function display_dictionary() {
 
             console.log("adding button")
             var dict_button = document.createElement('button')
+            dict_button.setAttribute("class", "dictionary-index")
             dict_button.textContent = element
             dict_button.addEventListener('click', display_hanja_given_reading, false)
-            current_alphabet.appendChild(dict_button)
-            current_alphabet.appendChild(document.createElement("br"))
+            details_section.appendChild(dict_button)
+            // current_alphabet.appendChild(document.createElement("br"))
         }
         hangeul_index.appendChild(current_alphabet)
     }
