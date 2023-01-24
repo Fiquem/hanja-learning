@@ -114,25 +114,14 @@ async function display_hanja_given_stroke(evt) {
 }
 
 function get_unique_readings(hanja) {
-    // console.log("creating dictionary outline")
-    // console.log(hanja.slice(10,40))
     const all_readings = hanja.map(x => x.pronunciation)
-    // console.log(all_readings[0])
     const reduced_readings = new Set(all_readings)
-    // console.log(reduced_readings)
     return reduced_readings
 }
 
 async function display_dictionary() {
     const dictionary_index_main = document.querySelector('main')
     dictionary_index_main.innerHTML = ""
-
-    // create headers
-    dictionary_index_main.innerHTML = `
-        <div class="dictionary-row">
-            <div class="dictionary-column-header">by reading</div>
-            <div class="dictionary-column-header">by stroke</div>
-        </div>`
 
 
     // Sort by reading
@@ -148,6 +137,7 @@ async function display_dictionary() {
     const alphabet = ['가', '나', '다', '라', '마', '바', '사', '아', '자', '차', '카', '타', '파', '하']
 
     var current_alphabet = document.createElement("details")
+    current_alphabet.setAttribute("class", "dict-reading")
     var details_section = document.createElement("section")
     var alphabet_summary = document.createElement("summary")
     alphabet_summary.textContent = alphabet[0]
@@ -165,6 +155,7 @@ async function display_dictionary() {
                 alphabet_summary = document.createElement("summary")
                 alphabet_summary.textContent = alphabet[current_alphabet_index]
                 current_alphabet = document.createElement("details")
+                current_alphabet.setAttribute("class", "dict-reading")
                 current_alphabet.appendChild(alphabet_summary)
             }
 
@@ -195,14 +186,22 @@ async function display_dictionary() {
         stroke_index.appendChild(stroke_p)
     }
 
-
-    // display both
-    //
-    const dictionary_index_table = document.createElement('div')
-    dictionary_index_table.setAttribute("class", "dictionary-row")
-    dictionary_index_main.appendChild(dictionary_index_table)
-    dictionary_index_table.appendChild(hangeul_index)
-    dictionary_index_table.appendChild(stroke_index)
+    dictionary_index_main.innerHTML = `
+        <div class="dictionary-row">
+            <div class="dictionary-column">
+                <div class="dictionary-row">by reading</div>
+                <div class="dictionary-row">
+                    ` + hangeul_index.innerHTML + `
+                </div>
+            </div>
+            <div class="dictionary-column">
+                <div class="dictionary-row">by stroke</div>
+                <div class="dictionary-row">
+                    ` + stroke_index.innerHTML + `
+                </div>
+            </div>
+        </div>
+    `
 }
 
 
@@ -217,6 +216,7 @@ function about_me() {
     sec.innerHTML = `
         <p>Hello :)</p>
         <p>This is my project to make a little hanja info display app for learning. It's by no means exhaustive and honestly I can't verify that everything is correct, but I made it :)</p>
+        <p>Actually, I can guarantee there are errors :)
         <p>Enjoy! :)</p>
         <p><a href="https://github.com/Fiquem/hanja-learning">View the GitHub repository!</a></p>`
 }

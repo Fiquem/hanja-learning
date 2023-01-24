@@ -62,9 +62,6 @@ button.dictionary-index {
 button.dictionary-index:hover,
 button.dictionary-index:focus {
     color: var(--accent-colour);
-/*    border-color: #aaa;*/
-/*    color: #fff;*/
-/*    box-shadow: inset 0 0 0 2em #aaa;*/
 }
 
 button.hanja-text-button {
@@ -96,18 +93,22 @@ details > *:not(summary) {
 }
 
 div.dictionary-row {
-  display: flex;
-  margin: 20px 20px 20px 20px;
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+/*    margin: 20px 20px 20px 20px;*/
 }
 
 div.dictionary-column {
-  flex: 50%;
-  margin: 20px 20px 20px 20px;
+    flex: 45%;
+    margin: 20px 0px 20px 20px;
 }
 
-div.dictionary-column-header {
-  flex: 50%;
-  margin: 20px 20px 20px 20px;
+details.dict-reading {
+    margin: 10px auto;
+    padding: 5px 5px 5px 5px auto;
+    flex: 100%;
+    background-color: var(--bg-colour);
 }
 
 section.about-me {
@@ -118,5 +119,4 @@ section.about-me {
     background: var(--bg-colour);
     padding: 15px;
     border-radius: 15px;
-}
 }
