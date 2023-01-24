@@ -223,9 +223,6 @@ function about_me() {
 
 // TEST
 // async function test() {
-//     document.querySelector('main').innerHTML = ""
-//     const hanja_dict = await load_dict(db_url)
-//     display_hanja_given_reading(hanja_dict, '가')
 // }
 
 // MAIN
