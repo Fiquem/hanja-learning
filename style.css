@@ -50,13 +50,13 @@ details > *:not(summary) {
     margin: 5px 40px 5px 40px;
 }
 
-.single-hanja {
+.single-hanja-display-block {
     font-size: 24px;
     text-align: center;
 }
 
 .single-hanja-character {
-    font-size: 60px;
+    font-size: 64px;
 }
 
 div.dictionary-row {
@@ -66,11 +66,6 @@ div.dictionary-row {
 
 div.dictionary-column {
   flex: 50%;
-  margin: 20px 20px 20px 20px;
-}
-
-div.dictionary-row-header {
-  display: flex;
   margin: 20px 20px 20px 20px;
 }
 

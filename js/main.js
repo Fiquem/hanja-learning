@@ -44,7 +44,7 @@ function display_hanja_info(hanja) {
     main.innerHTML = ""
 
     const hanja_section = document.createElement('section')
-    hanja_section.setAttribute('class', 'single-hanja')
+    hanja_section.setAttribute('class', 'single-hanja-display-block')
     const p_char = document.createElement('p')
     p_char.setAttribute('class', 'single-hanja-character')
     const p_names = document.createElement('p')
@@ -85,12 +85,6 @@ async function display_hanja_given_reading(evt) {
 
     for (var i = 0; i < hanja_dict.length; i++) {
         if (hanja_dict[i].pronunciation == reading) {
-            // let hanja_p = document.createElement("p")
-            // let hanja_button = document.createElement("button")
-            // hanja_button.setAttribute("class", "hanja-text-button")
-            // hanja_button.textContent = hanja_dict[i].character
-            // hanja_p.innerHTML = hanja_button.outerHTML + " - " + hanja_dict[i].names
-            // display.appendChild(hanja_p)
             display_hanja_and_reading_inline(hanja_dict[i], display)
         }
     }
@@ -111,12 +105,6 @@ async function display_hanja_given_stroke(evt) {
 
     for (var i = 0; i < hanja_dict.length; i++) {
         if (hanja_dict[i].stroke_count == stroke) {
-            // let hanja_p = document.createElement("p")
-            // let hanja_button = document.createElement("button")
-            // hanja_button.setAttribute("class", "hanja-text-button")
-            // hanja_button.textContent = hanja_dict[i].character
-            // hanja_p.innerHTML = hanja_button.outerHTML + " - " + hanja_dict[i].names
-            // display.appendChild(hanja_p)
             display_hanja_and_reading_inline(hanja_dict[i], display)
         }
     }
@@ -139,27 +127,21 @@ async function display_dictionary() {
     const dictionary_index_main = document.querySelector('main')
     dictionary_index_main.innerHTML = ""
 
-    // can I just write the html? this is clunky and not interactive/dynamic
-    // w/e learning process fine for now
-    const dictionary_index_table_header = document.createElement('div')
-    dictionary_index_table_header.setAttribute("class", "dictionary-row")
-    dictionary_index_main.appendChild(dictionary_index_table_header)
-    const hangeul_index_header = document.createElement("div")
-    hangeul_index_header.setAttribute("class", "dictionary-column-header")
-    hangeul_index_header.textContent = "by reading"
-    const stroke_index_header = document.createElement("div")
-    stroke_index_header.setAttribute("class", "dictionary-column-header")
-    stroke_index_header.textContent = "by stroke"
-    dictionary_index_table_header.appendChild(hangeul_index_header)
-    dictionary_index_table_header.appendChild(stroke_index_header)
-
-
-    const hanja_dict = await load_dict(db_url)
-    const readings = get_unique_readings(hanja_dict)
+    // create headers
+    dictionary_index_main.innerHTML = `
+    <div class="dictionary-row">
+        <div class="dictionary-column-header">by reading</div>
+        <div class="dictionary-column-header">by stroke</div>
+    </div>`
 
 
     // Sort by reading
     //
+
+    // get hanja
+    const hanja_dict = await load_dict(db_url)
+    const readings = get_unique_readings(hanja_dict)
+
     const hangeul_index = document.createElement("div")
     hangeul_index.setAttribute("class", "dictionary-column")
 
