@@ -4,14 +4,13 @@
         <link rel="stylesheet" href="style.css">
         <script type="text/javascript" src="js/main.js"></script>
     </head>
-    <body>
+    <body onload="about_me()">
         <nav>
+            <button type="about" onclick="about_me()">about</button> 
             <button type="button" onclick="load_random_hanja()">random</button> 
             <button type="dictionary" onclick="display_dictionary()">dictionary</button> 
         </nav>
         <main>
-            <p>Hello :)</p>
-            <p>This is my project to make a little hanja info display app for learning. It's by no means exhaustive and honestly I can't verify that everything is correct, but I made it :)</p>
         </main>
     </body>
 </html>

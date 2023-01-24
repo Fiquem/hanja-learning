@@ -1,3 +1,17 @@
+:root {
+    --accent-colour: #bab;
+    --accent-colour-strong: #e7e;
+}
+
+a {
+    color: var(--accent-colour-strong);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 nav {
     text-align: center;
     padding: 20px 0px 20px 0pc;
@@ -25,7 +39,7 @@ button.dictionary-index {
 
 button.dictionary-index:hover,
 button.dictionary-index:focus {
-    color: #bab;
+    color: var(--accent-colour);
 /*    border-color: #aaa;*/
 /*    color: #fff;*/
 /*    box-shadow: inset 0 0 0 2em #aaa;*/
@@ -41,7 +55,7 @@ button.hanja-text-button {
 
 button.hanja-text-button:hover,
 button.hanja-text-button:focus {
-    color: #bab;
+    color: var(--accent-colour);
 }
 
 
@@ -72,4 +86,15 @@ div.dictionary-column {
 div.dictionary-column-header {
   flex: 50%;
   margin: 20px 20px 20px 20px;
+}
+
+section.about-me {
+    font-size: 20px;
+    max-width: 500px;
+    width: 100%;
+    margin: 25px auto;
+    background: #eeeeee;
+    padding: 15px;
+    border-radius: 15px;
+}
 }

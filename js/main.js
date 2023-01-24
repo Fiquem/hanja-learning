@@ -129,10 +129,10 @@ async function display_dictionary() {
 
     // create headers
     dictionary_index_main.innerHTML = `
-    <div class="dictionary-row">
-        <div class="dictionary-column-header">by reading</div>
-        <div class="dictionary-column-header">by stroke</div>
-    </div>`
+        <div class="dictionary-row">
+            <div class="dictionary-column-header">by reading</div>
+            <div class="dictionary-column-header">by stroke</div>
+        </div>`
 
 
     // Sort by reading
@@ -205,6 +205,21 @@ async function display_dictionary() {
     dictionary_index_table.appendChild(stroke_index)
 }
 
+
+// ABOUT
+function about_me() {
+    const main = document.querySelector('main')
+    main.innerHTML = ""
+    const sec = document.createElement('section')
+    sec.setAttribute("class", "about-me")
+    main.appendChild(sec)
+
+    sec.innerHTML = `
+        <p>Hello :)</p>
+        <p>This is my project to make a little hanja info display app for learning. It's by no means exhaustive and honestly I can't verify that everything is correct, but I made it :)</p>
+        <p>Enjoy! :)</p>
+        <p><a href="https://github.com/Fiquem/hanja-learning">View the GitHub repository!</a></p>`
+}
 
 // TEST
 // async function test() {
