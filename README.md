@@ -12,6 +12,10 @@ App to learn hanja
   - fill in blank, either hanja, reading, name, meaning
   - multiple choice versions
 - just make pretty ~
+- show incomplete entries somewhere, mb can use it as a list to improve upon
+- feedback section? bug reports, etc.
+- make look good on mobile
+- use that korean derived file for something?
 
 ## to-fix
 - some definitions + names missing space after comma
