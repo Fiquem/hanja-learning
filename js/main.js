@@ -161,9 +161,9 @@ async function display_dictionary() {
 
             console.log("adding button")
             var dict_button = document.createElement('button')
-            dict_button.setAttribute("class", "dictionary-index")
+            dict_button.setAttribute("class", "dictionary-index-reading")
             dict_button.textContent = element
-            dict_button.addEventListener('click', display_hanja_given_reading, false)
+            // dict_button.addEventListener('click', display_hanja_given_reading, false)
             details_section.appendChild(dict_button)
             // current_alphabet.appendChild(document.createElement("br"))
         }
@@ -181,8 +181,8 @@ async function display_dictionary() {
     for (var i = 0; i < 33; i++) {
         let stroke_p = document.createElement("button")
         stroke_p.textContent = i+1
-        stroke_p.addEventListener('click', display_hanja_given_stroke, false)
-        stroke_p.setAttribute("class", "dictionary-index")
+        // stroke_p.addEventListener('click', display_hanja_given_stroke, false)
+        stroke_p.setAttribute("class", "dictionary-index-stroke")
         stroke_index.appendChild(stroke_p)
     }
 
@@ -202,6 +202,16 @@ async function display_dictionary() {
             </div>
         </div>
     `
+
+    // doing the above breaks eventlisteners so gotta add here
+    // but tbh doing it a proper way is a pain
+    reading_buttons = document.getElementsByClassName("dictionary-index-reading")
+    reading_buttons_array = Array.from(reading_buttons)
+    reading_buttons_array.map(x => x.addEventListener('click', display_hanja_given_reading, false))
+
+    stroke_buttons = document.getElementsByClassName("dictionary-index-stroke")
+    stroke_buttons_array = Array.from(stroke_buttons)
+    stroke_buttons_array.map(x => x.addEventListener('click', display_hanja_given_stroke, false))
 }
 
 

@@ -48,7 +48,7 @@ button {
     font-size: 20px;
 }
 
-button.dictionary-index {
+button.dictionary-index-reading, button.dictionary-index-stroke {
     font-size: 24px;
     background: none;
     border: 0px;
