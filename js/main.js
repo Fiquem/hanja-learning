@@ -38,6 +38,7 @@ async function display_hanja_button_click(evt) {
     display_hanja_info(hanja_obj)
 }
 
+// display used for single hanja shown on the screen, hanja info page
 function display_hanja_info(hanja) {
     const main = document.querySelector('main')
     main.innerHTML = ""
@@ -61,6 +62,17 @@ function display_hanja_info(hanja) {
 
 
 // DICTIONARY
+
+// display hanja inline in dictionary
+function display_hanja_and_reading_inline(hanja, parent_element) {
+    let hanja_p = document.createElement("p")
+    let hanja_button = document.createElement("button")
+    hanja_button.setAttribute("class", "hanja-text-button")
+    hanja_button.textContent = hanja.character
+    hanja_p.innerHTML = hanja_button.outerHTML + " - " + hanja.names
+    parent_element.appendChild(hanja_p)
+}
+
 async function display_hanja_given_reading(evt) {
     // console.log("we made it")
     var reading = evt.currentTarget.textContent
@@ -73,12 +85,39 @@ async function display_hanja_given_reading(evt) {
 
     for (var i = 0; i < hanja_dict.length; i++) {
         if (hanja_dict[i].pronunciation == reading) {
-            let hanja_p = document.createElement("p")
-            let hanja_button = document.createElement("button")
-            hanja_button.setAttribute("class", "hanja-text-button")
-            hanja_button.textContent = hanja_dict[i].character
-            hanja_p.innerHTML = hanja_button.outerHTML + " - " + hanja_dict[i].names
-            display.appendChild(hanja_p)
+            // let hanja_p = document.createElement("p")
+            // let hanja_button = document.createElement("button")
+            // hanja_button.setAttribute("class", "hanja-text-button")
+            // hanja_button.textContent = hanja_dict[i].character
+            // hanja_p.innerHTML = hanja_button.outerHTML + " - " + hanja_dict[i].names
+            // display.appendChild(hanja_p)
+            display_hanja_and_reading_inline(hanja_dict[i], display)
+        }
+    }
+    hanja_buttons = document.getElementsByClassName("hanja-text-button")
+    hanja_buttons_array = Array.from(hanja_buttons)
+    hanja_buttons_array.map(x => x.addEventListener('click', display_hanja_button_click, false))
+}
+
+async function display_hanja_given_stroke(evt) {
+    // console.log("we made it")
+    var stroke = evt.currentTarget.textContent
+    const hanja_dict = await load_dict(db_url)
+    const display = document.querySelector('main')
+    display.innerHTML = ""
+    hangeul_title = document.createElement("heading")
+    hangeul_title.textContent = stroke
+    display.appendChild(hangeul_title)
+
+    for (var i = 0; i < hanja_dict.length; i++) {
+        if (hanja_dict[i].stroke_count == stroke) {
+            // let hanja_p = document.createElement("p")
+            // let hanja_button = document.createElement("button")
+            // hanja_button.setAttribute("class", "hanja-text-button")
+            // hanja_button.textContent = hanja_dict[i].character
+            // hanja_p.innerHTML = hanja_button.outerHTML + " - " + hanja_dict[i].names
+            // display.appendChild(hanja_p)
+            display_hanja_and_reading_inline(hanja_dict[i], display)
         }
     }
     hanja_buttons = document.getElementsByClassName("hanja-text-button")
@@ -97,11 +136,32 @@ function get_unique_readings(hanja) {
 }
 
 async function display_dictionary() {
-    const hangeul_index = document.querySelector('main')
-    hangeul_index.innerHTML = ""
+    const dictionary_index_main = document.querySelector('main')
+    dictionary_index_main.innerHTML = ""
+
+    // can I just write the html? this is clunky and not interactive/dynamic
+    // w/e learning process fine for now
+    const dictionary_index_table_header = document.createElement('div')
+    dictionary_index_table_header.setAttribute("class", "dictionary-row")
+    dictionary_index_main.appendChild(dictionary_index_table_header)
+    const hangeul_index_header = document.createElement("div")
+    hangeul_index_header.setAttribute("class", "dictionary-column-header")
+    hangeul_index_header.textContent = "by reading"
+    const stroke_index_header = document.createElement("div")
+    stroke_index_header.setAttribute("class", "dictionary-column-header")
+    stroke_index_header.textContent = "by stroke"
+    dictionary_index_table_header.appendChild(hangeul_index_header)
+    dictionary_index_table_header.appendChild(stroke_index_header)
+
 
     const hanja_dict = await load_dict(db_url)
     const readings = get_unique_readings(hanja_dict)
+
+
+    // Sort by reading
+    //
+    const hangeul_index = document.createElement("div")
+    hangeul_index.setAttribute("class", "dictionary-column")
 
     const alphabet = ['가', '나', '다', '라', '마', '바', '사', '아', '자', '차', '카', '타', '파', '하']
 
@@ -137,6 +197,30 @@ async function display_dictionary() {
         current_alphabet.appendChild(details_section)
         hangeul_index.appendChild(current_alphabet)
     }
+
+
+    // Sort by stroke count
+    //
+    const stroke_index = document.createElement("div")
+    stroke_index.setAttribute("class", "dictionary-column")
+
+    // 33 seems to be max I have so far, should dynamically check if I change database
+    for (var i = 0; i < 33; i++) {
+        let stroke_p = document.createElement("button")
+        stroke_p.textContent = i+1
+        stroke_p.addEventListener('click', display_hanja_given_stroke, false)
+        stroke_p.setAttribute("class", "dictionary-index")
+        stroke_index.appendChild(stroke_p)
+    }
+
+
+    // display both
+    //
+    const dictionary_index_table = document.createElement('div')
+    dictionary_index_table.setAttribute("class", "dictionary-row")
+    dictionary_index_main.appendChild(dictionary_index_table)
+    dictionary_index_table.appendChild(hangeul_index)
+    dictionary_index_table.appendChild(stroke_index)
 }
 
 
