@@ -24,6 +24,7 @@ Viewable at https://fiquem.github.io/subs/hanja-learning/
 - some definitions + names missing space after comma
 - some blank/incomplete hanja
 - some names include first definition (due to first char being '(', it seems)
+- incorrect readings? (吢 should be 침 not 심 according to naver https://hanja.dict.naver.com/#/entry/ccko/fe661337d2794c84b1b7764b76131808)
 
 # Source
 hanja_definitions obtained from https://www.happycgi.com/13322
