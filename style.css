@@ -1,6 +1,12 @@
+* { /* not sure I wanna use this yet but let's just put it here for the moment */
+  box-sizing: border-box;
+}
+
 :root {
+    --bg-colour: #eee;
     --accent-colour: #bab;
     --accent-colour-strong: #e7e;
+    --transition-speed: 0.25s;
 }
 
 a {
@@ -14,7 +20,23 @@ a:hover {
 
 nav {
     text-align: center;
-    padding: 20px 0px 20px 0pc;
+/*    padding: 20px 0px 20px 0px;*/
+    background-color: var(--bg-colour);
+}
+
+.nav-button {
+    padding: 20px 0px 20px 0px;
+    background: none;
+    border: 0px;
+    transition: var(--transition-speed);
+    width: 20%;
+    height: 100%;
+
+}
+
+.nav-button:hover {
+    background: var(--accent-colour-strong);
+    color: white;
 }
 
 main {
@@ -34,7 +56,7 @@ button.dictionary-index {
     padding: 4px;
 
     color: #000;
-    transition: 0.25s;
+    transition: var(--transition-speed);
 }
 
 button.dictionary-index:hover,
@@ -50,7 +72,7 @@ button.hanja-text-button {
     background: none;
     border: 0px;
     color: #000;
-    transition: 0.25s;
+    transition: var(--transition-speed);
 }
 
 button.hanja-text-button:hover,
@@ -93,7 +115,7 @@ section.about-me {
     max-width: 500px;
     width: 100%;
     margin: 25px auto;
-    background: #eeeeee;
+    background: var(--bg-colour);
     padding: 15px;
     border-radius: 15px;
 }
