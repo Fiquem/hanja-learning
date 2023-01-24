@@ -1,6 +1,8 @@
 # hanja-learning
 App to learn hanja
 
+Viewable at https://fiquem.github.io/subs/hanja-learning/
+
 ## to-do
 - dictionary mode
   - ~~display hanja based on reading~~
