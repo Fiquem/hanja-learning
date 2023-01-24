@@ -21,8 +21,26 @@ async function load_random_hanja() {
 
 
 // SHARED
+async function display_hanja_button_click(evt) {
+    var hanja_char = evt.currentTarget.textContent // can't be doing other functions before currentTarget...
+    // console.log("here?")
+    const hanja_dict = await load_dict(db_url)
+    var hanja_obj = ""
+    var i = 0
+
+    while (hanja_obj == "") {
+        if (hanja_dict[i].character == hanja_char) {
+            hanja_obj = hanja_dict[i]
+        }
+        i += 1
+    }
+
+    display_hanja_info(hanja_obj)
+}
+
 function display_hanja_info(hanja) {
     const main = document.querySelector('main')
+    main.innerHTML = ""
 
     const hanja_section = document.createElement('section')
     hanja_section.setAttribute('class', 'single-hanja')
@@ -56,10 +74,16 @@ async function display_hanja_given_reading(evt) {
     for (var i = 0; i < hanja_dict.length; i++) {
         if (hanja_dict[i].pronunciation == reading) {
             let hanja_p = document.createElement("p")
-            hanja_p.textContent = hanja_dict[i].character + " - " + hanja_dict[i].names
+            let hanja_button = document.createElement("button")
+            hanja_button.setAttribute("class", "hanja-text-button")
+            hanja_button.textContent = hanja_dict[i].character
+            hanja_p.innerHTML = hanja_button.outerHTML + " - " + hanja_dict[i].names
             display.appendChild(hanja_p)
         }
     }
+    hanja_buttons = document.getElementsByClassName("hanja-text-button")
+    hanja_buttons_array = Array.from(hanja_buttons)
+    hanja_buttons_array.map(x => x.addEventListener('click', display_hanja_button_click, false))
 }
 
 function get_unique_readings(hanja) {
