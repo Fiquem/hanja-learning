@@ -194,6 +194,9 @@
         ]
     },
     {
+        "character": "\u560f",
+        "pronunciation": "\uac00",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "felicity, prosperity",
@@ -223,6 +226,9 @@
         ]
     },
     {
+        "character": "\u5b8a",
+        "pronunciation": "\uac00",
+        "stroke_count": "7",
         "names": "\u5bb6\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -561,6 +567,9 @@
         ]
     },
     {
+        "character": "\u5095",
+        "pronunciation": "\uac01",
+        "stroke_count": "12",
         "names": "\uc131 \uac01",
         "definitions": []
     },
@@ -696,6 +705,9 @@
         ]
     },
     {
+        "character": "\u6bbb",
+        "pronunciation": "\uac01",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "casing, shell, husk, hull, skin"
@@ -880,6 +892,9 @@
         ]
     },
     {
+        "character": "\u56cf",
+        "pronunciation": "\uac04",
+        "stroke_count": "23",
         "names": "\u8271\uc758 \u53e4\u5b57",
         "definitions": []
     },
@@ -1360,6 +1375,9 @@
         ]
     },
     {
+        "character": "\u5620",
+        "pronunciation": "\uac08",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "the chirping of birds loud laughter"
@@ -1943,6 +1961,9 @@
         ]
     },
     {
+        "character": "\u937c",
+        "pronunciation": "\uac10",
+        "stroke_count": "17",
         "names": [],
         "definitions": [
             "needle, pin, tack",
@@ -2109,6 +2130,9 @@
         ]
     },
     {
+        "character": "\u508b",
+        "pronunciation": "\uac15",
+        "stroke_count": "12",
         "names": "\uc544\ucca8 \uc544\ub2c8\ud560 \uac15",
         "definitions": []
     },
@@ -2172,6 +2196,9 @@
         ]
     },
     {
+        "character": "\u58c3",
+        "pronunciation": "\uac15",
+        "stroke_count": "16",
         "names": "\u7586\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -2585,6 +2612,9 @@
         ]
     },
     {
+        "character": "\u8333",
+        "pronunciation": "\uac15",
+        "stroke_count": "12",
         "names": "\uac15\ub9ac\ud480 \uac15",
         "definitions": []
     },
@@ -3544,6 +3574,9 @@
         ]
     },
     {
+        "character": "\u661b",
+        "pronunciation": "\uac70",
+        "stroke_count": "9",
         "names": "\ubc1d\uc744 \uac70",
         "definitions": []
     },
@@ -3650,6 +3683,9 @@
         ]
     },
     {
+        "character": "\u824d",
+        "pronunciation": "\uac70",
+        "stroke_count": "14",
         "names": "",
         "definitions": []
     },
@@ -3681,6 +3717,9 @@
         ]
     },
     {
+        "character": "\u8556",
+        "pronunciation": "\uac70",
+        "stroke_count": "18",
         "names": "\uc5f0\uaf43 \uac70",
         "definitions": []
     },
@@ -4020,6 +4059,9 @@
         ]
     },
     {
+        "character": "\u7777",
+        "pronunciation": "\uac74",
+        "stroke_count": "24",
         "names": "\ub208\uc73c\ub85c \uc138\uc5b4\ubcfc \uac74",
         "definitions": []
     },
@@ -4035,6 +4077,9 @@
         ]
     },
     {
+        "character": "\u8350",
+        "pronunciation": "\uac74",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "repeat, reoccur",
@@ -4378,6 +4423,9 @@
         ]
     },
     {
+        "character": "\u67d1",
+        "pronunciation": "\uac80",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "tangerine, loose-skinned orange"
@@ -4426,12 +4474,18 @@
         ]
     },
     {
+        "character": "\u6cd4",
+        "pronunciation": "\uac80",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "water from washing rice to boil thick, as gruel"
         ]
     },
     {
+        "character": "\u6de6",
+        "pronunciation": "\uac80",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "river in Jiangxi province",
@@ -4439,6 +4493,9 @@
         ]
     },
     {
+        "character": "\u6f89",
+        "pronunciation": "\uac80",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "to wash name of a place"
@@ -4456,6 +4513,9 @@
         ]
     },
     {
+        "character": "\u77d9",
+        "pronunciation": "\uac80",
+        "stroke_count": "25",
         "names": [],
         "definitions": [
             "view"
@@ -4474,12 +4534,18 @@
         ]
     },
     {
+        "character": "\u8f57",
+        "pronunciation": "\uac80",
+        "stroke_count": "20",
         "names": [],
         "definitions": [
             "fail"
         ]
     },
     {
+        "character": "\u9163",
+        "pronunciation": "\uac80",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "enjoy intoxicants"
@@ -4580,6 +4646,9 @@
         ]
     },
     {
+        "character": "\u8ff2",
+        "pronunciation": "\uac81",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -5410,6 +5479,9 @@
         ]
     },
     {
+        "character": "\u5c92",
+        "pronunciation": "\uacb8",
+        "stroke_count": "7",
         "names": "\uc0b0 \uc791\uace0 \ub192\uc744 \uacb8",
         "definitions": []
     },
@@ -5525,10 +5597,16 @@
         ]
     },
     {
+        "character": "\u9eda",
+        "pronunciation": "\uacb8",
+        "stroke_count": "17",
         "names": "\uc595\uc740 \uae08\ud5a5\ube5b \uacb8",
         "definitions": []
     },
     {
+        "character": "\u9f38",
+        "pronunciation": "\uacb8",
+        "stroke_count": "23",
         "names": "\ub450\ub354\uc950 \uacb8",
         "definitions": []
     },
@@ -5660,6 +5738,9 @@
         ]
     },
     {
+        "character": "\u518f",
+        "pronunciation": "\uacbd",
+        "stroke_count": "7",
         "names": "\ube5b\ub0a0 \uacbd",
         "definitions": []
     },
@@ -5731,6 +5812,9 @@
         ]
     },
     {
+        "character": "\u56e7",
+        "pronunciation": "\uacbd",
+        "stroke_count": "7",
         "names": "\u518f\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -5828,6 +5912,9 @@
         ]
     },
     {
+        "character": "\u61bc",
+        "pronunciation": "\uacbd",
+        "stroke_count": "17",
         "names": "\uacf5\uacbd\ud560 \uacbd",
         "definitions": []
     },
@@ -6332,6 +6419,9 @@
         ]
     },
     {
+        "character": "\u9848",
+        "pronunciation": "\uacbd",
+        "stroke_count": "17",
         "names": "\ud651\uc637 \uacbd",
         "definitions": []
     },
@@ -6717,10 +6807,16 @@
         ]
     },
     {
+        "character": "\u7e18",
+        "pronunciation": "\uacc4",
+        "stroke_count": "16",
         "names": "\u7e6b\uc640 \u540c\u5b57",
         "definitions": []
     },
     {
+        "character": "\u7e4b",
+        "pronunciation": "\uacc4",
+        "stroke_count": "19",
         "names": [],
         "definitions": [
             "attach, connect, unite, fasten"
@@ -6890,6 +6986,9 @@
         ]
     },
     {
+        "character": "\u4fa4",
+        "pronunciation": "\uace0",
+        "stroke_count": "8",
         "names": "\uc0dd\uac01\ud560 \uace0",
         "definitions": []
     },
@@ -7321,6 +7420,9 @@
         ]
     },
     {
+        "character": "\u7a01",
+        "pronunciation": "\uace0",
+        "stroke_count": "12",
         "names": "\u7a3f\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -7405,6 +7507,9 @@
         ]
     },
     {
+        "character": "\u7ff1",
+        "pronunciation": "\uace0",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "soar, roam"
@@ -7459,6 +7564,9 @@
         ]
     },
     {
+        "character": "\u8135",
+        "pronunciation": "\uace0",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "thighs, haunches, rump",
@@ -7750,6 +7858,9 @@
         ]
     },
     {
+        "character": "\u9df1",
+        "pronunciation": "\uace0",
+        "stroke_count": "23",
         "names": "\uc0c8\uc774\ub984 \uace0",
         "definitions": []
     },
@@ -8270,10 +8381,16 @@
         ]
     },
     {
+        "character": "\u9da4",
+        "pronunciation": "\uace4",
+        "stroke_count": "20",
         "names": "\ub313\ub2ed \uace4",
         "definitions": []
     },
     {
+        "character": "\u9f6b",
+        "pronunciation": "\uace4",
+        "stroke_count": "22",
         "names": "\uc774 \ube60\uc9c8 \uace4",
         "definitions": []
     },
@@ -8601,6 +8718,9 @@
         ]
     },
     {
+        "character": "\u7b3b",
+        "pronunciation": "\uacf5",
+        "stroke_count": "11",
         "names": "\ub300\uc774\ub984 \uacf5",
         "definitions": []
     },
@@ -8651,6 +8771,9 @@
         ]
     },
     {
+        "character": "\u86ec",
+        "pronunciation": "\uacf5",
+        "stroke_count": "12",
         "names": "\uadc0\ub69c\ub77c\ubbf8 \uacf5",
         "definitions": []
     },
@@ -8714,6 +8837,9 @@
         ]
     },
     {
+        "character": "\u928e",
+        "pronunciation": "\uacf5",
+        "stroke_count": "14",
         "names": "\ub3c4\ub07c \uad6c\uba4d \uacf5",
         "definitions": []
     },
@@ -8779,6 +8905,9 @@
         ]
     },
     {
+        "character": "\u4f89",
+        "pronunciation": "\uacfc",
+        "stroke_count": "8",
         "names": "\uc790\ub791\ud560 \uacfc",
         "definitions": []
     },
@@ -9055,6 +9184,9 @@
         ]
     },
     {
+        "character": "\u9299",
+        "pronunciation": "\uacfc",
+        "stroke_count": "14",
         "names": "\ub300\uad6c \uacfc",
         "definitions": []
     },
@@ -9337,6 +9469,9 @@
         ]
     },
     {
+        "character": "\u6dab",
+        "pronunciation": "\uad00",
+        "stroke_count": "11",
         "names": "\ub053\uc744 \uad00",
         "definitions": []
     },
@@ -9563,10 +9698,16 @@
         ]
     },
     {
+        "character": "\u8f28",
+        "pronunciation": "\uad00",
+        "stroke_count": "15",
         "names": "\uc90f\ub300 \uad00",
         "definitions": []
     },
     {
+        "character": "\u9327",
+        "pronunciation": "\uad00",
+        "stroke_count": "16",
         "names": "\ube44\ub140\uc7a5 \uad00",
         "definitions": []
     },
@@ -9714,6 +9855,9 @@
         ]
     },
     {
+        "character": "\u5280",
+        "pronunciation": "\uad04",
+        "stroke_count": "14",
         "names": "\uad82\uc740 \uc0b4\uc744 \uc798\ub77c\ub0bc \uad04",
         "definitions": []
     },
@@ -9867,6 +10011,9 @@
         ]
     },
     {
+        "character": "\u4fc7",
+        "pronunciation": "\uad11",
+        "stroke_count": "9",
         "names": "\ud5c8\ub465\uc9c0\ub465\ud560 \uad11",
         "definitions": []
     },
@@ -10019,10 +10166,16 @@
         ]
     },
     {
+        "character": "\u709a",
+        "pronunciation": "\uad11",
+        "stroke_count": "8",
         "names": "\ud587\ube5a \ub728\uac70\uc6b8 \uad11",
         "definitions": []
     },
     {
+        "character": "\u720c",
+        "pronunciation": "\uad11",
+        "stroke_count": "19",
         "names": "\ubd88 \ube5b \ud658\ud560 \uad11",
         "definitions": []
     },
@@ -10132,6 +10285,9 @@
         ]
     },
     {
+        "character": "\u832a",
+        "pronunciation": "\uad11",
+        "stroke_count": "12",
         "names": "\ucd08\uacb0\uba85 \uad11",
         "definitions": []
     },
@@ -10205,6 +10361,9 @@
         ]
     },
     {
+        "character": "\u53cf",
+        "pronunciation": "\uad18",
+        "stroke_count": "5",
         "names": "\ub098\ub204\uc5b4 \uac00\ub97c \uad18",
         "definitions": []
     },
@@ -10338,6 +10497,9 @@
         ]
     },
     {
+        "character": "\u528a",
+        "pronunciation": "\uad34",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "amputate, cut off"
@@ -10355,6 +10517,9 @@
         ]
     },
     {
+        "character": "\u5633",
+        "pronunciation": "\uad34",
+        "stroke_count": "15",
         "names": "\ud55c\uc228\uc274 \uad34",
         "definitions": []
     },
@@ -10393,6 +10558,9 @@
         ]
     },
     {
+        "character": "\u5ee5",
+        "pronunciation": "\uad34",
+        "stroke_count": "16",
         "names": "\uc5ec\ubb3c\uad11 \uad34",
         "definitions": []
     },
@@ -10478,6 +10646,9 @@
         ]
     },
     {
+        "character": "\u749d",
+        "pronunciation": "\uad34",
+        "stroke_count": "16",
         "names": "\uc625\ub3cc \uad34",
         "definitions": []
     },
@@ -10493,6 +10664,9 @@
         ]
     },
     {
+        "character": "\u8958",
+        "pronunciation": "\uad34",
+        "stroke_count": "19",
         "names": "\ub760\ub9e4\ub4ed \uad34",
         "definitions": []
     },
@@ -10799,6 +10973,9 @@
         ]
     },
     {
+        "character": "\u5604",
+        "pronunciation": "\uad50",
+        "stroke_count": "14",
         "names": "\ubd80\ub974\uc9d6\uc744 \uad50",
         "definitions": []
     },
@@ -10985,10 +11162,16 @@
         ]
     },
     {
+        "character": "\u6648",
+        "pronunciation": "\uad50",
+        "stroke_count": "10",
         "names": "\ub2ec \ubc1d\uc744 \uad50",
         "definitions": []
     },
     {
+        "character": "\u669e",
+        "pronunciation": "\uad50",
+        "stroke_count": "14",
         "names": "\ubc1d\uc744 \uad50",
         "definitions": []
     },
@@ -11227,6 +11410,9 @@
         ]
     },
     {
+        "character": "\u97bd",
+        "pronunciation": "\uad50",
+        "stroke_count": "21",
         "names": "\uc2e0 \uad50",
         "definitions": []
     },
@@ -11466,10 +11652,16 @@
         ]
     },
     {
+        "character": "\u52b6",
+        "pronunciation": "\uad6c",
+        "stroke_count": "8",
         "names": "\ubd80\uc9c0\ub7f0\ud560 \uad6c",
         "definitions": []
     },
     {
+        "character": "\u52fc",
+        "pronunciation": "\uad6c",
+        "stroke_count": "4",
         "names": "\ubaa8\uc744 \uad6c",
         "definitions": []
     },
@@ -11486,6 +11678,9 @@
         ]
     },
     {
+        "character": "\u5313",
+        "pronunciation": "\uad6c",
+        "stroke_count": "13",
         "names": "\ubc30\ubd88\ub7ec \uc2eb\uc744 \uad6c",
         "definitions": []
     },
@@ -11500,6 +11695,9 @@
         "definitions": []
     },
     {
+        "character": "\u5336",
+        "pronunciation": "\uad6c",
+        "stroke_count": "19",
         "names": "\u67e9\uc758 \u53e4\u5b57",
         "definitions": []
     },
@@ -11634,6 +11832,9 @@
         ]
     },
     {
+        "character": "\u5778",
+        "pronunciation": "\uad6c",
+        "stroke_count": "8",
         "names": "\u57a2\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -12200,6 +12401,9 @@
         ]
     },
     {
+        "character": "\u7a9b",
+        "pronunciation": "\uad6c",
+        "stroke_count": "12",
         "names": "\ub178\ub7b5\uc9c8\ud560 \uad6c",
         "definitions": []
     },
@@ -12524,6 +12728,9 @@
         ]
     },
     {
+        "character": "\u97ab",
+        "pronunciation": "\uad6c",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "interrogate, question"
@@ -12752,6 +12959,9 @@
         ]
     },
     {
+        "character": "\u56f6",
+        "pronunciation": "\uad6d",
+        "stroke_count": "8",
         "names": "\u570b\uc758 \u53e4\u5b57",
         "definitions": []
     },
@@ -12882,6 +13092,9 @@
         ]
     },
     {
+        "character": "\u50d2",
+        "pronunciation": "\uad70",
+        "stroke_count": "14",
         "names": "\uad6c\ubd80\ub9b4 \uad70",
         "definitions": []
     },
@@ -12897,10 +13110,16 @@
         ]
     },
     {
+        "character": "\u6343",
+        "pronunciation": "\uad70",
+        "stroke_count": "10",
         "names": "\uc8fc\uc6b8 \uad70",
         "definitions": []
     },
     {
+        "character": "\u687e",
+        "pronunciation": "\uad70",
+        "stroke_count": "11",
         "names": "\uace0\uc6a4\ub098\ubb34 \uad70",
         "definitions": []
     },
@@ -13056,6 +13275,9 @@
         ]
     },
     {
+        "character": "\u6dc8",
+        "pronunciation": "\uad74",
+        "stroke_count": "11",
         "names": "\ud750\ub9b4 \uad74",
         "definitions": []
     },
@@ -13085,6 +13307,9 @@
         ]
     },
     {
+        "character": "\u5311",
+        "pronunciation": "\uad81",
+        "stroke_count": "12",
         "names": "\uacf5\uc190\ud560 \uad81",
         "definitions": []
     },
@@ -13374,6 +13599,9 @@
         ]
     },
     {
+        "character": "\u6dc3",
+        "pronunciation": "\uad8c",
+        "stroke_count": "11",
         "names": "\ubb3c\ub3cc\uc544 \ud750\ub97c \uad8c",
         "definitions": []
     },
@@ -13563,6 +13791,9 @@
         ]
     },
     {
+        "character": "\u5282",
+        "pronunciation": "\uada4",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "chisel for engraving",
@@ -13593,6 +13824,9 @@
         ]
     },
     {
+        "character": "\u53ac",
+        "pronunciation": "\uada4",
+        "stroke_count": "14",
         "names": "\ubaa9\ub9c8\ub97c \uada4",
         "definitions": []
     },
@@ -13646,6 +13880,9 @@
         ]
     },
     {
+        "character": "\u6a3b",
+        "pronunciation": "\uada4",
+        "stroke_count": "16",
         "names": "\uac00\ub9c8\ud14c\ub098\ubb34 \uada4",
         "definitions": []
     },
@@ -13892,6 +14129,9 @@
         ]
     },
     {
+        "character": "\u6af7",
+        "pronunciation": "\uadc0",
+        "stroke_count": "22",
         "names": "\ub290\ud2f0\ub098\ubb34 \uadc0",
         "definitions": []
     },
@@ -13978,6 +14218,9 @@
         ]
     },
     {
+        "character": "\u4e63",
+        "pronunciation": "\uaddc",
+        "stroke_count": "4",
         "names": "\u7cfa\uc758 \u8b4c\u5b57",
         "definitions": []
     },
@@ -14040,6 +14283,9 @@
         ]
     },
     {
+        "character": "\u5ae2",
+        "pronunciation": "\uaddc",
+        "stroke_count": "14",
         "names": "\uac00\ub294 \ud5c8\ub9ac \uaddc",
         "definitions": []
     },
@@ -14093,6 +14339,9 @@
         ]
     },
     {
+        "character": "\u694f",
+        "pronunciation": "\uaddc",
+        "stroke_count": "13",
         "names": "\ud638\ubbf8\uc790\ub8e8 \uaddc",
         "definitions": []
     },
@@ -14475,6 +14724,9 @@
         ]
     },
     {
+        "character": "\u9e8f",
+        "pronunciation": "\uade0",
+        "stroke_count": "18",
         "names": "\uace0\ub77c\ub2c8 \uade0",
         "definitions": []
     },
@@ -14572,6 +14824,9 @@
         ]
     },
     {
+        "character": "\u52c0",
+        "pronunciation": "\uadf9",
+        "stroke_count": "9",
         "names": "\uc774\uae38 \uadf9",
         "definitions": []
     },
@@ -14772,6 +15027,9 @@
         ]
     },
     {
+        "character": "\u5df9",
+        "pronunciation": "\uadfc",
+        "stroke_count": "9",
         "names": "\ubc1b\ub4e4 \uadfc",
         "definitions": []
     },
@@ -14837,6 +15095,9 @@
         ]
     },
     {
+        "character": "\u6f0c",
+        "pronunciation": "\uadfc",
+        "stroke_count": "14",
         "names": "\ub9d1\uc744 \uadfc",
         "definitions": []
     },
@@ -14958,6 +15219,9 @@
         ]
     },
     {
+        "character": "\u91ff",
+        "pronunciation": "\uadfc",
+        "stroke_count": "12",
         "names": "\ub300\ud328 \uadfc",
         "definitions": []
     },
@@ -15019,6 +15283,9 @@
         ]
     },
     {
+        "character": "\u50f8",
+        "pronunciation": "\uae08",
+        "stroke_count": "15",
         "names": "\uc6b0\ub7ec\ub97c \uae08",
         "definitions": []
     },
@@ -15035,6 +15302,9 @@
         ]
     },
     {
+        "character": "\u53bc",
+        "pronunciation": "\uae08",
+        "stroke_count": "5",
         "names": [],
         "definitions": [
             "kwukyel"
@@ -15166,6 +15436,9 @@
         ]
     },
     {
+        "character": "\u7b12",
+        "pronunciation": "\uae08",
+        "stroke_count": "10",
         "names": "\ucca8\ub300 \uae08",
         "definitions": []
     },
@@ -15239,6 +15512,9 @@
         ]
     },
     {
+        "character": "\u9ec5",
+        "pronunciation": "\uae08",
+        "stroke_count": "16",
         "names": "\ub204\ub978 \ube5b \uae08",
         "definitions": []
     },
@@ -15366,6 +15642,9 @@
         ]
     },
     {
+        "character": "\u790f",
+        "pronunciation": "\uae09",
+        "stroke_count": "18",
         "names": "\uc0b0 \ub192\uc740 \ubaa8\uc591 \uae09",
         "definitions": []
     },
@@ -15589,14 +15868,23 @@
         ]
     },
     {
+        "character": "\u501b",
+        "pronunciation": "\uae30",
+        "stroke_count": "10",
         "names": "\ud0c8 \uae30",
         "definitions": []
     },
     {
+        "character": "\u50db",
+        "pronunciation": "\uae30",
+        "stroke_count": "14",
         "names": "\ucde8\ud558\uc5ec \ucda4\ucd94\ub294 \ubaa8\uc591 \uae30",
         "definitions": []
     },
     {
+        "character": "\u50df",
+        "pronunciation": "\uae30",
+        "stroke_count": "14",
         "names": "\uc0bc\uac08 \uae30",
         "definitions": []
     },
@@ -15626,6 +15914,9 @@
         ]
     },
     {
+        "character": "\u520f",
+        "pronunciation": "\uae30",
+        "stroke_count": "6",
         "names": "\ucc0c\ub97c \uae30",
         "definitions": []
     },
@@ -15654,6 +15945,9 @@
         ]
     },
     {
+        "character": "\u552d",
+        "pronunciation": "\uae30",
+        "stroke_count": "11",
         "names": "\ub4e3\uc9c0\ub3c4 \ubcf4\uc9c0\ub3c4 \uc54a\uc744 \uae30",
         "definitions": []
     },
@@ -15924,6 +16218,9 @@
         ]
     },
     {
+        "character": "\u612d",
+        "pronunciation": "\uae30",
+        "stroke_count": "13",
         "names": "\uacf5\uc190\ud560 \uae30",
         "definitions": []
     },
@@ -16013,10 +16310,16 @@
         ]
     },
     {
+        "character": "\u66a3",
+        "pronunciation": "\uae30",
+        "stroke_count": "14",
         "names": "\ubcd5\uae30\uc6b4 \uae30",
         "definitions": []
     },
     {
+        "character": "\u66a8",
+        "pronunciation": "\uae30",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "and",
@@ -16226,6 +16529,9 @@
         ]
     },
     {
+        "character": "\u7309",
+        "pronunciation": "\uae30",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
@@ -16425,6 +16731,9 @@
         ]
     },
     {
+        "character": "\u7da5",
+        "pronunciation": "\uae30",
+        "stroke_count": "14",
         "names": "\ube44\ub2e8 \uc465\uc0c9 \uae30",
         "definitions": []
     },
@@ -16556,10 +16865,16 @@
         ]
     },
     {
+        "character": "\u8641",
+        "pronunciation": "\uae30",
+        "stroke_count": "25",
         "names": "\u5914\uc640 \u540c\u5b57",
         "definitions": []
     },
     {
+        "character": "\u871d",
+        "pronunciation": "\uae30",
+        "stroke_count": "14",
         "names": "\ubc29\uacc4 \uae30",
         "definitions": []
     },
@@ -16705,6 +17020,9 @@
         ]
     },
     {
+        "character": "\u9691",
+        "pronunciation": "\uae30",
+        "stroke_count": "13",
         "names": "\uc0ac\ub2e5\ub2e4\ub9ac \uae30",
         "definitions": []
     },
@@ -16816,6 +17134,9 @@
         ]
     },
     {
+        "character": "\u9ed6",
+        "pronunciation": "\uae30",
+        "stroke_count": "16",
         "names": "\ubb3c\uac74 \uc0dd\uaca8\ub0a0 \uae30",
         "definitions": []
     },
@@ -16940,6 +17261,9 @@
         ]
     },
     {
+        "character": "\u5370",
+        "pronunciation": "\ub04b",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "print, seal, stamp, chop, mark"
@@ -17064,10 +17388,16 @@
         ]
     },
     {
+        "character": "\u689b",
+        "pronunciation": "\ub098",
+        "stroke_count": "11",
         "names": "\ub098\ubb34 \uc774\ub984 \ub098",
         "definitions": []
     },
     {
+        "character": "\u7ce5",
+        "pronunciation": "\ub098",
+        "stroke_count": "18",
         "names": "\u7cef\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -17361,6 +17691,9 @@
         ]
     },
     {
+        "character": "\u7157",
+        "pronunciation": "\ub09c",
+        "stroke_count": "13",
         "names": "\ud130\uc6b8 \ub09c",
         "definitions": []
     },
@@ -17566,6 +17899,9 @@
         ]
     },
     {
+        "character": "\u6e73",
+        "pronunciation": "\ub0a8",
+        "stroke_count": "12",
         "names": "\uac15 \uc774\ub984 \ub0a8",
         "definitions": []
     },
@@ -17716,6 +18052,9 @@
         ]
     },
     {
+        "character": "\u56a2",
+        "pronunciation": "\ub0ad",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "bag, purse, sack",
@@ -17844,6 +18183,9 @@
         ]
     },
     {
+        "character": "\u5185",
+        "pronunciation": "\ub0b4",
+        "stroke_count": "4",
         "names": [],
         "definitions": [
             "inside"
@@ -18079,6 +18421,9 @@
         ]
     },
     {
+        "character": "\u56d3",
+        "pronunciation": "\ub148",
+        "stroke_count": "24",
         "names": [],
         "definitions": [
             "gnaw"
@@ -18941,6 +19286,9 @@
         ]
     },
     {
+        "character": "\u5542",
+        "pronunciation": "\ub1e8",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
@@ -19188,6 +19536,9 @@
         ]
     },
     {
+        "character": "\u5450",
+        "pronunciation": "\ub20c",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "raise voice, yell out loud, shout",
@@ -19256,6 +19607,9 @@
         ]
     },
     {
+        "character": "\u9775",
+        "pronunciation": "\ub274",
+        "stroke_count": "13",
         "names": "\ub2e8\ucd94 \ub274",
         "definitions": []
     },
@@ -19615,6 +19969,9 @@
         ]
     },
     {
+        "character": "\u526c",
+        "pronunciation": "\ub2e8",
+        "stroke_count": "11",
         "names": "\ub2e8\uc815\ud560 \ub2e8",
         "definitions": []
     },
@@ -19641,6 +19998,9 @@
         ]
     },
     {
+        "character": "\u5330",
+        "pronunciation": "\ub2e8",
+        "stroke_count": "14",
         "names": "\uc2e0\uc8fc\ub3c5 \ub2e8",
         "definitions": []
     },
@@ -19669,6 +20029,9 @@
         ]
     },
     {
+        "character": "\u550c",
+        "pronunciation": "\ub2e8",
+        "stroke_count": "10",
         "names": "\ucc38\uc18c\ub9ac \ub2e8",
         "definitions": []
     },
@@ -19849,6 +20212,9 @@
         ]
     },
     {
+        "character": "\u6fbe",
+        "pronunciation": "\ub2e8",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "slippery, smooth"
@@ -19951,6 +20317,9 @@
         ]
     },
     {
+        "character": "\u7e01",
+        "pronunciation": "\ub2e8",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "hem"
@@ -20064,6 +20433,9 @@
         ]
     },
     {
+        "character": "\u547e",
+        "pronunciation": "\ub2ec",
+        "stroke_count": "8",
         "names": "\ub9c8\uc8fc \uafb8\uc9d6\uc744 \ub2ec",
         "definitions": []
     },
@@ -20185,6 +20557,9 @@
         ]
     },
     {
+        "character": "\u5013",
+        "pronunciation": "\ub2f4",
+        "stroke_count": "10",
         "names": "\ud3b8\uc548\ud560 \ub2f4",
         "definitions": []
     },
@@ -20227,14 +20602,23 @@
         ]
     },
     {
+        "character": "\u557f",
+        "pronunciation": "\ub2f4",
+        "stroke_count": "12",
         "names": "\ub9ce\uc744 \ub2f4",
         "definitions": []
     },
     {
+        "character": "\u563e",
+        "pronunciation": "\ub2f4",
+        "stroke_count": "15",
         "names": "\ud0d0\ud560 \ub2f4",
         "definitions": []
     },
     {
+        "character": "\u5647",
+        "pronunciation": "\ub2f4",
+        "stroke_count": "15",
         "names": "\uba39\ub294 \ubaa8\uc591 \ub2f4",
         "definitions": []
     },
@@ -20251,6 +20635,9 @@
         ]
     },
     {
+        "character": "\u56aa",
+        "pronunciation": "\ub2f4",
+        "stroke_count": "19",
         "names": "\uba39\uc744 \ub2f4",
         "definitions": []
     },
@@ -20451,6 +20838,9 @@
         ]
     },
     {
+        "character": "\u859d",
+        "pronunciation": "\ub2f4",
+        "stroke_count": "19",
         "names": "\uce58\uc790\ub098\ubb34 \ub2f4",
         "definitions": []
     },
@@ -20527,10 +20917,16 @@
         ]
     },
     {
+        "character": "\u9ef5",
+        "pronunciation": "\ub2f4",
+        "stroke_count": "25",
         "names": "\ubb38\uc2e0\ud560 \ub2f4",
         "definitions": []
     },
     {
+        "character": "\u5312",
+        "pronunciation": "\ub2f5",
+        "stroke_count": "12",
         "names": "\ud3ec\uac24 \ub2f5",
         "definitions": []
     },
@@ -20803,6 +21199,9 @@
         ]
     },
     {
+        "character": "\u7911",
+        "pronunciation": "\ub2f9",
+        "stroke_count": "18",
         "names": "\ubc11\ubc14\ub2e5 \ub2f9",
         "definitions": []
     },
@@ -20963,6 +21362,9 @@
         ]
     },
     {
+        "character": "\u5788",
+        "pronunciation": "\ub300",
+        "stroke_count": "8",
         "names": "\ud130 \ub300",
         "definitions": []
     },
@@ -21036,6 +21438,9 @@
         ]
     },
     {
+        "character": "\u5e2f",
+        "pronunciation": "\ub300",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "belt"
@@ -21100,10 +21505,16 @@
         ]
     },
     {
+        "character": "\u65f2",
+        "pronunciation": "\ub300",
+        "stroke_count": "7",
         "names": "\ud587\ube5b \ub300",
         "definitions": []
     },
     {
+        "character": "\u67b1",
+        "pronunciation": "\ub300",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "a table, desk"
@@ -21132,6 +21543,9 @@
         ]
     },
     {
+        "character": "\u6c4f",
+        "pronunciation": "\ub300",
+        "stroke_count": "6",
         "names": "\uc53b\uc744 \ub300",
         "definitions": []
     },
@@ -21288,6 +21702,9 @@
         ]
     },
     {
+        "character": "\u60ea",
+        "pronunciation": "\ub355",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "ethics"
@@ -21821,6 +22238,9 @@
         ]
     },
     {
+        "character": "\u7977",
+        "pronunciation": "\ub3c4",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "pray",
@@ -22072,6 +22492,9 @@
         ]
     },
     {
+        "character": "\u97b1",
+        "pronunciation": "\ub3c4",
+        "stroke_count": "19",
         "names": "\ub108\uadf8\ub7ec\uc6b8 \ub3c4",
         "definitions": []
     },
@@ -22156,6 +22579,9 @@
         ]
     },
     {
+        "character": "\u6d9c",
+        "pronunciation": "\ub3c5",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "ditch, sluice, gutter, drain"
@@ -22241,6 +22667,9 @@
         ]
     },
     {
+        "character": "\u79c3",
+        "pronunciation": "\ub3c5",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "bald"
@@ -22307,6 +22736,9 @@
         ]
     },
     {
+        "character": "\u4f05",
+        "pronunciation": "\ub3c8",
+        "stroke_count": "6",
         "names": "\uc5b4\ub450\uc6b8 \ub3c8",
         "definitions": []
     },
@@ -22401,6 +22833,9 @@
         ]
     },
     {
+        "character": "\u6f61",
+        "pronunciation": "\ub3c8",
+        "stroke_count": "15",
         "names": "\ud070 \ubb3c \ub3c8",
         "definitions": []
     },
@@ -22428,10 +22863,16 @@
         ]
     },
     {
+        "character": "\u729c",
+        "pronunciation": "\ub3c8",
+        "stroke_count": "16",
         "names": "\ub3c8\ud53c \ub3c8",
         "definitions": []
     },
     {
+        "character": "\u7364",
+        "pronunciation": "\ub3c8",
+        "stroke_count": "15",
         "names": "\ub3c8\ud53c \ub3c8",
         "definitions": []
     },
@@ -22534,6 +22975,9 @@
         ]
     },
     {
+        "character": "\u5817",
+        "pronunciation": "\ub3cc",
+        "stroke_count": "12",
         "names": "\uad74\ub611 \ub3cc",
         "definitions": []
     },
@@ -22574,10 +23018,16 @@
         ]
     },
     {
+        "character": "\u5032",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "10",
         "names": "\uc5b4\ub9ac\uc11d\uc744 \ub3d9",
         "definitions": []
     },
     {
+        "character": "\u5045",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "11",
         "names": "\ud750\ub9ac\uba4d\ud145\ud560 \ub3d9",
         "definitions": []
     },
@@ -22653,10 +23103,16 @@
         ]
     },
     {
+        "character": "\u54c3",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "9",
         "names": "\ud074\ub9d0\ud560 \ub3d9",
         "definitions": []
     },
     {
+        "character": "\u578c",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "9",
         "names": "\ud56d\uc544\ub9ac \ub3d9",
         "definitions": []
     },
@@ -22787,6 +23243,9 @@
         ]
     },
     {
+        "character": "\u70b5",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "9",
         "names": "\ubd88\uaf43 \ub3d9",
         "definitions": []
     },
@@ -22850,10 +23309,16 @@
         ]
     },
     {
+        "character": "\u82f3",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "11",
         "names": "\uaca8\uc6b8\uc0b4\uc774 \ub3d9",
         "definitions": []
     },
     {
+        "character": "\u833c",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "12",
         "names": "\uc3d9\uac13 \ub3d9",
         "definitions": []
     },
@@ -22870,6 +23335,9 @@
         ]
     },
     {
+        "character": "\u856b",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "18",
         "names": "\ud669\ubaa8 \ub3d9",
         "definitions": []
     },
@@ -22907,6 +23375,9 @@
         ]
     },
     {
+        "character": "\u9b97",
+        "pronunciation": "\ub3d9",
+        "stroke_count": "16",
         "names": "\uc804\uc5b4 \ub3d9",
         "definitions": []
     },
@@ -22934,6 +23405,9 @@
         ]
     },
     {
+        "character": "\u4fb8",
+        "pronunciation": "\ub450",
+        "stroke_count": "9",
         "names": "\ub9c8\ub97c \ub450",
         "definitions": []
     },
@@ -22949,6 +23423,9 @@
         ]
     },
     {
+        "character": "\u543a",
+        "pronunciation": "\ub450",
+        "stroke_count": "7",
         "names": "\ub9d0 \ub9ce\uc744 \ub450",
         "definitions": []
     },
@@ -23109,6 +23586,9 @@
         ]
     },
     {
+        "character": "\u8aad",
+        "pronunciation": "\ub450",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "read, study",
@@ -23310,6 +23790,9 @@
         ]
     },
     {
+        "character": "\u4e67",
+        "pronunciation": "\ub458",
+        "stroke_count": "5",
         "names": "\uc74c\uc5ed\uc790 \ub458",
         "definitions": []
     },
@@ -23337,6 +23820,9 @@
         ]
     },
     {
+        "character": "\u58b1",
+        "pronunciation": "\ub4f1",
+        "stroke_count": "15",
         "names": "\uc790\ub4dc\ub77d\uae38 \ub4f1",
         "definitions": []
     },
@@ -23352,6 +23838,9 @@
         ]
     },
     {
+        "character": "\u6729",
+        "pronunciation": "\ub4f1",
+        "stroke_count": "4",
         "names": [],
         "definitions": [
             "kwukyel: rank, grade",
@@ -23465,6 +23954,9 @@
         ]
     },
     {
+        "character": "\u817e",
+        "pronunciation": "\ub4f1",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "fly",
@@ -23547,6 +24039,9 @@
         ]
     },
     {
+        "character": "\u4ebd",
+        "pronunciation": "\ub77c",
+        "stroke_count": "3",
         "names": [],
         "definitions": [
             "kwukyel"
@@ -23588,6 +24083,9 @@
         ]
     },
     {
+        "character": "\u55e0",
+        "pronunciation": "\ub77c",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
@@ -23614,6 +24112,9 @@
         ]
     },
     {
+        "character": "\u66ea",
+        "pronunciation": "\ub77c",
+        "stroke_count": "23",
         "names": "\ub0a0 \ud750\ub9b4 \ub77c",
         "definitions": []
     },
@@ -24089,6 +24590,9 @@
         ]
     },
     {
+        "character": "\u7053",
+        "pronunciation": "\ub780",
+        "stroke_count": "23",
         "names": "\uc801\uc2e4 \ub780",
         "definitions": []
     },
@@ -24245,6 +24749,9 @@
         ]
     },
     {
+        "character": "\u5682",
+        "pronunciation": "\ub78c",
+        "stroke_count": "17",
         "names": "\uba39\uc744 \ub78c",
         "definitions": []
     },
@@ -24425,6 +24932,9 @@
         ]
     },
     {
+        "character": "\u874b",
+        "pronunciation": "\ub78d",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "wax",
@@ -24538,6 +25048,9 @@
         ]
     },
     {
+        "character": "\u7860",
+        "pronunciation": "\ub791",
+        "stroke_count": "12",
         "names": "\ub3cc \ubd80\ub52a\ub294 \uc18c\ub77c \ub791",
         "definitions": []
     },
@@ -24834,6 +25347,9 @@
         ]
     },
     {
+        "character": "\u4fcd",
+        "pronunciation": "\ub7c9",
+        "stroke_count": "9",
         "names": "\u826f\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -24897,6 +25413,9 @@
         ]
     },
     {
+        "character": "\u60a2",
+        "pronunciation": "\ub7c9",
+        "stroke_count": "10",
         "names": "\uc2ac\ud37c\ud560 \ub7c9",
         "definitions": []
     },
@@ -25063,6 +25582,9 @@
         ]
     },
     {
+        "character": "\u87ba",
+        "pronunciation": "\ub808",
+        "stroke_count": "17",
         "names": [],
         "definitions": [
             "spiral shell",
@@ -25071,6 +25593,9 @@
         ]
     },
     {
+        "character": "\u4fa3",
+        "pronunciation": "\ub824",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "companion",
@@ -25090,6 +25615,9 @@
         ]
     },
     {
+        "character": "\u5122",
+        "pronunciation": "\ub824",
+        "stroke_count": "17",
         "names": "\ub9d8\uc5d0 \ud558\uae30 \uc2eb\uc744 \ub824",
         "definitions": []
     },
@@ -25105,6 +25633,9 @@
         ]
     },
     {
+        "character": "\u5215",
+        "pronunciation": "\ub824",
+        "stroke_count": "6",
         "names": "",
         "definitions": []
     },
@@ -25121,6 +25652,9 @@
         ]
     },
     {
+        "character": "\u52f4",
+        "pronunciation": "\ub824",
+        "stroke_count": "17",
         "names": "\ub9c8\uc74c\uc73c\ub85c \ub3c4\uc6b8 \ub824",
         "definitions": []
     },
@@ -25163,6 +25697,9 @@
         ]
     },
     {
+        "character": "\u5415",
+        "pronunciation": "\ub824",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "surname",
@@ -25239,6 +25776,9 @@
         ]
     },
     {
+        "character": "\u650a",
+        "pronunciation": "\ub824",
+        "stroke_count": "19",
         "names": "",
         "definitions": []
     },
@@ -25637,6 +26177,9 @@
         ]
     },
     {
+        "character": "\u8f63",
+        "pronunciation": "\ub825",
+        "stroke_count": "23",
         "names": "\uac08 \ub825",
         "definitions": []
     },
@@ -25663,6 +26206,9 @@
         ]
     },
     {
+        "character": "\u50c6",
+        "pronunciation": "\ub828",
+        "stroke_count": "13",
         "names": "\uc30d\ub465\uc774 \ub828",
         "definitions": []
     },
@@ -25738,6 +26284,9 @@
         ]
     },
     {
+        "character": "\u6312",
+        "pronunciation": "\ub828",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -25824,6 +26373,9 @@
         ]
     },
     {
+        "character": "\u806b",
+        "pronunciation": "\ub828",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "connect, join",
@@ -25904,6 +26456,9 @@
         ]
     },
     {
+        "character": "\u932c",
+        "pronunciation": "\ub828",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "smelt metals"
@@ -26027,10 +26582,16 @@
         ]
     },
     {
+        "character": "\u54f7",
+        "pronunciation": "\ub82c",
+        "stroke_count": "10",
         "names": "\ub2ed \uc6b0\ub294 \uc18c\ub9ac \ub82c",
         "definitions": []
     },
     {
+        "character": "\u623b",
+        "pronunciation": "\ub82c",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "perverse"
@@ -26095,16 +26656,25 @@
         ]
     },
     {
+        "character": "\u98b2",
+        "pronunciation": "\ub82c",
+        "stroke_count": "15",
         "names": "\uc0ac\ub098\uc6b4 \ubc14\ub78c \ub82c",
         "definitions": []
     },
     {
+        "character": "\u4eb7",
+        "pronunciation": "\ub834",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "upright, honorable, honest"
         ]
     },
     {
+        "character": "\u5332",
+        "pronunciation": "\ub834",
+        "stroke_count": "14",
         "names": "\uacbd\ub300 \ub834",
         "definitions": []
     },
@@ -26201,6 +26771,9 @@
         ]
     },
     {
+        "character": "\u78cf",
+        "pronunciation": "\ub834",
+        "stroke_count": "15",
         "names": "\uac70\uce5c \uc22b\ub3cc \ub834",
         "definitions": []
     },
@@ -26216,6 +26789,9 @@
         ]
     },
     {
+        "character": "\u5120",
+        "pronunciation": "\ub835",
+        "stroke_count": "17",
         "names": "\ud48d\uc2e0 \uc883\uc744 \ub835",
         "definitions": []
     },
@@ -26298,6 +26874,9 @@
         ]
     },
     {
+        "character": "\u5464",
+        "pronunciation": "\ub839",
+        "stroke_count": "8",
         "names": "\uc18d\uc0ad\uc77c \ub839",
         "definitions": []
     },
@@ -26324,6 +26903,9 @@
         ]
     },
     {
+        "character": "\u59c8",
+        "pronunciation": "\ub839",
+        "stroke_count": "8",
         "names": "\uacc4\uc9d1 \uc2ac\uae30\ub85c\uc6b8 \ub839",
         "definitions": []
     },
@@ -26428,6 +27010,9 @@
         ]
     },
     {
+        "character": "\u79e2",
+        "pronunciation": "\ub839",
+        "stroke_count": "10",
         "names": "\ubcbc \ucc98\uc74c \uc775\uc744 \ub839",
         "definitions": []
     },
@@ -26585,6 +27170,9 @@
         ]
     },
     {
+        "character": "\u9e77",
+        "pronunciation": "\ub839",
+        "stroke_count": "16",
         "names": "\ub098\uc774 \ub839",
         "definitions": []
     },
@@ -26790,6 +27378,9 @@
         ]
     },
     {
+        "character": "\u56a7",
+        "pronunciation": "\ub85c",
+        "stroke_count": "19",
         "names": "\uc6c3\uc744 \ub85c",
         "definitions": []
     },
@@ -26946,6 +27537,9 @@
         ]
     },
     {
+        "character": "\u7a82",
+        "pronunciation": "\ub85c",
+        "stroke_count": "9",
         "names": "\uc6b0\ub9ac \ub85c",
         "definitions": []
     },
@@ -27055,6 +27649,9 @@
         ]
     },
     {
+        "character": "\u942a",
+        "pronunciation": "\ub85c",
+        "stroke_count": "21",
         "names": "\ubd80\ub808 \ub85c",
         "definitions": []
     },
@@ -27209,6 +27806,9 @@
         ]
     },
     {
+        "character": "\u6e0c",
+        "pronunciation": "\ub85d",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "strain"
@@ -27273,6 +27873,9 @@
         ]
     },
     {
+        "character": "\u7dd1",
+        "pronunciation": "\ub85d",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "green",
@@ -27620,6 +28223,9 @@
         ]
     },
     {
+        "character": "\u790c",
+        "pronunciation": "\ub8b0",
+        "stroke_count": "18",
         "names": "\ub3cc \uad74\ub7ec\ub0b4\ub9b4 \ub8b0",
         "definitions": []
     },
@@ -27777,6 +28383,9 @@
         ]
     },
     {
+        "character": "\u9842",
+        "pronunciation": "\ub8b0",
+        "stroke_count": "17",
         "names": "\ub36e\uc744 \ub8b0",
         "definitions": []
     },
@@ -28049,6 +28658,9 @@
         ]
     },
     {
+        "character": "\u98c9",
+        "pronunciation": "\ub8cc",
+        "stroke_count": "21",
         "names": "\ubc14\ub78c \ub8cc",
         "definitions": []
     },
@@ -28114,6 +28726,9 @@
         ]
     },
     {
+        "character": "\u9f92",
+        "pronunciation": "\ub8e1",
+        "stroke_count": "21",
         "names": "\u9f8d\uc758 \u53e4\u5b57",
         "definitions": []
     },
@@ -28187,6 +28802,9 @@
         ]
     },
     {
+        "character": "\u617a",
+        "pronunciation": "\ub8e8",
+        "stroke_count": "14",
         "names": "\uc815\uc131\uc2a4\ub7ec\uc6b8 \ub8e8",
         "definitions": []
     },
@@ -28213,6 +28831,9 @@
         ]
     },
     {
+        "character": "\u6d99",
+        "pronunciation": "\ub8e8",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "tears",
@@ -28362,6 +28983,9 @@
         ]
     },
     {
+        "character": "\u53bd",
+        "pronunciation": "\ub93c",
+        "stroke_count": "6",
         "names": "\ud759\uc744 \uc313\uc544\uc11c \ub2f4 \uc313\uc744 \ub93c",
         "definitions": []
     },
@@ -28653,6 +29277,9 @@
         ]
     },
     {
+        "character": "\u5279",
+        "pronunciation": "\ub959",
+        "stroke_count": "13",
         "names": "\uae4e\uc744 \ub959",
         "definitions": []
     },
@@ -28715,6 +29342,9 @@
         ]
     },
     {
+        "character": "\u55e7",
+        "pronunciation": "\ub95c",
+        "stroke_count": "13",
         "names": "\uac24\ub7f0 \ub95c",
         "definitions": []
     },
@@ -29048,10 +29678,16 @@
         ]
     },
     {
+        "character": "\u6f9f",
+        "pronunciation": "\ub984",
+        "stroke_count": "16",
         "names": "\uc11c\ub298\ud560 \ub984",
         "definitions": []
     },
     {
+        "character": "\u5030",
+        "pronunciation": "\ub989",
+        "stroke_count": "10",
         "names": "\uc18d\uc77c \ub989",
         "definitions": []
     },
@@ -29174,6 +29810,9 @@
         ]
     },
     {
+        "character": "\u5215",
+        "pronunciation": "\ub9ac",
+        "stroke_count": "6",
         "names": "\ubca8 \ub9ac",
         "definitions": []
     },
@@ -29189,6 +29828,9 @@
         ]
     },
     {
+        "character": "\u5253",
+        "pronunciation": "\ub9ac",
+        "stroke_count": "10",
         "names": "\ubc43\uae38 \ub9ac",
         "definitions": []
     },
@@ -29678,6 +30320,9 @@
         ]
     },
     {
+        "character": "\u53b8",
+        "pronunciation": "\ub9b0",
+        "stroke_count": "4",
         "names": "\u9130\uc758 \u53e4\u5b57",
         "definitions": []
     },
@@ -29738,6 +30383,9 @@
         ]
     },
     {
+        "character": "\u735c",
+        "pronunciation": "\ub9b0",
+        "stroke_count": "15",
         "names": "\ud2bc\ud2bc\ud560 \ub9b0",
         "definitions": []
     },
@@ -29776,10 +30424,16 @@
         ]
     },
     {
+        "character": "\u7cbc",
+        "pronunciation": "\ub9b0",
+        "stroke_count": "14",
         "names": "\ubb3c \ub9d1\uc744 \ub9b0",
         "definitions": []
     },
     {
+        "character": "\u7e57",
+        "pronunciation": "\ub9b0",
+        "stroke_count": "18",
         "names": "\uc774\uc744 \ub9b0",
         "definitions": []
     },
@@ -29866,6 +30520,9 @@
         ]
     },
     {
+        "character": "\u9a4e",
+        "pronunciation": "\ub9b0",
+        "stroke_count": "22",
         "names": "\uc6cc\ub77c\ub9d0 \ub9b0",
         "definitions": []
     },
@@ -29963,6 +30620,9 @@
         ]
     },
     {
+        "character": "\u5ca6",
+        "pronunciation": "\ub9bd",
+        "stroke_count": "8",
         "names": "\uc0b0 \uc6b0\ub69d\ud560 \ub9bd",
         "definitions": []
     },
@@ -30265,6 +30925,9 @@
         ]
     },
     {
+        "character": "\u55fc",
+        "pronunciation": "\ub9c9",
+        "stroke_count": "14",
         "names": "\uace0\uc694\ud560 \ub9c9",
         "definitions": []
     },
@@ -30303,6 +30966,9 @@
         ]
     },
     {
+        "character": "\u7799",
+        "pronunciation": "\ub9c9",
+        "stroke_count": "16",
         "names": "\ub208 \ud750\ub9b4 \ub9c9",
         "definitions": []
     },
@@ -30399,6 +31065,9 @@
         ]
     },
     {
+        "character": "\u5350",
+        "pronunciation": "\ub9cc",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "swastika fourth of auspicious"
@@ -30498,6 +31167,9 @@
         ]
     },
     {
+        "character": "\u665a",
+        "pronunciation": "\ub9cc",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "night, evening",
@@ -30670,6 +31342,9 @@
         ]
     },
     {
+        "character": "\u93cb",
+        "pronunciation": "\ub9cc",
+        "stroke_count": "19",
         "names": "\uae08 \ub9cc",
         "definitions": []
     },
@@ -30731,6 +31406,9 @@
         ]
     },
     {
+        "character": "\u551c",
+        "pronunciation": "\ub9d0",
+        "stroke_count": "10",
         "names": "\ub04c \ub9d0",
         "definitions": []
     },
@@ -30839,6 +31517,9 @@
         ]
     },
     {
+        "character": "\u4ebe",
+        "pronunciation": "\ub9dd",
+        "stroke_count": "3",
         "names": [],
         "definitions": [
             "death, destroyed",
@@ -30929,6 +31610,9 @@
         ]
     },
     {
+        "character": "\u6c52",
+        "pronunciation": "\ub9dd",
+        "stroke_count": "6",
         "names": "\ud669\uae09\ud560 \ub9dd",
         "definitions": []
     },
@@ -31005,6 +31689,9 @@
         ]
     },
     {
+        "character": "\u83be",
+        "pronunciation": "\ub9dd",
+        "stroke_count": "14",
         "names": "\ub9c8\ub514 \uc9e7\uc740 \ub300 \ub9dd",
         "definitions": []
     },
@@ -31217,6 +31904,9 @@
         ]
     },
     {
+        "character": "\u6bce",
+        "pronunciation": "\ub9e4",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "every"
@@ -31433,6 +32123,9 @@
         ]
     },
     {
+        "character": "\u8c83",
+        "pronunciation": "\ub9e5",
+        "stroke_count": "12",
         "names": "\uc624\ub791\uce90 \ub9e5",
         "definitions": []
     },
@@ -31591,10 +32284,16 @@
         ]
     },
     {
+        "character": "\u77c3",
+        "pronunciation": "\uba4b",
+        "stroke_count": "19",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u511a",
+        "pronunciation": "\uba4d",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "(J) equivalent to \u679c\u6562 U+679C U+6562, fleeting, momentary, ephemeral",
@@ -31603,18 +32302,27 @@
         ]
     },
     {
+        "character": "\u750d",
+        "pronunciation": "\uba4d",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "rafters supporting roof tiles"
         ]
     },
     {
+        "character": "\u753f",
+        "pronunciation": "\uba4d",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "farming population"
         ]
     },
     {
+        "character": "\u867b",
+        "pronunciation": "\uba4d",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "horsefly, gadfly"
@@ -31833,6 +32541,9 @@
         ]
     },
     {
+        "character": "\u7cc6",
+        "pronunciation": "\uba74",
+        "stroke_count": "15",
         "names": "\u9eaa\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -31911,6 +32622,9 @@
         ]
     },
     {
+        "character": "\u9eba",
+        "pronunciation": "\uba74",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "flour, dough, noodles"
@@ -32184,6 +32898,9 @@
         ]
     },
     {
+        "character": "\u5183",
+        "pronunciation": "\ubaa8",
+        "stroke_count": "4",
         "names": "\uc5b4\ub9b0\uc774 \uba38\ub9ac \uac74 \ubaa8",
         "definitions": []
     },
@@ -32258,6 +32975,9 @@
         ]
     },
     {
+        "character": "\u5aeb",
+        "pronunciation": "\ubaa8",
+        "stroke_count": "14",
         "names": "\uc608\uc060 \ubaa8",
         "definitions": []
     },
@@ -32274,6 +32994,9 @@
         ]
     },
     {
+        "character": "\u6048",
+        "pronunciation": "\ubaa8",
+        "stroke_count": "9",
         "names": "\ud0d0\ud560 \ubaa8",
         "definitions": []
     },
@@ -32822,6 +33545,9 @@
         ]
     },
     {
+        "character": "\u6b81",
+        "pronunciation": "\ubab0",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "die",
@@ -32842,6 +33568,9 @@
         ]
     },
     {
+        "character": "\u51a1",
+        "pronunciation": "\ubabd",
+        "stroke_count": "10",
         "names": "\ub36e\uc5b4\uc4f8 \ubabd",
         "definitions": []
     },
@@ -32871,6 +33600,9 @@
         ]
     },
     {
+        "character": "\u61de",
+        "pronunciation": "\ubabd",
+        "stroke_count": "17",
         "names": "\uc5b4\ub450\uc6b8 \ubabd",
         "definitions": []
     },
@@ -32897,6 +33629,9 @@
         ]
     },
     {
+        "character": "\u6e95",
+        "pronunciation": "\ubabd",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
@@ -32961,10 +33696,16 @@
         ]
     },
     {
+        "character": "\u96fa",
+        "pronunciation": "\ubabd",
+        "stroke_count": "13",
         "names": "\uc548\uac1c \ubabd",
         "definitions": []
     },
     {
+        "character": "\u9e0f",
+        "pronunciation": "\ubabd",
+        "stroke_count": "25",
         "names": "\ube44\ub458\uae30 \ubabd",
         "definitions": []
     },
@@ -33117,6 +33858,9 @@
         ]
     },
     {
+        "character": "\u7ad7",
+        "pronunciation": "\ubb18",
+        "stroke_count": "9",
         "names": "\ub545 \uc774\ub984 \ubb18",
         "definitions": []
     },
@@ -33191,6 +33935,9 @@
         ]
     },
     {
+        "character": "\u4ebe",
+        "pronunciation": "\ubb34",
+        "stroke_count": "3",
         "names": [],
         "definitions": [
             "death, destroyed",
@@ -33421,6 +34168,9 @@
         ]
     },
     {
+        "character": "\u756e",
+        "pronunciation": "\ubb34",
+        "stroke_count": "12",
         "names": "\u755d\uc758 \u6b63\u5b57",
         "definitions": []
     },
@@ -33754,6 +34504,9 @@
         ]
     },
     {
+        "character": "\u6097",
+        "pronunciation": "\ubb38",
+        "stroke_count": "10",
         "names": "\uc78a\uc5b4\ubc84\ub9b4 \ubb38",
         "definitions": []
     },
@@ -33950,6 +34703,9 @@
         ]
     },
     {
+        "character": "\u8b2c",
+        "pronunciation": "\ubbc0",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "error, exaggeration",
@@ -34046,6 +34802,9 @@
         ]
     },
     {
+        "character": "\u5a84",
+        "pronunciation": "\ubbf8",
+        "stroke_count": "12",
         "names": "\ube5b \uace0\uc6b8 \ubbf8",
         "definitions": []
     },
@@ -34329,10 +35088,16 @@
         ]
     },
     {
+        "character": "\u82ff",
+        "pronunciation": "\ubbf8",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u83cb",
+        "pronunciation": "\ubbf8",
+        "stroke_count": "14",
         "names": "\uc624\ubbf8\uc790 \ubbf8",
         "definitions": []
     },
@@ -34421,6 +35186,9 @@
         ]
     },
     {
+        "character": "\u50f6",
+        "pronunciation": "\ubbfc",
+        "stroke_count": "15",
         "names": "\uc5b4\uac70\uc9c0\ub85c \ud560 \ubbfc",
         "definitions": []
     },
@@ -34449,6 +35217,9 @@
         ]
     },
     {
+        "character": "\u5fde",
+        "pronunciation": "\ubbfc",
+        "stroke_count": "8",
         "names": "\uac15\uc778\ud560 \ubbfc",
         "definitions": []
     },
@@ -34638,6 +35409,9 @@
         ]
     },
     {
+        "character": "\u82e0",
+        "pronunciation": "\ubbfc",
+        "stroke_count": "11",
         "names": "\uc18d\ub300 \ubbfc",
         "definitions": []
     },
@@ -34725,6 +35499,9 @@
         ]
     },
     {
+        "character": "\u6ef5",
+        "pronunciation": "\ubc00",
+        "stroke_count": "14",
         "names": "\ubb3c \ud750\ub974\ub294 \ubaa8\uc591 \ubc00",
         "definitions": []
     },
@@ -34777,6 +35554,9 @@
         ]
     },
     {
+        "character": "\u5265",
+        "pronunciation": "\ubc15",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "peel"
@@ -34869,6 +35649,9 @@
         ]
     },
     {
+        "character": "\u6b02",
+        "pronunciation": "\ubc15",
+        "stroke_count": "21",
         "names": "\uc8fc\ub450 \ubc15",
         "definitions": []
     },
@@ -35142,6 +35925,9 @@
         ]
     },
     {
+        "character": "\u51b8",
+        "pronunciation": "\ubc18",
+        "stroke_count": "7",
         "names": "\ub179\uc744 \ubc18",
         "definitions": []
     },
@@ -35239,6 +36025,9 @@
         ]
     },
     {
+        "character": "\u642b",
+        "pronunciation": "\ubc18",
+        "stroke_count": "14",
         "names": "\ub35c \ubc18",
         "definitions": []
     },
@@ -35267,6 +36056,9 @@
         ]
     },
     {
+        "character": "\u653d",
+        "pronunciation": "\ubc18",
+        "stroke_count": "8",
         "names": "\ub098\ub20c \ubc18",
         "definitions": []
     },
@@ -35610,10 +36402,16 @@
         ]
     },
     {
+        "character": "\u54f1",
+        "pronunciation": "\ubc1c",
+        "stroke_count": "10",
         "names": "\uc5b4\uc9c0\ub7ec\uc6b8 \ubc1c",
         "definitions": []
     },
     {
+        "character": "\u5f42",
+        "pronunciation": "\ubc1c",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "issue, dispatch, send out, emit"
@@ -35631,6 +36429,9 @@
         ]
     },
     {
+        "character": "\u629c",
+        "pronunciation": "\ubc1c",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "uproot, pull out"
@@ -35648,6 +36449,9 @@
         ]
     },
     {
+        "character": "\u62e8",
+        "pronunciation": "\ubc1c",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "move",
@@ -35670,6 +36474,9 @@
         ]
     },
     {
+        "character": "\u6d4c",
+        "pronunciation": "\ubc1c",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -35699,6 +36506,9 @@
         ]
     },
     {
+        "character": "\u6e8c",
+        "pronunciation": "\ubc1c",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "pour, splash, water, sprinkle"
@@ -35773,6 +36583,9 @@
         ]
     },
     {
+        "character": "\u9197",
+        "pronunciation": "\ubc1c",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "to brew for the second time"
@@ -35974,6 +36787,9 @@
         ]
     },
     {
+        "character": "\u5e5a",
+        "pronunciation": "\ubc29",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "help, assist",
@@ -36091,6 +36907,9 @@
         ]
     },
     {
+        "character": "\u65ca",
+        "pronunciation": "\ubc29",
+        "stroke_count": "10",
         "names": "\uc639\uae30\uc7a5 \ubc29",
         "definitions": []
     },
@@ -36226,6 +37045,9 @@
         ]
     },
     {
+        "character": "\u823d",
+        "pronunciation": "\ubc29",
+        "stroke_count": "12",
         "names": "\ubc30 \ubc29",
         "definitions": []
     },
@@ -36300,6 +37122,9 @@
         ]
     },
     {
+        "character": "\u90a1",
+        "pronunciation": "\ubc29",
+        "stroke_count": "7",
         "names": "\uace0\uc744 \uc774\ub984 \ubc29",
         "definitions": []
     },
@@ -36999,6 +37824,9 @@
         ]
     },
     {
+        "character": "\u8629",
+        "pronunciation": "\ubc88",
+        "stroke_count": "23",
         "names": "\uc0b0\ud770\uc465 \ubc88",
         "definitions": []
     },
@@ -37058,6 +37886,9 @@
         ]
     },
     {
+        "character": "\u6a43",
+        "pronunciation": "\ubc8c",
+        "stroke_count": "16",
         "names": "\ub5bc \ubc8c",
         "definitions": []
     },
@@ -37253,6 +38084,9 @@
         ]
     },
     {
+        "character": "\u8a09",
+        "pronunciation": "\ubc94",
+        "stroke_count": "10",
         "names": "\ub9d0 \ub9ce\uc744 \ubc94",
         "definitions": []
     },
@@ -37291,6 +38125,9 @@
         ]
     },
     {
+        "character": "\u5317",
+        "pronunciation": "\ubca0",
+        "stroke_count": "5",
         "names": [],
         "definitions": [
             "north",
@@ -37299,6 +38136,9 @@
         ]
     },
     {
+        "character": "\u88f5",
+        "pronunciation": "\ubca0",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "surname",
@@ -37306,12 +38146,18 @@
         ]
     },
     {
+        "character": "\u8919",
+        "pronunciation": "\ubca0",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "paper or cloth pasted together"
         ]
     },
     {
+        "character": "\uf963",
+        "pronunciation": "\ubca0",
+        "stroke_count": "5",
         "names": [],
         "definitions": [
             "north",
@@ -37320,6 +38166,9 @@
         ]
     },
     {
+        "character": "\u4f70",
+        "pronunciation": "\ubca1",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "hundred"
@@ -37417,6 +38266,9 @@
         ]
     },
     {
+        "character": "\u7588",
+        "pronunciation": "\ubcbd",
+        "stroke_count": "20",
         "names": "\uac00\ub97c \ubcbd",
         "definitions": []
     },
@@ -37513,10 +38365,16 @@
         ]
     },
     {
+        "character": "\u9dff",
+        "pronunciation": "\ubcbd",
+        "stroke_count": "24",
         "names": "\ub18d\ubcd1\uc544\ub9ac \ubcbd",
         "definitions": []
     },
     {
+        "character": "\u9f0a",
+        "pronunciation": "\ubcbd",
+        "stroke_count": "26",
         "names": "\uac70\ubd81 \ubcbd",
         "definitions": []
     },
@@ -37556,6 +38414,9 @@
         ]
     },
     {
+        "character": "\u53d8",
+        "pronunciation": "\ubcc0",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "change, transform, alter",
@@ -37682,6 +38543,9 @@
         ]
     },
     {
+        "character": "\u8cc6",
+        "pronunciation": "\ubcc0",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
@@ -37697,6 +38561,9 @@
         ]
     },
     {
+        "character": "\u8fae",
+        "pronunciation": "\ubcc0",
+        "stroke_count": "20",
         "names": [],
         "definitions": [
             "braid",
@@ -37715,6 +38582,9 @@
         ]
     },
     {
+        "character": "\u8fb9",
+        "pronunciation": "\ubcc0",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "edge, margin, side, border"
@@ -37779,10 +38649,16 @@
         ]
     },
     {
+        "character": "\u9abf",
+        "pronunciation": "\ubcc0",
+        "stroke_count": "18",
         "names": "\ud1b5\uac08\ube44 \ubcc0",
         "definitions": []
     },
     {
+        "character": "\u9d18",
+        "pronunciation": "\ubcc0",
+        "stroke_count": "16",
         "names": "\ub9e4 \ubcc0",
         "definitions": []
     },
@@ -37937,6 +38813,9 @@
         ]
     },
     {
+        "character": "\u9f9e",
+        "pronunciation": "\ubcc4",
+        "stroke_count": "28",
         "names": [],
         "definitions": [
             "turtle"
@@ -38264,6 +39143,9 @@
         ]
     },
     {
+        "character": "\u9235",
+        "pronunciation": "\ubcd1",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
@@ -38338,6 +39220,9 @@
         ]
     },
     {
+        "character": "\u4fcc",
+        "pronunciation": "\ubcf4",
+        "stroke_count": "9",
         "names": "\ub3c4\uc6b8 \ubcf4",
         "definitions": []
     },
@@ -38480,10 +39365,16 @@
         ]
     },
     {
+        "character": "\u6e7a",
+        "pronunciation": "\ubcf4",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u6f7d",
+        "pronunciation": "\ubcf4",
+        "stroke_count": "15",
         "names": "",
         "definitions": []
     },
@@ -38618,6 +39509,9 @@
         ]
     },
     {
+        "character": "\u974c",
+        "pronunciation": "\ubcf4",
+        "stroke_count": "27",
         "names": "",
         "definitions": []
     },
@@ -38705,6 +39599,9 @@
         ]
     },
     {
+        "character": "\u58a3",
+        "pronunciation": "\ubcf5",
+        "stroke_count": "15",
         "names": "\ud759\ub369\uc774 \ubcf5",
         "definitions": []
     },
@@ -39210,6 +40107,9 @@
         ]
     },
     {
+        "character": "\u71a2",
+        "pronunciation": "\ubd09",
+        "stroke_count": "15",
         "names": "\uc5f0\uae30 \uc790\uc6b1\ud560 \ubd09",
         "definitions": []
     },
@@ -39238,6 +40138,9 @@
         ]
     },
     {
+        "character": "\u7d98",
+        "pronunciation": "\ubd09",
+        "stroke_count": "13",
         "names": "\u7e2b\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -39335,6 +40238,9 @@
         ]
     },
     {
+        "character": "\u9d0c",
+        "pronunciation": "\ubd09",
+        "stroke_count": "15",
         "names": "\u9cf3\uc758 \u53e4\u5b57",
         "definitions": []
     },
@@ -39564,6 +40470,9 @@
         ]
     },
     {
+        "character": "\u5a8d",
+        "pronunciation": "\ubd80",
+        "stroke_count": "12",
         "names": "\u5a66\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -39603,6 +40512,9 @@
         ]
     },
     {
+        "character": "\u5dec",
+        "pronunciation": "\ubd80",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -39731,6 +40643,9 @@
         ]
     },
     {
+        "character": "\u6991",
+        "pronunciation": "\ubd80",
+        "stroke_count": "14",
         "names": "\ubd80\uc0c1 \ubd80",
         "definitions": []
     },
@@ -39817,6 +40732,9 @@
         ]
     },
     {
+        "character": "\u7b5f",
+        "pronunciation": "\ubd80",
+        "stroke_count": "13",
         "names": "\ub300\uccad \ubd80",
         "definitions": []
     },
@@ -39866,6 +40784,9 @@
         ]
     },
     {
+        "character": "\u80d5",
+        "pronunciation": "\ubd80",
+        "stroke_count": "9",
         "names": "\uc7a5\ubd80 \ubd80",
         "definitions": []
     },
@@ -39995,6 +40916,9 @@
         ]
     },
     {
+        "character": "\u889d",
+        "pronunciation": "\ubd80",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
@@ -40490,6 +41414,9 @@
         ]
     },
     {
+        "character": "\u6610",
+        "pronunciation": "\ubd84",
+        "stroke_count": "8",
         "names": "",
         "definitions": []
     },
@@ -40516,6 +41443,9 @@
         ]
     },
     {
+        "character": "\u68fb",
+        "pronunciation": "\ubd84",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "kind of wood from which perfume"
@@ -40625,6 +41555,9 @@
         ]
     },
     {
+        "character": "\u780f",
+        "pronunciation": "\ubd84",
+        "stroke_count": "9",
         "names": "\ud070 \uc18c\ub9ac \ubd84",
         "definitions": []
     },
@@ -40689,6 +41622,9 @@
         ]
     },
     {
+        "character": "\u81b9",
+        "pronunciation": "\ubd84",
+        "stroke_count": "17",
         "names": "\uace0\uae30 \uc0b6\uc740 \uad6d \ubd84",
         "definitions": []
     },
@@ -40777,10 +41713,16 @@
         ]
     },
     {
+        "character": "\u9c5d",
+        "pronunciation": "\ubd84",
+        "stroke_count": "24",
         "names": "\uac00\uc624\ub9ac \ubd84",
         "definitions": []
     },
     {
+        "character": "\u9efa",
+        "pronunciation": "\ubd84",
+        "stroke_count": "16",
         "names": "\uc637\uc5d0 \uc624\uc0c9 \uc218 \ub193\uc744 \ubd84",
         "definitions": []
     },
@@ -40846,6 +41788,9 @@
         ]
     },
     {
+        "character": "\u51b9",
+        "pronunciation": "\ubd88",
+        "stroke_count": "7",
         "names": "\ucc30 \ubd88",
         "definitions": []
     },
@@ -40872,12 +41817,18 @@
         ]
     },
     {
+        "character": "\u580b",
+        "pronunciation": "\ubd88",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "bury"
         ]
     },
     {
+        "character": "\u5caa",
+        "pronunciation": "\ubd88",
+        "stroke_count": "8",
         "names": "\uc0b0\uae38 \ubd88",
         "definitions": []
     },
@@ -40939,6 +41890,9 @@
         ]
     },
     {
+        "character": "\u6f30",
+        "pronunciation": "\ubd88",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "roar"
@@ -41013,6 +41967,9 @@
         ]
     },
     {
+        "character": "\u9b05",
+        "pronunciation": "\ubd88",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "unkempt hair",
@@ -41046,10 +42003,16 @@
         ]
     },
     {
+        "character": "\u5017",
+        "pronunciation": "\ubd95",
+        "stroke_count": "10",
         "names": "\ubd80\ud0c1\ud560 \ubd95",
         "definitions": []
     },
     {
+        "character": "\u50b0",
+        "pronunciation": "\ubd95",
+        "stroke_count": "13",
         "names": "\uc131 \ubd95",
         "definitions": []
     },
@@ -41100,6 +42063,9 @@
         ]
     },
     {
+        "character": "\u7db3",
+        "pronunciation": "\ubd95",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "a cloth to carry an infant on the back",
@@ -41163,6 +42129,9 @@
         ]
     },
     {
+        "character": "\u4ff7",
+        "pronunciation": "\ube44",
+        "stroke_count": "10",
         "names": "\ub4f1\uc9c8 \ube44",
         "definitions": []
     },
@@ -41196,6 +42165,9 @@
         ]
     },
     {
+        "character": "\u5079",
+        "pronunciation": "\ube44",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "prepare, ready, perfect"
@@ -41213,6 +42185,9 @@
         ]
     },
     {
+        "character": "\u5255",
+        "pronunciation": "\ube44",
+        "stroke_count": "10",
         "names": "\ubc1c \ubca8 \ube44",
         "definitions": []
     },
@@ -41252,6 +42227,9 @@
         ]
     },
     {
+        "character": "\u539e",
+        "pronunciation": "\ube44",
+        "stroke_count": "10",
         "names": "\ub354\ub7ec\uc6b8 \ube44",
         "definitions": []
     },
@@ -41281,6 +42259,9 @@
         ]
     },
     {
+        "character": "\u555a",
+        "pronunciation": "\ube44",
+        "stroke_count": "11",
         "names": "\u9119\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -41632,10 +42613,16 @@
         ]
     },
     {
+        "character": "\u6de0",
+        "pronunciation": "\ube44",
+        "stroke_count": "11",
         "names": "\uac15 \uc774\ub984 \ube44",
         "definitions": []
     },
     {
+        "character": "\u6fde",
+        "pronunciation": "\ube44",
+        "stroke_count": "17",
         "names": "\ubb3c \uc18c\ub9ac \ube44",
         "definitions": []
     },
@@ -41904,6 +42891,9 @@
         ]
     },
     {
+        "character": "\u8298",
+        "pronunciation": "\ube44",
+        "stroke_count": "10",
         "names": "\ud480 \uc774\ub984 \ube44",
         "definitions": []
     },
@@ -42069,6 +43059,9 @@
         ]
     },
     {
+        "character": "\u90eb",
+        "pronunciation": "\ube44",
+        "stroke_count": "11",
         "names": "\uace0\uc744 \uc774\ub984 \ube44",
         "definitions": []
     },
@@ -42169,6 +43162,9 @@
         ]
     },
     {
+        "character": "\u9a1b",
+        "pronunciation": "\ube44",
+        "stroke_count": "19",
         "names": "\ube60\ub978 \ub9d0 \ube44",
         "definitions": []
     },
@@ -42383,6 +43379,9 @@
         ]
     },
     {
+        "character": "\u73ad",
+        "pronunciation": "\ube48",
+        "stroke_count": "8",
         "names": "\uad6c\uc2ac \uc774\ub984 \ube48",
         "definitions": []
     },
@@ -42502,6 +43501,9 @@
         ]
     },
     {
+        "character": "\u9726",
+        "pronunciation": "\ube48",
+        "stroke_count": "19",
         "names": "\uc625 \uad11\ucc44 \ube48",
         "definitions": []
     },
@@ -42679,6 +43681,9 @@
         ]
     },
     {
+        "character": "\u517a",
+        "pronunciation": "\ubfd0",
+        "stroke_count": "10",
         "names": "\uadf8 \ubfd0",
         "definitions": []
     },
@@ -42694,6 +43699,9 @@
         ]
     },
     {
+        "character": "\u4e8a",
+        "pronunciation": "\uc0ac",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "affair, matter, business",
@@ -42808,6 +43816,9 @@
         ]
     },
     {
+        "character": "\u5033",
+        "pronunciation": "\uc0ac",
+        "stroke_count": "10",
         "names": "\ucc0c\ub97c \uc0ac",
         "definitions": []
     },
@@ -43202,6 +44213,9 @@
         ]
     },
     {
+        "character": "\u67e5",
+        "pronunciation": "\uc0ac",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "investigate, examine, seek into"
@@ -43337,6 +44351,9 @@
         ]
     },
     {
+        "character": "\u707c",
+        "pronunciation": "\uc0ac",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "burn",
@@ -43358,6 +44375,9 @@
         ]
     },
     {
+        "character": "\u732e",
+        "pronunciation": "\uc0ac",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "offer, present",
@@ -43400,6 +44420,9 @@
         ]
     },
     {
+        "character": "\u76b6",
+        "pronunciation": "\uc0ac",
+        "stroke_count": "14",
         "names": "",
         "definitions": []
     },
@@ -43510,6 +44533,9 @@
         ]
     },
     {
+        "character": "\u7c14",
+        "pronunciation": "\uc0ac",
+        "stroke_count": "17",
         "names": [],
         "definitions": [
             "a coat raincoat"
@@ -43554,6 +44580,9 @@
         ]
     },
     {
+        "character": "\u7f37",
+        "pronunciation": "\uc0ac",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "lay down",
@@ -44053,6 +45082,9 @@
         ]
     },
     {
+        "character": "\u5334",
+        "pronunciation": "\uc0b0",
+        "stroke_count": "16",
         "names": "\uad00\uc0c1\uc790 \uc0b0",
         "definitions": []
     },
@@ -44152,6 +45184,9 @@
         ]
     },
     {
+        "character": "\u6f98",
+        "pronunciation": "\uc0b0",
+        "stroke_count": "15",
         "names": "\u6f78\uc758 \u7565\u5b57",
         "definitions": []
     },
@@ -44245,6 +45280,9 @@
         ]
     },
     {
+        "character": "\u8644",
+        "pronunciation": "\uc0b0",
+        "stroke_count": "26",
         "names": "",
         "definitions": []
     },
@@ -44321,6 +45359,9 @@
         ]
     },
     {
+        "character": "\u4e77",
+        "pronunciation": "\uc0b4",
+        "stroke_count": "8",
         "names": "\uc74c\uc5ed\uc790 \uc0b4",
         "definitions": []
     },
@@ -44445,6 +45486,9 @@
         ]
     },
     {
+        "character": "\u5607",
+        "pronunciation": "\uc0bc",
+        "stroke_count": "14",
         "names": "\uba38\uae08\uc744 \uc0bc",
         "definitions": []
     },
@@ -44568,6 +45612,9 @@
         ]
     },
     {
+        "character": "\u505b",
+        "pronunciation": "\uc0bd",
+        "stroke_count": "11",
         "names": "\ud0a4\uc791\uc744 \uc0bd",
         "definitions": []
     },
@@ -44605,6 +45652,9 @@
         ]
     },
     {
+        "character": "\u5551",
+        "pronunciation": "\uc0bd",
+        "stroke_count": "11",
         "names": "\uc624\ub9ac\uac00 \ud141\uc11d\ud141\uc11d \uba39\uc744 \uc0bd",
         "definitions": []
     },
@@ -44768,6 +45818,9 @@
         ]
     },
     {
+        "character": "\u4e04",
+        "pronunciation": "\uc0c1",
+        "stroke_count": "2",
         "names": [],
         "definitions": [
             "above"
@@ -44856,6 +45909,9 @@
         ]
     },
     {
+        "character": "\u54cd",
+        "pronunciation": "\uc0c1",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "make sound, make noise",
@@ -45309,6 +46365,9 @@
         ]
     },
     {
+        "character": "\u939f",
+        "pronunciation": "\uc0c1",
+        "stroke_count": "18",
         "names": "\ubc29\uc6b8\uc18c\ub9ac \uc0c1",
         "definitions": []
     },
@@ -45338,6 +46397,9 @@
         ]
     },
     {
+        "character": "\u9b3a",
+        "pronunciation": "\uc0c1",
+        "stroke_count": "21",
         "names": "\uc0b6\uc744 \uc0c1",
         "definitions": []
     },
@@ -45678,6 +46740,9 @@
         ]
     },
     {
+        "character": "\u4ed2",
+        "pronunciation": "\uc0e4",
+        "stroke_count": "4",
         "names": [],
         "definitions": [
             "kwukyel"
@@ -45838,10 +46903,16 @@
         ]
     },
     {
+        "character": "\u63df",
+        "pronunciation": "\uc11c",
+        "stroke_count": "12",
         "names": "\ub098\ubb34\uc774\ub984 \uc11c",
         "definitions": []
     },
     {
+        "character": "\u6495",
+        "pronunciation": "\uc11c",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "rip, tear",
@@ -46400,6 +47471,9 @@
         ]
     },
     {
+        "character": "\u6f99",
+        "pronunciation": "\uc11d",
+        "stroke_count": "16",
         "names": "\u6f5f\uc758 \u4fd7\u5b57",
         "definitions": []
     },
@@ -46537,6 +47611,9 @@
         ]
     },
     {
+        "character": "\u9250",
+        "pronunciation": "\uc11d",
+        "stroke_count": "13",
         "names": "\ub18b\uc1e0 \uc11d",
         "definitions": []
     },
@@ -46588,6 +47665,9 @@
         ]
     },
     {
+        "character": "\u5093",
+        "pronunciation": "\uc120",
+        "stroke_count": "12",
         "names": "\ub9e4\uc6b0 \uc131\ud560 \uc120",
         "definitions": []
     },
@@ -46672,10 +47752,16 @@
         ]
     },
     {
+        "character": "\u58a1",
+        "pronunciation": "\uc120",
+        "stroke_count": "15",
         "names": "\ubc31\ud1a0 \uc120",
         "definitions": []
     },
     {
+        "character": "\u5ad9",
+        "pronunciation": "\uc120",
+        "stroke_count": "14",
         "names": "\uc608\uc060 \uc120",
         "definitions": []
     },
@@ -46726,6 +47812,9 @@
         ]
     },
     {
+        "character": "\u5c73",
+        "pronunciation": "\uc120",
+        "stroke_count": "5",
         "names": "\ub0a0 \uc120",
         "definitions": []
     },
@@ -46975,6 +48064,9 @@
         ]
     },
     {
+        "character": "\u7f10",
+        "pronunciation": "\uc120",
+        "stroke_count": "12",
         "names": "\u7dda\uc758 \u7c21\u9ad4\u5b57",
         "definitions": []
     },
@@ -47097,6 +48189,9 @@
         ]
     },
     {
+        "character": "\u8b71",
+        "pronunciation": "\uc120",
+        "stroke_count": "20",
         "names": "\u5584\uc758 \u53e4\u5b57",
         "definitions": []
     },
@@ -47170,6 +48265,9 @@
         ]
     },
     {
+        "character": "\u9425",
+        "pronunciation": "\uc120",
+        "stroke_count": "20",
         "names": "\ubcf5\uc790 \uc120",
         "definitions": []
     },
@@ -47254,14 +48352,23 @@
         ]
     },
     {
+        "character": "\u5070",
+        "pronunciation": "\uc124",
+        "stroke_count": "11",
         "names": "\ub9d1\uc744 \uc124",
         "definitions": []
     },
     {
+        "character": "\u50c1",
+        "pronunciation": "\uc124",
+        "stroke_count": "13",
         "names": "\uc18c\uadfc\uac70\ub9b4 \uc124",
         "definitions": []
     },
     {
+        "character": "\u5368",
+        "pronunciation": "\uc124",
+        "stroke_count": "11",
         "names": "\uc0ac\ub78c\uc774\ub984 \uc124",
         "definitions": []
     },
@@ -47323,6 +48430,9 @@
         ]
     },
     {
+        "character": "\u66ac",
+        "pronunciation": "\uc124",
+        "stroke_count": "15",
         "names": "\uc124\ub9cc\ud560 \uc124",
         "definitions": []
     },
@@ -47400,6 +48510,9 @@
         ]
     },
     {
+        "character": "\u7a27",
+        "pronunciation": "\uc124",
+        "stroke_count": "14",
         "names": "\ubccf\ub2e8 \uc124",
         "definitions": []
     },
@@ -48063,6 +49176,9 @@
         ]
     },
     {
+        "character": "\u73f9",
+        "pronunciation": "\uc131",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "type of jade",
@@ -48070,6 +49186,9 @@
         ]
     },
     {
+        "character": "\u7446",
+        "pronunciation": "\uc131",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
@@ -48256,6 +49375,9 @@
         ]
     },
     {
+        "character": "\u5f57",
+        "pronunciation": "\uc138",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "broomstick",
@@ -48856,6 +49978,9 @@
         ]
     },
     {
+        "character": "\u6d91",
+        "pronunciation": "\uc18c",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "river in Shansi province"
@@ -49034,6 +50159,9 @@
         ]
     },
     {
+        "character": "\u7b7f",
+        "pronunciation": "\uc18c",
+        "stroke_count": "13",
         "names": "\u7be0\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -49181,6 +50309,9 @@
         ]
     },
     {
+        "character": "\u84c0",
+        "pronunciation": "\uc18c",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "aromatic grass",
@@ -49246,6 +50377,9 @@
         ]
     },
     {
+        "character": "\u87a6",
+        "pronunciation": "\uc18c",
+        "stroke_count": "16",
         "names": "",
         "definitions": []
     },
@@ -49265,6 +50399,9 @@
         ]
     },
     {
+        "character": "\u8b16",
+        "pronunciation": "\uc18c",
+        "stroke_count": "17",
         "names": [],
         "definitions": [
             "rise up",
@@ -49428,6 +50565,9 @@
         ]
     },
     {
+        "character": "\u9c37",
+        "pronunciation": "\uc18c",
+        "stroke_count": "22",
         "names": [],
         "definitions": [
             "minnow"
@@ -49502,6 +50642,9 @@
         ]
     },
     {
+        "character": "\u6d2c",
+        "pronunciation": "\uc18d",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -49848,6 +50991,9 @@
         ]
     },
     {
+        "character": "\u67d7",
+        "pronunciation": "\uc1a1",
+        "stroke_count": "9",
         "names": "\u677e\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -49949,10 +51095,16 @@
         ]
     },
     {
+        "character": "\u60e2",
+        "pronunciation": "\uc1a8",
+        "stroke_count": "12",
         "names": "\uc758\uc2ec\ub0bc \uc1a8",
         "definitions": []
     },
     {
+        "character": "\u66ec",
+        "pronunciation": "\uc1a8",
+        "stroke_count": "23",
         "names": [],
         "definitions": [
             "dry in sun, expose to sun"
@@ -50093,6 +51245,9 @@
         ]
     },
     {
+        "character": "\u6bba",
+        "pronunciation": "\uc1e0",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "kill, slaughter, murder",
@@ -50115,6 +51270,9 @@
         ]
     },
     {
+        "character": "\u91d7",
+        "pronunciation": "\uc1e0",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "endeavor, strive",
@@ -50467,6 +51625,9 @@
         ]
     },
     {
+        "character": "\u666c",
+        "pronunciation": "\uc218",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "first birthday of a child"
@@ -50554,6 +51715,9 @@
         ]
     },
     {
+        "character": "\u6f5a",
+        "pronunciation": "\uc218",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "gay",
@@ -50561,6 +51725,9 @@
         ]
     },
     {
+        "character": "\u6fc9",
+        "pronunciation": "\uc218",
+        "stroke_count": "16",
         "names": "",
         "definitions": []
     },
@@ -50629,6 +51796,9 @@
         ]
     },
     {
+        "character": "\u7421",
+        "pronunciation": "\uc218",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
@@ -50645,6 +51815,9 @@
         ]
     },
     {
+        "character": "\u74b9",
+        "pronunciation": "\uc218",
+        "stroke_count": "18",
         "names": "",
         "definitions": []
     },
@@ -50907,6 +52080,9 @@
         ]
     },
     {
+        "character": "\u81b8",
+        "pronunciation": "\uc218",
+        "stroke_count": "17",
         "names": "\u9ad3\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -50922,6 +52098,9 @@
         ]
     },
     {
+        "character": "\u83fd",
+        "pronunciation": "\uc218",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "beans and peas",
@@ -50946,6 +52125,9 @@
         ]
     },
     {
+        "character": "\u84da",
+        "pronunciation": "\uc218",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "oxalic (used in compounds)"
@@ -51402,6 +52584,9 @@
         ]
     },
     {
+        "character": "\u5a4c",
+        "pronunciation": "\uc219",
+        "stroke_count": "11",
         "names": "\uad81\ub140 \ubcbc\uc2ac\uc774\ub984 \uc219",
         "definitions": []
     },
@@ -51656,6 +52841,9 @@
         ]
     },
     {
+        "character": "\u6a53",
+        "pronunciation": "\uc21c",
+        "stroke_count": "16",
         "names": "\ubb34\uad81\ud654\ub098\ubb34 \uc21c",
         "definitions": []
     },
@@ -51979,6 +53167,9 @@
         ]
     },
     {
+        "character": "\u99e8",
+        "pronunciation": "\uc21c",
+        "stroke_count": "16",
         "names": "",
         "definitions": []
     },
@@ -51997,6 +53188,9 @@
         ]
     },
     {
+        "character": "\u9b0a",
+        "pronunciation": "\uc21c",
+        "stroke_count": "19",
         "names": "\uba38\ub9ac \ud480\uc5b4\ud5e4\uce60 \uc21c",
         "definitions": []
     },
@@ -52014,6 +53208,9 @@
         ]
     },
     {
+        "character": "\u564a",
+        "pronunciation": "\uc220",
+        "stroke_count": "15",
         "names": "\uc704\ud0dc\ud560 \uc220",
         "definitions": []
     },
@@ -52030,6 +53227,9 @@
         "definitions": []
     },
     {
+        "character": "\u7d49",
+        "pronunciation": "\uc220",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
@@ -52151,6 +53351,9 @@
         ]
     },
     {
+        "character": "\u6bb3",
+        "pronunciation": "\uc26c",
+        "stroke_count": "4",
         "names": [],
         "definitions": [
             "name of old weapon",
@@ -52159,6 +53362,9 @@
         ]
     },
     {
+        "character": "\u6cc5",
+        "pronunciation": "\uc26c",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "swim, float, wade"
@@ -52196,6 +53402,9 @@
         ]
     },
     {
+        "character": "\u5380",
+        "pronunciation": "\uc2ac",
+        "stroke_count": "13",
         "names": "\u819d\uc758 \u672c\u5b57",
         "definitions": []
     },
@@ -52254,12 +53463,18 @@
         ]
     },
     {
+        "character": "\u584d",
+        "pronunciation": "\uc2b5",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "a raised path between fields, a dike"
         ]
     },
     {
+        "character": "\u6174",
+        "pronunciation": "\uc2b5",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "fear",
@@ -52563,6 +53778,9 @@
         ]
     },
     {
+        "character": "\u4e68",
+        "pronunciation": "\uc2dc",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "the beginning",
@@ -52570,6 +53788,9 @@
         ]
     },
     {
+        "character": "\u4f7f",
+        "pronunciation": "\uc2dc",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "cause, send on a mission, order",
@@ -52617,6 +53838,9 @@
         ]
     },
     {
+        "character": "\u51d8",
+        "pronunciation": "\uc2dc",
+        "stroke_count": "14",
         "names": "\uc131\uc5d0 \uc2dc",
         "definitions": []
     },
@@ -52634,6 +53858,9 @@
         ]
     },
     {
+        "character": "\u5376",
+        "pronunciation": "\uc2dc",
+        "stroke_count": "8",
         "names": "\ud06c\uac8c \uacbd\uc0ac\uc2a4\ub7ec\uc6b8 \uc2dc",
         "definitions": []
     },
@@ -53074,10 +54301,16 @@
         ]
     },
     {
+        "character": "\u7fe4",
+        "pronunciation": "\uc2dc",
+        "stroke_count": "14",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u832c",
+        "pronunciation": "\uc2dc",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "harvest"
@@ -53441,6 +54674,9 @@
         ]
     },
     {
+        "character": "\u7bd2",
+        "pronunciation": "\uc2dd",
+        "stroke_count": "15",
         "names": "",
         "definitions": []
     },
@@ -53741,6 +54977,9 @@
         ]
     },
     {
+        "character": "\u700b",
+        "pronunciation": "\uc2e0",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "juice",
@@ -54145,6 +55384,9 @@
         ]
     },
     {
+        "character": "\u98cb",
+        "pronunciation": "\uc2e4",
+        "stroke_count": "22",
         "names": "\uc4f8\uc4f8\ud55c \ubc14\ub78c \uc2e4",
         "definitions": []
     },
@@ -54208,6 +55450,9 @@
         ]
     },
     {
+        "character": "\u68a3",
+        "pronunciation": "\uc2ec",
+        "stroke_count": "11",
         "names": "\ubb3c\ud478\ub808\ub098\ubb34 \uc2ec",
         "definitions": []
     },
@@ -54404,6 +55649,9 @@
         ]
     },
     {
+        "character": "\u5159",
+        "pronunciation": "\uc2ed",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "decagram"
@@ -54590,6 +55838,9 @@
         ]
     },
     {
+        "character": "\u538a",
+        "pronunciation": "\uc544",
+        "stroke_count": "6",
         "names": "\uc5b4\uae0b\ub0a0 \uc544",
         "definitions": []
     },
@@ -54666,6 +55917,9 @@
         ]
     },
     {
+        "character": "\u5a3f",
+        "pronunciation": "\uc544",
+        "stroke_count": "11",
         "names": "\uc544\ub9ac\ub530\uc6b8 \uc544",
         "definitions": []
     },
@@ -54775,6 +56029,9 @@
         ]
     },
     {
+        "character": "\u7b0c",
+        "pronunciation": "\uc544",
+        "stroke_count": "10",
         "names": "\ub300\uc2f9 \uc544",
         "definitions": []
     },
@@ -54943,10 +56200,16 @@
         ]
     },
     {
+        "character": "\u526d",
+        "pronunciation": "\uc545",
+        "stroke_count": "11",
         "names": "\ud615\ubc8c\ud560 \uc545",
         "definitions": []
     },
     {
+        "character": "\u537e",
+        "pronunciation": "\uc545",
+        "stroke_count": "11",
         "names": "\uc717\ud131 \uc545",
         "definitions": []
     },
@@ -55142,6 +56405,9 @@
         ]
     },
     {
+        "character": "\u89a8",
+        "pronunciation": "\uc545",
+        "stroke_count": "16",
         "names": "\uc624\ub798 \ubcfc \uc545",
         "definitions": []
     },
@@ -55238,6 +56504,9 @@
         ]
     },
     {
+        "character": "\u4f92",
+        "pronunciation": "\uc548",
+        "stroke_count": "8",
         "names": "\ud3b8\uc548\ud560 \uc548",
         "definitions": []
     },
@@ -55253,6 +56522,9 @@
         ]
     },
     {
+        "character": "\u5535",
+        "pronunciation": "\uc548",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "used in Buddhist texts to transliterate non-Chinese sounds",
@@ -55335,6 +56607,9 @@
         ]
     },
     {
+        "character": "\u6849",
+        "pronunciation": "\uc548",
+        "stroke_count": "10",
         "names": "\u6848\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -55400,6 +56675,9 @@
         ]
     },
     {
+        "character": "\u95bc",
+        "pronunciation": "\uc548",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "block, obstruct, stop up, conceal"
@@ -55626,6 +56904,9 @@
         ]
     },
     {
+        "character": "\u9d36",
+        "pronunciation": "\uc54c",
+        "stroke_count": "17",
         "names": "\ubed0\uafb8\uae30 \uc54c",
         "definitions": []
     },
@@ -55723,6 +57004,9 @@
         ]
     },
     {
+        "character": "\u667b",
+        "pronunciation": "\uc554",
+        "stroke_count": "12",
         "names": "\uc5b4\ub450\uc6b8 \uc554",
         "definitions": []
     },
@@ -55754,6 +57038,9 @@
         ]
     },
     {
+        "character": "\u8164",
+        "pronunciation": "\uc554",
+        "stroke_count": "13",
         "names": "\uace0\uae30 \uc0b6\uc744 \uc554",
         "definitions": []
     },
@@ -55780,6 +57067,9 @@
         ]
     },
     {
+        "character": "\u84ed",
+        "pronunciation": "\uc554",
+        "stroke_count": "17",
         "names": "\uc554\uc790 \uc554",
         "definitions": []
     },
@@ -55820,6 +57110,9 @@
         ]
     },
     {
+        "character": "\u99a3",
+        "pronunciation": "\uc554",
+        "stroke_count": "17",
         "names": "\ud5a5\uae30\ub85c\uc6b8 \uc554",
         "definitions": []
     },
@@ -55856,10 +57149,16 @@
         "definitions": []
     },
     {
+        "character": "\u533c",
+        "pronunciation": "\uc555",
+        "stroke_count": "8",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u538b",
+        "pronunciation": "\uc555",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "press",
@@ -55960,6 +57259,9 @@
         ]
     },
     {
+        "character": "\u4f52",
+        "pronunciation": "\uc559",
+        "stroke_count": "7",
         "names": "\ubab8 \uac70\ubd81\ud560 \uc559",
         "definitions": []
     },
@@ -56237,6 +57539,9 @@
         ]
     },
     {
+        "character": "\u560a",
+        "pronunciation": "\uc560",
+        "stroke_count": "14",
         "names": "\ube44\ud2c0\uac70\ub9b4 \uc560",
         "definitions": []
     },
@@ -56277,6 +57582,9 @@
         ]
     },
     {
+        "character": "\u5a2d",
+        "pronunciation": "\uc560",
+        "stroke_count": "10",
         "names": "\uacc4\uc9d1\uc885 \uc560",
         "definitions": []
     },
@@ -56375,6 +57683,9 @@
         ]
     },
     {
+        "character": "\u6f04",
+        "pronunciation": "\uc560",
+        "stroke_count": "14",
         "names": "\ubb3c\uac00 \uc560",
         "definitions": []
     },
@@ -56571,6 +57882,9 @@
         ]
     },
     {
+        "character": "\u545d",
+        "pronunciation": "\uc561",
+        "stroke_count": "8",
         "names": "\uc6b8 \uc561",
         "definitions": []
     },
@@ -56787,6 +58101,9 @@
         ]
     },
     {
+        "character": "\u9dea",
+        "pronunciation": "\uc575",
+        "stroke_count": "23",
         "names": "\uaf80\uaf2c\ub9ac \uc575",
         "definitions": []
     },
@@ -56814,6 +58131,9 @@
         ]
     },
     {
+        "character": "\u4eb1",
+        "pronunciation": "\uc57c",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "night, dark",
@@ -56976,6 +58296,9 @@
         ]
     },
     {
+        "character": "\u88f8",
+        "pronunciation": "\uc57c",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "bare, nude",
@@ -57586,6 +58909,9 @@
         ]
     },
     {
+        "character": "\u773b",
+        "pronunciation": "\uc591",
+        "stroke_count": "11",
         "names": "\ub208 \uc544\ub984\ub2e4\uc6b8 \uc591",
         "definitions": []
     },
@@ -57671,6 +58997,9 @@
         ]
     },
     {
+        "character": "\u8f30",
+        "pronunciation": "\uc591",
+        "stroke_count": "16",
         "names": "\uc0c1\uc5ec\uc218\ub808 \uc591",
         "definitions": []
     },
@@ -58091,6 +59420,9 @@
         ]
     },
     {
+        "character": "\u7e76",
+        "pronunciation": "\uc5b5",
+        "stroke_count": "19",
         "names": "\ub54b\uc740 \ub178 \uc5b5",
         "definitions": []
     },
@@ -58119,6 +59451,9 @@
         ]
     },
     {
+        "character": "\u50bf",
+        "pronunciation": "\uc5b8",
+        "stroke_count": "13",
         "names": "\u9122\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -58314,6 +59649,9 @@
         ]
     },
     {
+        "character": "\u4e7b",
+        "pronunciation": "\uc5bc",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -58416,6 +59754,9 @@
         ]
     },
     {
+        "character": "\u5266",
+        "pronunciation": "\uc5c4",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "to castrate"
@@ -58435,6 +59776,9 @@
         ]
     },
     {
+        "character": "\u53b1",
+        "pronunciation": "\uc5c4",
+        "stroke_count": "15",
         "names": "\uc5b8\ub355 \ube44\ud0c8 \uc5c4",
         "definitions": []
     },
@@ -58554,6 +59898,9 @@
         ]
     },
     {
+        "character": "\u66ee",
+        "pronunciation": "\uc5c4",
+        "stroke_count": "24",
         "names": "\ud574 \ub2e4\ub2c8\ub294 \uae38 \uc5c4",
         "definitions": []
     },
@@ -58632,10 +59979,16 @@
         ]
     },
     {
+        "character": "\u5daa",
+        "pronunciation": "\uc5c5",
+        "stroke_count": "16",
         "names": "\uc0b0\uc774 \ub192\uace0 \uc6c5\uc7a5\ud560 \uc5c5",
         "definitions": []
     },
     {
+        "character": "\u5dab",
+        "pronunciation": "\uc5c5",
+        "stroke_count": "16",
         "names": "\u5daa\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -58759,6 +60112,9 @@
         ]
     },
     {
+        "character": "\u4f9e",
+        "pronunciation": "\uc5ec",
+        "stroke_count": "8",
         "names": "\uc628\uc21c\ud560 \uc5ec",
         "definitions": []
     },
@@ -58802,6 +60158,9 @@
         ]
     },
     {
+        "character": "\u7399",
+        "pronunciation": "\uc5ec",
+        "stroke_count": "7",
         "names": "",
         "definitions": []
     },
@@ -58817,6 +60176,9 @@
         ]
     },
     {
+        "character": "\u7916",
+        "pronunciation": "\uc5ec",
+        "stroke_count": "18",
         "names": "\uc5ec\ub3cc \uc5ec",
         "definitions": []
     },
@@ -59116,6 +60478,9 @@
         ]
     },
     {
+        "character": "\u4f07",
+        "pronunciation": "\uc5ed",
+        "stroke_count": "6",
         "names": "\u5f79\uc758 \u53e4\u5b57",
         "definitions": []
     },
@@ -59391,14 +60756,23 @@
         ]
     },
     {
+        "character": "\u550c",
+        "pronunciation": "\uc5f0",
+        "stroke_count": "10",
         "names": "\ucc38\uc18c\ud560 \uc5f0",
         "definitions": []
     },
     {
+        "character": "\u562b",
+        "pronunciation": "\uc5f0",
+        "stroke_count": "15",
         "names": "\ub300\ub2f5\ud560 \uc5f0",
         "definitions": []
     },
     {
+        "character": "\u566e",
+        "pronunciation": "\uc5f0",
+        "stroke_count": "16",
         "names": "\ubab9\uc2dc \ub2ec \uc5f0",
         "definitions": []
     },
@@ -59415,6 +60789,9 @@
         ]
     },
     {
+        "character": "\u56e6",
+        "pronunciation": "\uc5f0",
+        "stroke_count": "7",
         "names": "\ubb3c \uae4a\uc744 \uc5f0",
         "definitions": []
     },
@@ -59683,6 +61060,9 @@
         ]
     },
     {
+        "character": "\u6e37",
+        "pronunciation": "\uc5f0",
+        "stroke_count": "12",
         "names": "\ubb3c \uc774\ub984 \uc5f0",
         "definitions": []
     },
@@ -59716,6 +61096,9 @@
         ]
     },
     {
+        "character": "\u7114",
+        "pronunciation": "\uc5f0",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "flame, blaze",
@@ -59723,6 +61106,9 @@
         ]
     },
     {
+        "character": "\u7130",
+        "pronunciation": "\uc5f0",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "flame, blaze",
@@ -59870,6 +61256,9 @@
         ]
     },
     {
+        "character": "\u7fa1",
+        "pronunciation": "\uc5f0",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "envy, admire",
@@ -60210,6 +61599,9 @@
         ]
     },
     {
+        "character": "\u5450",
+        "pronunciation": "\uc5f4",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "raise voice, yell out loud, shout",
@@ -60504,6 +61896,9 @@
         ]
     },
     {
+        "character": "\u6ab6",
+        "pronunciation": "\uc5fc",
+        "stroke_count": "18",
         "names": "\uac1c\uc218\ud1b5 \uc5fc",
         "definitions": []
     },
@@ -60854,6 +62249,9 @@
         ]
     },
     {
+        "character": "\u6442",
+        "pronunciation": "\uc5fd",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "take in, absorb",
@@ -61181,10 +62579,16 @@
         "definitions": []
     },
     {
+        "character": "\u6e36",
+        "pronunciation": "\uc601",
+        "stroke_count": "12",
         "names": "\ubb3c \ub9d1\uc744 \uc601",
         "definitions": []
     },
     {
+        "character": "\u6e81",
+        "pronunciation": "\uc601",
+        "stroke_count": "12",
         "names": "\u6fda\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -61201,10 +62605,16 @@
         ]
     },
     {
+        "character": "\u6fda",
+        "pronunciation": "\uc601",
+        "stroke_count": "17",
         "names": "\ubb3c \ub3cc\uc544\ub098\uac08 \uc601",
         "definitions": []
     },
     {
+        "character": "\u6ff4",
+        "pronunciation": "\uc601",
+        "stroke_count": "17",
         "names": "\ubb3c \uc878\uc878 \ud750\ub97c \uc601",
         "definitions": []
     },
@@ -61232,6 +62642,9 @@
         "definitions": []
     },
     {
+        "character": "\u7150",
+        "pronunciation": "\uc601",
+        "stroke_count": "13",
         "names": "\ube5b\ub0a0 \uc601",
         "definitions": []
     },
@@ -61329,6 +62742,9 @@
         ]
     },
     {
+        "character": "\u78a4",
+        "pronunciation": "\uc601",
+        "stroke_count": "14",
         "names": "\ubb3c \uc18d \ub3cc \uc601",
         "definitions": []
     },
@@ -61448,10 +62864,16 @@
         ]
     },
     {
+        "character": "\u9348",
+        "pronunciation": "\uc601",
+        "stroke_count": "16",
         "names": "\ubc29\uc6b8\uc18c\ub9ac \uc601",
         "definitions": []
     },
     {
+        "character": "\u9533",
+        "pronunciation": "\uc601",
+        "stroke_count": "14",
         "names": "\u9348\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -61688,6 +63110,9 @@
         ]
     },
     {
+        "character": "\u5151",
+        "pronunciation": "\uc608",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "cash",
@@ -61900,6 +63325,9 @@
         ]
     },
     {
+        "character": "\u7369",
+        "pronunciation": "\uc608",
+        "stroke_count": "16",
         "names": "\ubbfc\uc871\uc774\ub984 \uc608",
         "definitions": []
     },
@@ -61999,6 +63427,9 @@
         ]
     },
     {
+        "character": "\u82b8",
+        "pronunciation": "\uc608",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "rue, herb used to keep insects away",
@@ -62361,6 +63792,9 @@
         ]
     },
     {
+        "character": "\u4fc9",
+        "pronunciation": "\uc624",
+        "stroke_count": "9",
         "names": "\ub9de\uc774\ud560 \uc624",
         "definitions": []
     },
@@ -62629,6 +64063,9 @@
         ]
     },
     {
+        "character": "\u5aef",
+        "pronunciation": "\uc624",
+        "stroke_count": "14",
         "names": "\uc5c5\uc2e0\uc5ec\uae38 \uc624",
         "definitions": []
     },
@@ -62646,6 +64083,9 @@
         ]
     },
     {
+        "character": "\u5fe2",
+        "pronunciation": "\uc624",
+        "stroke_count": "8",
         "names": "",
         "definitions": []
     },
@@ -62697,6 +64137,9 @@
         ]
     },
     {
+        "character": "\u6160",
+        "pronunciation": "\uc624",
+        "stroke_count": "14",
         "names": "\uac70\ub9cc\ud560 \uc624",
         "definitions": []
     },
@@ -62751,6 +64194,9 @@
         ]
     },
     {
+        "character": "\u65ff",
+        "pronunciation": "\uc624",
+        "stroke_count": "8",
         "names": "\ubc1d\uc744 \uc624",
         "definitions": []
     },
@@ -62866,10 +64312,16 @@
         ]
     },
     {
+        "character": "\u7ab9",
+        "pronunciation": "\uc624",
+        "stroke_count": "16",
         "names": "\uc544\uad81\uc774 \uc624",
         "definitions": []
     },
     {
+        "character": "\u7b7d",
+        "pronunciation": "\uc624",
+        "stroke_count": "13",
         "names": "\ubc84\ub4e4 \uace0\ub9ac \uc624",
         "definitions": []
     },
@@ -62948,12 +64400,18 @@
         ]
     },
     {
+        "character": "\u8fc2",
+        "pronunciation": "\uc624",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "doctrinaire, abstruse, unrealistic"
         ]
     },
     {
+        "character": "\u8fc3",
+        "pronunciation": "\uc624",
+        "stroke_count": "7",
         "names": "",
         "definitions": []
     },
@@ -63089,6 +64547,9 @@
         ]
     },
     {
+        "character": "\u526d",
+        "pronunciation": "\uc625",
+        "stroke_count": "11",
         "names": "\ubaa9 \ubca8 \uc625",
         "definitions": []
     },
@@ -63135,6 +64596,9 @@
         ]
     },
     {
+        "character": "\u6fb3",
+        "pronunciation": "\uc625",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "inlet, bay",
@@ -63202,6 +64666,9 @@
         ]
     },
     {
+        "character": "\u5abc",
+        "pronunciation": "\uc628",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "old woman",
@@ -63307,6 +64774,9 @@
         ]
     },
     {
+        "character": "\u7465",
+        "pronunciation": "\uc628",
+        "stroke_count": "14",
         "names": "\uc0ac\ub78c\uc774\ub984 \uc628",
         "definitions": []
     },
@@ -63477,6 +64947,9 @@
         ]
     },
     {
+        "character": "\u97b0",
+        "pronunciation": "\uc628",
+        "stroke_count": "18",
         "names": "",
         "definitions": []
     },
@@ -63516,6 +64989,9 @@
         ]
     },
     {
+        "character": "\u4e6f",
+        "pronunciation": "\uc62c",
+        "stroke_count": "6",
         "names": "",
         "definitions": []
     },
@@ -63544,6 +65020,9 @@
         ]
     },
     {
+        "character": "\u55e2",
+        "pronunciation": "\uc62c",
+        "stroke_count": "13",
         "names": "\ubaa9 \uba5c \uc62c",
         "definitions": []
     },
@@ -63560,6 +65039,9 @@
         ]
     },
     {
+        "character": "\u9622",
+        "pronunciation": "\uc62c",
+        "stroke_count": "6",
         "names": "\ud5d8\ud560 \uc62c",
         "definitions": []
     },
@@ -63610,6 +65092,9 @@
         ]
     },
     {
+        "character": "\u5670",
+        "pronunciation": "\uc639",
+        "stroke_count": "16",
         "names": "\ud654\ud55c \uc18c\ub9ac \uc639",
         "definitions": []
     },
@@ -63839,6 +65324,9 @@
         ]
     },
     {
+        "character": "\u555d",
+        "pronunciation": "\uc640",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "(Cant.) final partical expressing surprise"
@@ -63869,6 +65357,9 @@
         ]
     },
     {
+        "character": "\u6799",
+        "pronunciation": "\uc640",
+        "stroke_count": "8",
         "names": "\uc639\uc774 \uc640",
         "definitions": []
     },
@@ -63899,6 +65390,9 @@
         ]
     },
     {
+        "character": "\u7327",
+        "pronunciation": "\uc640",
+        "stroke_count": "12",
         "names": "\uc640\uac1c \uc640",
         "definitions": []
     },
@@ -64054,6 +65548,9 @@
         ]
     },
     {
+        "character": "\u550d",
+        "pronunciation": "\uc644",
+        "stroke_count": "10",
         "names": "\ubc29\uae0b \uc6c3\uc744 \uc644",
         "definitions": []
     },
@@ -64070,6 +65567,9 @@
         ]
     },
     {
+        "character": "\u57b8",
+        "pronunciation": "\uc644",
+        "stroke_count": "10",
         "names": "\ud68c \uc11e\uc5b4 \ubc14\ub97c \uc644",
         "definitions": []
     },
@@ -64124,6 +65624,9 @@
         ]
     },
     {
+        "character": "\u5c8f",
+        "pronunciation": "\uc644",
+        "stroke_count": "7",
         "names": "\uc0b0 \ubfb0\uc871\ud560 \uc644",
         "definitions": []
     },
@@ -64213,6 +65716,9 @@
         ]
     },
     {
+        "character": "\u7413",
+        "pronunciation": "\uc644",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
@@ -64667,6 +66173,9 @@
         ]
     },
     {
+        "character": "\u6b6a",
+        "pronunciation": "\uc678",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "slant",
@@ -64739,6 +66248,9 @@
         "definitions": []
     },
     {
+        "character": "\u78c8",
+        "pronunciation": "\uc678",
+        "stroke_count": "15",
         "names": "\ub3cc \uc0ac\ub2e5\ub2e4\ub9ac \uc678",
         "definitions": []
     },
@@ -64792,6 +66304,9 @@
         ]
     },
     {
+        "character": "\u5060",
+        "pronunciation": "\uc694",
+        "stroke_count": "11",
         "names": "\ud5c8\ub9ac \uac00\ub298 \uc694",
         "definitions": []
     },
@@ -64867,6 +66382,9 @@
         ]
     },
     {
+        "character": "\u55c2",
+        "pronunciation": "\uc694",
+        "stroke_count": "13",
         "names": "\uae30\uaebc\uc6b8 \uc694",
         "definitions": []
     },
@@ -65101,6 +66619,9 @@
         ]
     },
     {
+        "character": "\u6773",
+        "pronunciation": "\uc694",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "obscure, dark, mysterious, deep"
@@ -65264,6 +66785,9 @@
         ]
     },
     {
+        "character": "\u7e1f",
+        "pronunciation": "\uc694",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "decorative, adorned, elegant"
@@ -65344,6 +66868,9 @@
         ]
     },
     {
+        "character": "\u8925",
+        "pronunciation": "\uc694",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "mattress, cushion",
@@ -65599,6 +67126,9 @@
         ]
     },
     {
+        "character": "\u55d5",
+        "pronunciation": "\uc695",
+        "stroke_count": "13",
         "names": "\uc624\ub791\uce90 \uc774\ub984 \uc695",
         "definitions": []
     },
@@ -65805,6 +67335,9 @@
         ]
     },
     {
+        "character": "\u5d71",
+        "pronunciation": "\uc6a9",
+        "stroke_count": "13",
         "names": "\ubd09\uc6b0\ub9ac \ucb5d\uad7f\ucb5d\uad7f\ud560 \uc6a9",
         "definitions": []
     },
@@ -65881,6 +67414,9 @@
         ]
     },
     {
+        "character": "\u69e6",
+        "pronunciation": "\uc6a9",
+        "stroke_count": "15",
         "names": "\ubcd1\uae30 \uc5b9\ub294 \uc2dc\ub801 \uc6a9",
         "definitions": []
     },
@@ -65935,6 +67471,9 @@
         ]
     },
     {
+        "character": "\u7462",
+        "pronunciation": "\uc6a9",
+        "stroke_count": "14",
         "names": "\ud328\uc625\uc18c\ub9ac \uc6a9",
         "definitions": []
     },
@@ -65969,12 +67508,18 @@
         ]
     },
     {
+        "character": "\u7670",
+        "pronunciation": "\uc6a9",
+        "stroke_count": "23",
         "names": [],
         "definitions": [
             "carbuncle, sore, ulcer, abscess"
         ]
     },
     {
+        "character": "\u7867",
+        "pronunciation": "\uc6a9",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
@@ -66136,6 +67681,9 @@
         ]
     },
     {
+        "character": "\u4e8f",
+        "pronunciation": "\uc6b0",
+        "stroke_count": "3",
         "names": [],
         "definitions": [
             "lose, fail",
@@ -66250,6 +67798,9 @@
         ]
     },
     {
+        "character": "\u5418",
+        "pronunciation": "\uc6b0",
+        "stroke_count": "7",
         "names": "\ubd80\ub97c \uc6b0",
         "definitions": []
     },
@@ -66468,6 +68019,9 @@
         ]
     },
     {
+        "character": "\u7991",
+        "pronunciation": "\uc6b0",
+        "stroke_count": "14",
         "names": "",
         "definitions": []
     },
@@ -66585,6 +68139,9 @@
         ]
     },
     {
+        "character": "\u8b23",
+        "pronunciation": "\uc6b0",
+        "stroke_count": "18",
         "names": "\ub9dd\ub839\ub418\uac8c \ub9d0\ud560 \uc6b0",
         "definitions": []
     },
@@ -66654,6 +68211,9 @@
         ]
     },
     {
+        "character": "\u935d",
+        "pronunciation": "\uc6b0",
+        "stroke_count": "17",
         "names": "\uadc0\uace0\ub9ac \uc6b0",
         "definitions": []
     },
@@ -66837,6 +68397,9 @@
         ]
     },
     {
+        "character": "\u682f",
+        "pronunciation": "\uc6b1",
+        "stroke_count": "10",
         "names": "\uc0b0\uc575\ub450 \uc6b1",
         "definitions": []
     },
@@ -66866,6 +68429,9 @@
         ]
     },
     {
+        "character": "\u7a36",
+        "pronunciation": "\uc6b1",
+        "stroke_count": "15",
         "names": "\uc11c\uc9c1 \ubb34\uc131\ud560 \uc6b1",
         "definitions": []
     },
@@ -66920,6 +68486,9 @@
         "definitions": []
     },
     {
+        "character": "\u56e9",
+        "pronunciation": "\uc6b4",
+        "stroke_count": "7",
         "names": "\ub3cc\ub9b4 \uc6b4",
         "definitions": []
     },
@@ -66999,6 +68568,9 @@
         ]
     },
     {
+        "character": "\u7189",
+        "pronunciation": "\uc6b4",
+        "stroke_count": "14",
         "names": "\ub204\ub978 \ube5b \uc6b4",
         "definitions": []
     },
@@ -67158,6 +68730,9 @@
         ]
     },
     {
+        "character": "\u4e90",
+        "pronunciation": "\uc6b8",
+        "stroke_count": "3",
         "names": "",
         "definitions": []
     },
@@ -67493,6 +69068,9 @@
         ]
     },
     {
+        "character": "\u6966",
+        "pronunciation": "\uc6d0",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "a last for making shoes",
@@ -67599,6 +69177,9 @@
         ]
     },
     {
+        "character": "\u7da9",
+        "pronunciation": "\uc6d0",
+        "stroke_count": "14",
         "names": "",
         "definitions": []
     },
@@ -68336,6 +69917,9 @@
         ]
     },
     {
+        "character": "\u848d",
+        "pronunciation": "\uc704",
+        "stroke_count": "15",
         "names": "\u853f\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -68584,6 +70168,9 @@
         ]
     },
     {
+        "character": "\u4e8f",
+        "pronunciation": "\uc720",
+        "stroke_count": "3",
         "names": [],
         "definitions": [
             "lose, fail",
@@ -68592,6 +70179,9 @@
         ]
     },
     {
+        "character": "\u4eb4",
+        "pronunciation": "\uc720",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
@@ -68609,6 +70199,9 @@
         ]
     },
     {
+        "character": "\u4fc1",
+        "pronunciation": "\uc720",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "big"
@@ -68627,6 +70220,9 @@
         ]
     },
     {
+        "character": "\u504a",
+        "pronunciation": "\uc720",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "to walk alone",
@@ -68675,6 +70271,9 @@
         ]
     },
     {
+        "character": "\u532c",
+        "pronunciation": "\uc720",
+        "stroke_count": "11",
         "names": "\uace1\uc2dd \uc148\ud558\ub294 \ub2e8\uc704 \ud718 \uc720",
         "definitions": []
     },
@@ -68690,6 +70289,9 @@
         ]
     },
     {
+        "character": "\u5401",
+        "pronunciation": "\uc720",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "interjection 'Alas!'",
@@ -68709,6 +70311,9 @@
         ]
     },
     {
+        "character": "\u5500",
+        "pronunciation": "\uc720",
+        "stroke_count": "10",
         "names": "\u8a98\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -68777,10 +70382,16 @@
         ]
     },
     {
+        "character": "\u5823",
+        "pronunciation": "\uc720",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u58d8",
+        "pronunciation": "\uc720",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "rampart, military wall"
@@ -68827,6 +70438,9 @@
         ]
     },
     {
+        "character": "\u5d4e",
+        "pronunciation": "\uc720",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "mountain recess",
@@ -68876,6 +70490,9 @@
         ]
     },
     {
+        "character": "\u5ebd",
+        "pronunciation": "\uc720",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
@@ -69035,6 +70652,9 @@
         ]
     },
     {
+        "character": "\u6745",
+        "pronunciation": "\uc720",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "tub"
@@ -69236,6 +70856,9 @@
         ]
     },
     {
+        "character": "\u75a3",
+        "pronunciation": "\uc720",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "wart",
@@ -69280,6 +70903,9 @@
         ]
     },
     {
+        "character": "\u76f1",
+        "pronunciation": "\uc720",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "wide open eyes",
@@ -69480,10 +71106,16 @@
         ]
     },
     {
+        "character": "\u86b4",
+        "pronunciation": "\uc720",
+        "stroke_count": "11",
         "names": "\uad7c\ud2c0\uac70\ub9b4 \uc720",
         "definitions": []
     },
     {
+        "character": "\u8764",
+        "pronunciation": "\uc720",
+        "stroke_count": "15",
         "names": "\ud558\ub8e8\uc0b4\uc774 \uc720",
         "definitions": []
     },
@@ -69563,6 +71195,9 @@
         ]
     },
     {
+        "character": "\u8b89",
+        "pronunciation": "\uc720",
+        "stroke_count": "23",
         "names": "\uc131\ub0bc \uc720",
         "definitions": []
     },
@@ -69907,6 +71542,9 @@
         ]
     },
     {
+        "character": "\u5585",
+        "pronunciation": "\uc721",
+        "stroke_count": "12",
         "names": "\ubb47 \uc18c\ub9ac \uc721",
         "definitions": []
     },
@@ -70082,6 +71720,9 @@
         ]
     },
     {
+        "character": "\u6600",
+        "pronunciation": "\uc724",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "sun light",
@@ -70126,22 +71767,34 @@
         ]
     },
     {
+        "character": "\u8d07",
+        "pronunciation": "\uc724",
+        "stroke_count": "19",
         "names": [],
         "definitions": [
             "affable, agreeable, pleasant"
         ]
     },
     {
+        "character": "\u8d5f",
+        "pronunciation": "\uc724",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "affable, agreeable, pleasant"
         ]
     },
     {
+        "character": "\u9217",
+        "pronunciation": "\uc724",
+        "stroke_count": "12",
         "names": "\ucc3d \uc724",
         "definitions": []
     },
     {
+        "character": "\u92c6",
+        "pronunciation": "\uc724",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "gold",
@@ -70219,6 +71872,9 @@
         ]
     },
     {
+        "character": "\u564a",
+        "pronunciation": "\uc728",
+        "stroke_count": "15",
         "names": "\uc704\ud0dc\ud560 \uc728",
         "definitions": []
     },
@@ -70358,10 +72014,16 @@
         ]
     },
     {
+        "character": "\u701c",
+        "pronunciation": "\uc735",
+        "stroke_count": "19",
         "names": "\ubb3c \uae4a\uc744 \ub96d",
         "definitions": []
     },
     {
+        "character": "\u72e8",
+        "pronunciation": "\uc735",
+        "stroke_count": "9",
         "names": "\uc6d0\uc22d\uc774 \uc735",
         "definitions": []
     },
@@ -70408,6 +72070,9 @@
         ]
     },
     {
+        "character": "\u53bc",
+        "pronunciation": "\uc73d",
+        "stroke_count": "5",
         "names": [],
         "definitions": [
             "kwukyel"
@@ -70442,6 +72107,9 @@
         ]
     },
     {
+        "character": "\u5701",
+        "pronunciation": "\uc740",
+        "stroke_count": "10",
         "names": "\ubb3c\uc774\ub984 \uc740",
         "definitions": []
     },
@@ -70612,10 +72280,16 @@
         ]
     },
     {
+        "character": "\u8a14",
+        "pronunciation": "\uc740",
+        "stroke_count": "10",
         "names": "\uc2dc\ube44\ud560 \uc740",
         "definitions": []
     },
     {
+        "character": "\u8a1a",
+        "pronunciation": "\uc740",
+        "stroke_count": "10",
         "names": "\u8abe\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -71228,6 +72902,9 @@
         ]
     },
     {
+        "character": "\u51d2",
+        "pronunciation": "\uc758",
+        "stroke_count": "12",
         "names": "\ub208\uc11c\ub9ac \uc313\uc77c \uc758",
         "definitions": []
     },
@@ -71444,6 +73121,9 @@
         ]
     },
     {
+        "character": "\u7912",
+        "pronunciation": "\uc758",
+        "stroke_count": "18",
         "names": "\ubc14\uc704 \uc758",
         "definitions": []
     },
@@ -71609,6 +73289,9 @@
         ]
     },
     {
+        "character": "\u591e",
+        "pronunciation": "\uc76b",
+        "stroke_count": "10",
         "names": "",
         "definitions": []
     },
@@ -71662,6 +73345,9 @@
         ]
     },
     {
+        "character": "\u4f41",
+        "pronunciation": "\uc774",
+        "stroke_count": "7",
         "names": "\ubbf8\ub828\uc2a4\ub7ec\uc6b8 \uc774",
         "definitions": []
     },
@@ -71777,6 +73463,9 @@
         ]
     },
     {
+        "character": "\u55cc",
+        "pronunciation": "\uc774",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "the throat",
@@ -71784,6 +73473,9 @@
         ]
     },
     {
+        "character": "\u5768",
+        "pronunciation": "\uc774",
+        "stroke_count": "8",
         "names": "",
         "definitions": []
     },
@@ -72036,6 +73728,9 @@
         ]
     },
     {
+        "character": "\u73c6",
+        "pronunciation": "\uc774",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -72352,12 +74047,18 @@
         ]
     },
     {
+        "character": "\u9aaa",
+        "pronunciation": "\uc774",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "crooked bones"
         ]
     },
     {
+        "character": "\u9aab",
+        "pronunciation": "\uc774",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
@@ -72618,6 +74319,9 @@
         ]
     },
     {
+        "character": "\u7037",
+        "pronunciation": "\uc775",
+        "stroke_count": "20",
         "names": "\uac15\uc774\ub984 \uc775",
         "definitions": []
     },
@@ -72858,6 +74562,9 @@
         ]
     },
     {
+        "character": "\u56d9",
+        "pronunciation": "\uc778",
+        "stroke_count": "5",
         "names": "\u56e0\uc758 \u4fd7\u5b57",
         "definitions": []
     },
@@ -72981,6 +74688,9 @@
         ]
     },
     {
+        "character": "\u6d07",
+        "pronunciation": "\uc778",
+        "stroke_count": "9",
         "names": "\u6e6e\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -73049,6 +74759,9 @@
         ]
     },
     {
+        "character": "\u82a2",
+        "pronunciation": "\uc778",
+        "stroke_count": "10",
         "names": "\uc528 \uc778",
         "definitions": []
     },
@@ -73250,6 +74963,9 @@
         ]
     },
     {
+        "character": "\u52ae",
+        "pronunciation": "\uc77c",
+        "stroke_count": "7",
         "names": "\uae30\uc060 \uc77c",
         "definitions": []
     },
@@ -73383,6 +75099,9 @@
         ]
     },
     {
+        "character": "\u9a72",
+        "pronunciation": "\uc77c",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "post horse, relay horse"
@@ -73531,6 +75250,9 @@
         ]
     },
     {
+        "character": "\u928b",
+        "pronunciation": "\uc784",
+        "stroke_count": "14",
         "names": "\uc816\uc744 \uc784",
         "definitions": []
     },
@@ -73804,6 +75526,9 @@
         ]
     },
     {
+        "character": "\u5470",
+        "pronunciation": "\uc790",
+        "stroke_count": "8",
         "names": "\uc8fc\ucc28\ud560 \uc790",
         "definitions": []
     },
@@ -73866,6 +75591,9 @@
         ]
     },
     {
+        "character": "\u5b28",
+        "pronunciation": "\uc790",
+        "stroke_count": "17",
         "names": "\uacc4\uc9d1\uc131\ud488\ub108\uadf8\ub7ec\uace0\uc21c\ud560 \uc790",
         "definitions": []
     },
@@ -73916,6 +75644,9 @@
         ]
     },
     {
+        "character": "\u5b73",
+        "pronunciation": "\uc790",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "breed in large numbers"
@@ -74029,6 +75760,9 @@
         ]
     },
     {
+        "character": "\u7151",
+        "pronunciation": "\uc790",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "cook"
@@ -74396,6 +76130,9 @@
         ]
     },
     {
+        "character": "\u983f",
+        "pronunciation": "\uc790",
+        "stroke_count": "17",
         "names": "\ucf54\ubc11\uc218\uc5fc \uc790",
         "definitions": []
     },
@@ -74456,6 +76193,9 @@
         ]
     },
     {
+        "character": "\u4ee2",
+        "pronunciation": "\uc791",
+        "stroke_count": "5",
         "names": "\uc678\ub098\ubb34 \ub2e4\ub9ac \uc791",
         "definitions": []
     },
@@ -74474,6 +76214,9 @@
         ]
     },
     {
+        "character": "\u5252",
+        "pronunciation": "\uc791",
+        "stroke_count": "10",
         "names": "\uac74\ubaa9\uce60 \uc791",
         "definitions": []
     },
@@ -74545,6 +76288,9 @@
         ]
     },
     {
+        "character": "\u65b1",
+        "pronunciation": "\uc791",
+        "stroke_count": "13",
         "names": "\ucabc\uac24 \uc791",
         "definitions": []
     },
@@ -74624,6 +76370,9 @@
         ]
     },
     {
+        "character": "\u712f",
+        "pronunciation": "\uc791",
+        "stroke_count": "12",
         "names": "\ubc1d\uc744 \uc791",
         "definitions": []
     },
@@ -74639,6 +76388,9 @@
         ]
     },
     {
+        "character": "\u72b3",
+        "pronunciation": "\uc791",
+        "stroke_count": "6",
         "names": "\uc544\ub871 \uc9d0\uc2b9 \uc791",
         "definitions": []
     },
@@ -74857,18 +76609,27 @@
         ]
     },
     {
+        "character": "\u7ce4",
+        "pronunciation": "\uc794",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "fried round cakes of wheat flour"
         ]
     },
     {
+        "character": "\u994a",
+        "pronunciation": "\uc794",
+        "stroke_count": "21",
         "names": [],
         "definitions": [
             "fried round cakes of wheat flour"
         ]
     },
     {
+        "character": "\u9993",
+        "pronunciation": "\uc794",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "fried round cakes of wheat flour"
@@ -74886,6 +76647,9 @@
         ]
     },
     {
+        "character": "\u4e72",
+        "pronunciation": "\uc798",
+        "stroke_count": "7",
         "names": "\ubd09\ud638 \uc798",
         "definitions": []
     },
@@ -74900,6 +76664,9 @@
         "definitions": []
     },
     {
+        "character": "\u5142",
+        "pronunciation": "\uc7a0",
+        "stroke_count": "4",
         "names": [],
         "definitions": [
             "hairpin, clasp",
@@ -74907,6 +76674,9 @@
         ]
     },
     {
+        "character": "\u557f",
+        "pronunciation": "\uc7a0",
+        "stroke_count": "12",
         "names": "\ub109\ub109\ud560 \uc7a0",
         "definitions": []
     },
@@ -75074,6 +76844,9 @@
         ]
     },
     {
+        "character": "\u5551",
+        "pronunciation": "\uc7a1",
+        "stroke_count": "11",
         "names": "\u553c\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -75114,6 +76887,9 @@
         ]
     },
     {
+        "character": "\u78fc",
+        "pronunciation": "\uc7a1",
+        "stroke_count": "17",
         "names": "\uc0b0 \ub192\uc744 \uc7a1",
         "definitions": []
     },
@@ -75191,6 +76967,9 @@
         ]
     },
     {
+        "character": "\u531e",
+        "pronunciation": "\uc7a5",
+        "stroke_count": "5",
         "names": "\u5320\uc758 \u672c\u5b57",
         "definitions": []
     },
@@ -75418,6 +77197,9 @@
         ]
     },
     {
+        "character": "\u66b2",
+        "pronunciation": "\uc7a5",
+        "stroke_count": "15",
         "names": "\ud587\ubc1c\uc774 \ub3cb\uc544\uc62c \uc7a5",
         "definitions": []
     },
@@ -75455,6 +77237,9 @@
         ]
     },
     {
+        "character": "\u6b0c",
+        "pronunciation": "\uc7a5",
+        "stroke_count": "21",
         "names": "\uc7a5\ub18d \uc7a5",
         "definitions": []
     },
@@ -75593,6 +77378,9 @@
         ]
     },
     {
+        "character": "\u7cda",
+        "pronunciation": "\uc7a5",
+        "stroke_count": "17",
         "names": "\u599d\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -75621,6 +77409,9 @@
         ]
     },
     {
+        "character": "\u81d3",
+        "pronunciation": "\uc7a5",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "internal organs, viscera"
@@ -75723,6 +77514,9 @@
         ]
     },
     {
+        "character": "\u8535",
+        "pronunciation": "\uc7a5",
+        "stroke_count": "17",
         "names": [],
         "definitions": [
             "hide, conceal",
@@ -75803,6 +77597,9 @@
         ]
     },
     {
+        "character": "\u8d1c",
+        "pronunciation": "\uc7a5",
+        "stroke_count": "25",
         "names": [],
         "definitions": [
             "booty, loot, stolen goods",
@@ -75821,6 +77618,9 @@
         ]
     },
     {
+        "character": "\u9171",
+        "pronunciation": "\uc7a5",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "any jam-like or paste-like food"
@@ -75973,6 +77773,9 @@
         ]
     },
     {
+        "character": "\u558d",
+        "pronunciation": "\uc7ac",
+        "stroke_count": "13",
         "names": "\uac1c\uc2f8\uc6c0\ud560 \uc7ac",
         "definitions": []
     },
@@ -75992,6 +77795,9 @@
         ]
     },
     {
+        "character": "\u5908",
+        "pronunciation": "\uc7ac",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -76040,6 +77846,9 @@
         ]
     },
     {
+        "character": "\u6257",
+        "pronunciation": "\uc7ac",
+        "stroke_count": "6",
         "names": "",
         "definitions": []
     },
@@ -76086,10 +77895,16 @@
         ]
     },
     {
+        "character": "\u699f",
+        "pronunciation": "\uc7ac",
+        "stroke_count": "14",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u6e3d",
+        "pronunciation": "\uc7ac",
+        "stroke_count": "12",
         "names": "\ub9d1\uc744 \uc7ac",
         "definitions": []
     },
@@ -76871,6 +78686,9 @@
         ]
     },
     {
+        "character": "\u889b",
+        "pronunciation": "\uc800",
+        "stroke_count": "11",
         "names": "\uc18d\uc801\uc0bc \uc800",
         "definitions": []
     },
@@ -76918,6 +78736,9 @@
         ]
     },
     {
+        "character": "\u8a5b",
+        "pronunciation": "\uc800",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "curse",
@@ -77153,6 +78974,9 @@
         ]
     },
     {
+        "character": "\u621d",
+        "pronunciation": "\uc801",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "pirate, thief"
@@ -77378,6 +79202,9 @@
         ]
     },
     {
+        "character": "\u83c2",
+        "pronunciation": "\uc801",
+        "stroke_count": "14",
         "names": "\uc5f0\ubc25 \uc801",
         "definitions": []
     },
@@ -77629,6 +79456,9 @@
         ]
     },
     {
+        "character": "\u500e",
+        "pronunciation": "\uc804",
+        "stroke_count": "10",
         "names": "\ub450\ud130\uc6b8 \uc804",
         "definitions": []
     },
@@ -77822,6 +79652,9 @@
         ]
     },
     {
+        "character": "\u5ae5",
+        "pronunciation": "\uc804",
+        "stroke_count": "14",
         "names": "\uc544\ub984\ub2e4\uc6b8 \uc804",
         "definitions": []
     },
@@ -77932,6 +79765,9 @@
         ]
     },
     {
+        "character": "\u6229",
+        "pronunciation": "\uc804",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "exterminate, destroy",
@@ -77999,6 +79835,9 @@
         ]
     },
     {
+        "character": "\u68e7",
+        "pronunciation": "\uc804",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "warehouse",
@@ -78108,10 +79947,16 @@
         ]
     },
     {
+        "character": "\u7320",
+        "pronunciation": "\uc804",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u7420",
+        "pronunciation": "\uc804",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "a gem used as ear plug",
@@ -78510,6 +80355,9 @@
         ]
     },
     {
+        "character": "\u913d",
+        "pronunciation": "\uc804",
+        "stroke_count": "18",
         "names": "\uac00\uac8c \uc804",
         "definitions": []
     },
@@ -78540,12 +80388,18 @@
         ]
     },
     {
+        "character": "\u92ad",
+        "pronunciation": "\uc804",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "money, currency, coins"
         ]
     },
     {
+        "character": "\u92d1",
+        "pronunciation": "\uc804",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "to engrave or carve, as a block for printing"
@@ -78701,6 +80555,9 @@
         ]
     },
     {
+        "character": "\u9930",
+        "pronunciation": "\uc804",
+        "stroke_count": "18",
         "names": "\ub41c\uc8fd \uc804",
         "definitions": []
     },
@@ -78791,6 +80648,9 @@
         ]
     },
     {
+        "character": "\u5e19",
+        "pronunciation": "\uc808",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "book cover",
@@ -79101,6 +80961,9 @@
         ]
     },
     {
+        "character": "\u7b18",
+        "pronunciation": "\uc810",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
@@ -79153,12 +81016,18 @@
         "definitions": []
     },
     {
+        "character": "\u86c5",
+        "pronunciation": "\uc810",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "a caterpillar"
         ]
     },
     {
+        "character": "\u8998",
+        "pronunciation": "\uc810",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "peek",
@@ -79282,6 +81151,9 @@
         ]
     },
     {
+        "character": "\u66e1",
+        "pronunciation": "\uc811",
+        "stroke_count": "19",
         "names": [],
         "definitions": [
             "repeat, duplicate",
@@ -79452,6 +81324,9 @@
         ]
     },
     {
+        "character": "\u4f42",
+        "pronunciation": "\uc815",
+        "stroke_count": "7",
         "names": "\ub450\ub824\uc6cc\ud560 \uc815",
         "definitions": []
     },
@@ -79531,10 +81406,16 @@
         ]
     },
     {
+        "character": "\u59c3",
+        "pronunciation": "\uc815",
+        "stroke_count": "8",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u5a67",
+        "pronunciation": "\uc815",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "modest",
@@ -79735,6 +81616,9 @@
         ]
     },
     {
+        "character": "\u6678",
+        "pronunciation": "\uc815",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
@@ -79905,6 +81789,9 @@
         ]
     },
     {
+        "character": "\u706f",
+        "pronunciation": "\uc815",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "lantern, lamp"
@@ -79966,6 +81853,9 @@
         ]
     },
     {
+        "character": "\u753c",
+        "pronunciation": "\uc815",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "raised path between fields"
@@ -80077,6 +81967,9 @@
         ]
     },
     {
+        "character": "\u7d8e",
+        "pronunciation": "\uc815",
+        "stroke_count": "13",
         "names": "\ub760\uc220 \uc815",
         "definitions": []
     },
@@ -80130,6 +82023,9 @@
         ]
     },
     {
+        "character": "\u8aea",
+        "pronunciation": "\uc815",
+        "stroke_count": "16",
         "names": "",
         "definitions": []
     },
@@ -80235,6 +82131,9 @@
         ]
     },
     {
+        "character": "\u92e5",
+        "pronunciation": "\uc815",
+        "stroke_count": "15",
         "names": "",
         "definitions": []
     },
@@ -80678,6 +82577,9 @@
         ]
     },
     {
+        "character": "\u7445",
+        "pronunciation": "\uc81c",
+        "stroke_count": "13",
         "names": "\uc81c\ub2f9 \uc81c",
         "definitions": []
     },
@@ -80870,6 +82772,9 @@
         ]
     },
     {
+        "character": "\u9357",
+        "pronunciation": "\uc81c",
+        "stroke_count": "17",
         "names": "\ud070 \uac00\ub9c8 \uc81c",
         "definitions": []
     },
@@ -81117,6 +83022,9 @@
         ]
     },
     {
+        "character": "\u528b",
+        "pronunciation": "\uc870",
+        "stroke_count": "15",
         "names": "\ub04a\uc744 \uc870",
         "definitions": []
     },
@@ -81156,6 +83064,9 @@
         ]
     },
     {
+        "character": "\u5515",
+        "pronunciation": "\uc870",
+        "stroke_count": "10",
         "names": "\uc9c0\uc800\uadc8 \uc870",
         "definitions": []
     },
@@ -81205,6 +83116,9 @@
         ]
     },
     {
+        "character": "\u5b25",
+        "pronunciation": "\uc870",
+        "stroke_count": "17",
         "names": "\ub0a0\uc52c\ud560 \uc870",
         "definitions": []
     },
@@ -81377,6 +83291,9 @@
         ]
     },
     {
+        "character": "\u66fa",
+        "pronunciation": "\uc870",
+        "stroke_count": "10",
         "names": "\uc131 \uc870",
         "definitions": []
     },
@@ -81738,6 +83655,9 @@
         ]
     },
     {
+        "character": "\u7d69",
+        "pronunciation": "\uc870",
+        "stroke_count": "12",
         "names": "\uacac\uc9c1\ubb3c \ub0a0\uc2e4 \uc218 \uc870",
         "definitions": []
     },
@@ -81977,6 +83897,9 @@
         ]
     },
     {
+        "character": "\u921f",
+        "pronunciation": "\uc870",
+        "stroke_count": "12",
         "names": "\ub09a\uc2dc \uc870",
         "definitions": []
     },
@@ -81994,6 +83917,9 @@
         ]
     },
     {
+        "character": "\u92fd",
+        "pronunciation": "\uc870",
+        "stroke_count": "16",
         "names": "\ubd88\ub9ac\uc9c0 \uc54a\uc740 \uc1e0 \uc870",
         "definitions": []
     },
@@ -82293,10 +84219,16 @@
         ]
     },
     {
+        "character": "\u5027",
+        "pronunciation": "\uc885",
+        "stroke_count": "10",
         "names": "\uc0c1\uace0 \uc2e0\uc778 \uc885",
         "definitions": []
     },
     {
+        "character": "\u55a0",
+        "pronunciation": "\uc885",
+        "stroke_count": "12",
         "names": "\ub9d0 \ubabb\ud560 \uc885",
         "definitions": []
     },
@@ -82347,6 +84279,9 @@
         ]
     },
     {
+        "character": "\u6152",
+        "pronunciation": "\uc885",
+        "stroke_count": "14",
         "names": "\uc0dd\uac01\ud560 \uc885",
         "definitions": []
     },
@@ -82629,6 +84564,9 @@
         ]
     },
     {
+        "character": "\u4fb3",
+        "pronunciation": "\uc88c",
+        "stroke_count": "9",
         "names": "\uc695\ubcf4\uc77c \uc88c",
         "definitions": []
     },
@@ -82742,6 +84680,9 @@
         ]
     },
     {
+        "character": "\u8127",
+        "pronunciation": "\uc8c4",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "reduce, contract > exploit",
@@ -83289,6 +85230,9 @@
         ]
     },
     {
+        "character": "\u7c52",
+        "pronunciation": "\uc8fc",
+        "stroke_count": "21",
         "names": "\uc8fc\ubb38 \uc8fc",
         "definitions": []
     },
@@ -83503,6 +85447,9 @@
         ]
     },
     {
+        "character": "\u8d8e",
+        "pronunciation": "\uc8fc",
+        "stroke_count": "13",
         "names": "\uc0ac\ub78c\uc774\ub984 \uc8fc",
         "definitions": []
     },
@@ -83623,6 +85570,9 @@
         ]
     },
     {
+        "character": "\u9252",
+        "pronunciation": "\uc8fc",
+        "stroke_count": "13",
         "names": "\uc1f3\ub3cc \uc8fc",
         "definitions": []
     },
@@ -83639,10 +85589,16 @@
         ]
     },
     {
+        "character": "\u970c",
+        "pronunciation": "\uc8fc",
+        "stroke_count": "16",
         "names": "\uc6b4\uc6b0 \ubaa8\uc591 \uc8fc",
         "definitions": []
     },
     {
+        "character": "\u9714",
+        "pronunciation": "\uc8fc",
+        "stroke_count": "16",
         "names": "\uc7a5\ub9c8 \uc8fc",
         "definitions": []
     },
@@ -83681,6 +85637,9 @@
         ]
     },
     {
+        "character": "\u558c",
+        "pronunciation": "\uc8fd",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "syllable"
@@ -83734,6 +85693,9 @@
         ]
     },
     {
+        "character": "\u50d4",
+        "pronunciation": "\uc900",
+        "stroke_count": "14",
         "names": "\ubaa8\uc744 \uc900",
         "definitions": []
     },
@@ -83798,6 +85760,9 @@
         ]
     },
     {
+        "character": "\u57fb",
+        "pronunciation": "\uc900",
+        "stroke_count": "11",
         "names": "\uacfc\ub158 \uc900",
         "definitions": []
     },
@@ -83813,6 +85778,9 @@
         ]
     },
     {
+        "character": "\u5bef",
+        "pronunciation": "\uc900",
+        "stroke_count": "16",
         "names": "\ubaa8\uc77c \uc900",
         "definitions": []
     },
@@ -83892,6 +85860,9 @@
         ]
     },
     {
+        "character": "\u6659",
+        "pronunciation": "\uc900",
+        "stroke_count": "11",
         "names": "\ubc1d\uc744 \uc900",
         "definitions": []
     },
@@ -84000,6 +85971,9 @@
         ]
     },
     {
+        "character": "\u7da7",
+        "pronunciation": "\uc900",
+        "stroke_count": "14",
         "names": "\ud53c\ub959\uc758 \ud3ed\uc758 \ub113\uc774 \uc900",
         "definitions": []
     },
@@ -84143,6 +86117,9 @@
         ]
     },
     {
+        "character": "\u9d54",
+        "pronunciation": "\uc900",
+        "stroke_count": "18",
         "names": "\uae08\uacc4 \uc900",
         "definitions": []
     },
@@ -84400,6 +86377,9 @@
         ]
     },
     {
+        "character": "\u857a",
+        "pronunciation": "\uc999",
+        "stroke_count": "19",
         "names": "\uc0bc\ubc31\ucd08 \uc999",
         "definitions": []
     },
@@ -84741,6 +86721,9 @@
         ]
     },
     {
+        "character": "\u627a",
+        "pronunciation": "\uc9c0",
+        "stroke_count": "7",
         "names": "\uc190\ubc14\ub2e5 \uc9c0",
         "definitions": []
     },
@@ -84855,6 +86838,9 @@
         ]
     },
     {
+        "character": "\u69b0",
+        "pronunciation": "\uc9c0",
+        "stroke_count": "14",
         "names": "\uc8fc\ucda7\ub3cc \uc9c0",
         "definitions": []
     },
@@ -85001,6 +86987,9 @@
         ]
     },
     {
+        "character": "\u79d6",
+        "pronunciation": "\uc9c0",
+        "stroke_count": "9",
         "names": "\ub9c8\uce68 \uc9c0",
         "definitions": []
     },
@@ -85215,6 +87204,9 @@
         ]
     },
     {
+        "character": "\u9007",
+        "pronunciation": "\uc9c0",
+        "stroke_count": "10",
         "names": "\uad6c\ub369\uc774 \uc9c0",
         "definitions": []
     },
@@ -85327,6 +87319,9 @@
         ]
     },
     {
+        "character": "\u799d",
+        "pronunciation": "\uc9c1",
+        "stroke_count": "15",
         "names": "\uc0ac\ub78c \uc774\ub984 \uc9c1",
         "definitions": []
     },
@@ -85378,6 +87373,9 @@
         ]
     },
     {
+        "character": "\u4fb2",
+        "pronunciation": "\uc9c4",
+        "stroke_count": "9",
         "names": "\ub3d9\uc790 \uc9c4",
         "definitions": []
     },
@@ -85415,6 +87413,9 @@
         ]
     },
     {
+        "character": "\u568d",
+        "pronunciation": "\uc9c4",
+        "stroke_count": "17",
         "names": "\ud654\ub0bc \uc9c4",
         "definitions": []
     },
@@ -85513,6 +87514,9 @@
         ]
     },
     {
+        "character": "\u686d",
+        "pronunciation": "\uc9c4",
+        "stroke_count": "11",
         "names": "\ud3c9\uace0\ub300 \uc9c4",
         "definitions": []
     },
@@ -85576,10 +87580,16 @@
         ]
     },
     {
+        "character": "\u73d2",
+        "pronunciation": "\uc9c4",
+        "stroke_count": "10",
         "names": "\uc625 \uc774\ub984 \uc9c4",
         "definitions": []
     },
     {
+        "character": "\u740e",
+        "pronunciation": "\uc9c4",
+        "stroke_count": "11",
         "names": "\uc625\ub3cc \uc9c4",
         "definitions": []
     },
@@ -85690,6 +87700,9 @@
         ]
     },
     {
+        "character": "\u7a39",
+        "pronunciation": "\uc9c4",
+        "stroke_count": "15",
         "names": "\ub5a8\uae30\ub85c \ub0a0 \uc9c4",
         "definitions": []
     },
@@ -85751,6 +87764,9 @@
         ]
     },
     {
+        "character": "\u87b4",
+        "pronunciation": "\uc9c4",
+        "stroke_count": "17",
         "names": "\uc124\ub810 \uc9c4",
         "definitions": []
     },
@@ -85835,6 +87851,9 @@
         ]
     },
     {
+        "character": "\u9241",
+        "pronunciation": "\uc9c4",
+        "stroke_count": "13",
         "names": "\ubcf4\ubc30 \uc9c4",
         "definitions": []
     },
@@ -85933,6 +87952,9 @@
         ]
     },
     {
+        "character": "\u5128",
+        "pronunciation": "\uc9c8",
+        "stroke_count": "17",
         "names": "\ubc14\ub97c \uc9c8",
         "definitions": []
     },
@@ -86029,6 +88051,9 @@
         ]
     },
     {
+        "character": "\u74c6",
+        "pronunciation": "\uc9c8",
+        "stroke_count": "19",
         "names": "\uc0ac\ub78c \uc774\ub984 \uc9c8",
         "definitions": []
     },
@@ -86228,6 +88253,9 @@
         ]
     },
     {
+        "character": "\u5359",
+        "pronunciation": "\uc9d1",
+        "stroke_count": "11",
         "names": "\ub9ce\uc744 \uc9d1",
         "definitions": []
     },
@@ -86282,6 +88310,9 @@
         ]
     },
     {
+        "character": "\u6f57",
+        "pronunciation": "\uc9d1",
+        "stroke_count": "15",
         "names": "\uc0d8\uc19f\uc744 \uc9d1",
         "definitions": []
     },
@@ -86309,6 +88340,9 @@
         ]
     },
     {
+        "character": "\u93f6",
+        "pronunciation": "\uc9d1",
+        "stroke_count": "20",
         "names": "\ud310\uae08 \uc9d1",
         "definitions": []
     },
@@ -86404,6 +88438,9 @@
         ]
     },
     {
+        "character": "\u7013",
+        "pronunciation": "\uc9d5",
+        "stroke_count": "18",
         "names": "\ub9d1\uc744 \uc9d5",
         "definitions": []
     },
@@ -86633,6 +88670,9 @@
         ]
     },
     {
+        "character": "\u5fa3",
+        "pronunciation": "\ucc28",
+        "stroke_count": "11",
         "names": "\ube4c\ub9b4 \ucc28",
         "definitions": []
     },
@@ -86860,6 +88900,9 @@
         ]
     },
     {
+        "character": "\u5252",
+        "pronunciation": "\ucc29",
+        "stroke_count": "10",
         "names": "\ubca8 \ucc29",
         "definitions": []
     },
@@ -87041,6 +89084,9 @@
         ]
     },
     {
+        "character": "\u5127",
+        "pronunciation": "\ucc2c",
+        "stroke_count": "17",
         "names": "\ubaa8\uc77c \ucc2c",
         "definitions": []
     },
@@ -87066,14 +89112,23 @@
         "definitions": []
     },
     {
+        "character": "\u5297",
+        "pronunciation": "\ucc2c",
+        "stroke_count": "21",
         "names": "\ub04a\uc744 \ucc2c",
         "definitions": []
     },
     {
+        "character": "\u56cb",
+        "pronunciation": "\ucc2c",
+        "stroke_count": "22",
         "names": "\uae30\ub9b4 \ucc2c",
         "definitions": []
     },
     {
+        "character": "\u5dd1",
+        "pronunciation": "\ucc2c",
+        "stroke_count": "22",
         "names": "\ub192\uc774 \uc19f\uc744 \ucc2c",
         "definitions": []
     },
@@ -87111,6 +89166,9 @@
         ]
     },
     {
+        "character": "\u6faf",
+        "pronunciation": "\ucc2c",
+        "stroke_count": "16",
         "names": "\ub9d1\uc744 \ucc2c",
         "definitions": []
     },
@@ -87234,6 +89292,9 @@
         ]
     },
     {
+        "character": "\u7e89",
+        "pronunciation": "\ucc2c",
+        "stroke_count": "21",
         "names": "\uc774\uc744 \ucc2c",
         "definitions": []
     },
@@ -87377,10 +89438,16 @@
         ]
     },
     {
+        "character": "\u54f3",
+        "pronunciation": "\ucc30",
+        "stroke_count": "10",
         "names": "\uc0c8\uc18c\ub9ac \ucc30",
         "definitions": []
     },
     {
+        "character": "\u56cb",
+        "pronunciation": "\ucc30",
+        "stroke_count": "22",
         "names": "\uae30\ub9b4 \ucc30",
         "definitions": []
     },
@@ -87516,6 +89583,9 @@
         ]
     },
     {
+        "character": "\u53bd",
+        "pronunciation": "\ucc38",
+        "stroke_count": "6",
         "names": "\ud759\uc744 \uc313\uc544\uc11c \ub2f4 \uc300 \ucc38",
         "definitions": []
     },
@@ -87569,6 +89639,9 @@
         ]
     },
     {
+        "character": "\u5646",
+        "pronunciation": "\ucc38",
+        "stroke_count": "15",
         "names": "\uae68\ubb3c \ucc38",
         "definitions": []
     },
@@ -88172,6 +90245,9 @@
         ]
     },
     {
+        "character": "\u6919",
+        "pronunciation": "\ucc3d",
+        "stroke_count": "12",
         "names": "\uc0bc\ub098\ubb34 \ucc3d",
         "definitions": []
     },
@@ -88278,6 +90354,9 @@
         ]
     },
     {
+        "character": "\u7abb",
+        "pronunciation": "\ucc3d",
+        "stroke_count": "16",
         "names": "\ucc3d \ucc3d",
         "definitions": []
     },
@@ -88361,6 +90440,9 @@
         ]
     },
     {
+        "character": "\u56c6",
+        "pronunciation": "\ucc44",
+        "stroke_count": "22",
         "names": "\uc0ac\ub78c \uc774\ub984 \ucc44",
         "definitions": []
     },
@@ -88434,6 +90516,9 @@
         ]
     },
     {
+        "character": "\u68cc",
+        "pronunciation": "\ucc44",
+        "stroke_count": "12",
         "names": "\ucc38\ub098\ubb34 \ucc44",
         "definitions": []
     },
@@ -88485,6 +90570,9 @@
         ]
     },
     {
+        "character": "\u831d",
+        "pronunciation": "\ucc44",
+        "stroke_count": "13",
         "names": "\uad6c\ub9ac\ub54c \ucc44",
         "definitions": []
     },
@@ -88581,6 +90669,9 @@
         ]
     },
     {
+        "character": "\u5387",
+        "pronunciation": "\ucc45",
+        "stroke_count": "5",
         "names": "\ucc22\uc744 \ucc45",
         "definitions": []
     },
@@ -88946,10 +91037,16 @@
         ]
     },
     {
+        "character": "\u5767",
+        "pronunciation": "\ucc99",
+        "stroke_count": "8",
         "names": "\uae30\uc9c0 \ucc99",
         "definitions": []
     },
     {
+        "character": "\u5849",
+        "pronunciation": "\ucc99",
+        "stroke_count": "13",
         "names": "\uba54\ub9c8\ub978 \ub545 \ucc99",
         "definitions": []
     },
@@ -89272,10 +91369,16 @@
         ]
     },
     {
+        "character": "\u50e2",
+        "pronunciation": "\ucc9c",
+        "stroke_count": "14",
         "names": "\uc5b4\uadf8\ub7ec\uc9c8 \ucc9c",
         "definitions": []
     },
     {
+        "character": "\u5103",
+        "pronunciation": "\ucc9c",
+        "stroke_count": "15",
         "names": "\uba38\ubb47\uac70\ub9b4 \ucc9c",
         "definitions": []
     },
@@ -89532,6 +91635,9 @@
         ]
     },
     {
+        "character": "\u81f6",
+        "pronunciation": "\ucc9c",
+        "stroke_count": "12",
         "names": "\uac70\ub4ed \ucc9c",
         "definitions": []
     },
@@ -89570,6 +91676,9 @@
         ]
     },
     {
+        "character": "\u83a4",
+        "pronunciation": "\ucc9c",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
@@ -89837,6 +91946,9 @@
         ]
     },
     {
+        "character": "\u57d1",
+        "pronunciation": "\ucca0",
+        "stroke_count": "10",
         "names": "\ubc1d\uc744 \ucca0",
         "definitions": []
     },
@@ -90002,6 +92114,9 @@
         ]
     },
     {
+        "character": "\u98fb",
+        "pronunciation": "\ucca0",
+        "stroke_count": "14",
         "names": "\ud0d0\ud560 \ucca0",
         "definitions": []
     },
@@ -90064,6 +92179,9 @@
         ]
     },
     {
+        "character": "\u60c9",
+        "pronunciation": "\ucca8",
+        "stroke_count": "12",
         "names": "\ud330 \ucca8",
         "definitions": []
     },
@@ -90092,6 +92210,9 @@
         ]
     },
     {
+        "character": "\u6afc",
+        "pronunciation": "\ucca8",
+        "stroke_count": "21",
         "names": "\uc410\uae30 \ucca8",
         "definitions": []
     },
@@ -90120,6 +92241,9 @@
         ]
     },
     {
+        "character": "\u7038",
+        "pronunciation": "\ucca8",
+        "stroke_count": "20",
         "names": "\uc801\uc2e4 \ucca8",
         "definitions": []
     },
@@ -90659,6 +92783,9 @@
         ]
     },
     {
+        "character": "\u9d84",
+        "pronunciation": "\uccad",
+        "stroke_count": "19",
         "names": "\uad50\uccad\uc0c8 \uccad",
         "definitions": []
     },
@@ -90720,6 +92847,9 @@
         ]
     },
     {
+        "character": "\u5551",
+        "pronunciation": "\uccb4",
+        "stroke_count": "11",
         "names": "\ucf67\uae40 \ubd88 \uccb4",
         "definitions": []
     },
@@ -90978,6 +93108,9 @@
         ]
     },
     {
+        "character": "\u9af0",
+        "pronunciation": "\uccb4",
+        "stroke_count": "15",
         "names": "",
         "definitions": []
     },
@@ -91110,6 +93243,9 @@
         ]
     },
     {
+        "character": "\u5af6",
+        "pronunciation": "\ucd08",
+        "stroke_count": "15",
         "names": "\uc218\ucc99\ud560 \ucd08",
         "definitions": []
     },
@@ -91138,10 +93274,16 @@
         ]
     },
     {
+        "character": "\u5d95",
+        "pronunciation": "\ucd08",
+        "stroke_count": "15",
         "names": "\ub192\uc744 \ucd08",
         "definitions": []
     },
     {
+        "character": "\u600a",
+        "pronunciation": "\ucd08",
+        "stroke_count": "8",
         "names": "\uc2ac\ud37c\ud560 \ucd08",
         "definitions": []
     },
@@ -91370,6 +93512,9 @@
         ]
     },
     {
+        "character": "\u8016",
+        "pronunciation": "\ucd08",
+        "stroke_count": "10",
         "names": "\ubc2d \uac70\ub4ed \uac08 \ucd08",
         "definitions": []
     },
@@ -91477,6 +93622,9 @@
         ]
     },
     {
+        "character": "\u8da0",
+        "pronunciation": "\ucd08",
+        "stroke_count": "15",
         "names": "\uba40 \ucd08",
         "definitions": []
     },
@@ -91733,6 +93881,9 @@
         ]
     },
     {
+        "character": "\u66ef",
+        "pronunciation": "\ucd09",
+        "stroke_count": "25",
         "names": "\ube44\uce60 \ucd09",
         "definitions": []
     },
@@ -91869,6 +94020,9 @@
         ]
     },
     {
+        "character": "\u520c",
+        "pronunciation": "\ucd0c",
+        "stroke_count": "5",
         "names": "\ub04a\uc744 \ucd0c",
         "definitions": []
     },
@@ -91938,6 +94092,9 @@
         ]
     },
     {
+        "character": "\u4f1c",
+        "pronunciation": "\ucd10",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "deputy, vice-"
@@ -92320,6 +94477,9 @@
         ]
     },
     {
+        "character": "\u51d7",
+        "pronunciation": "\ucd5c",
+        "stroke_count": "13",
         "names": "\ub208\uc11c\ub9ac \uc313\uc77c \ucd5c",
         "definitions": []
     },
@@ -92488,6 +94648,9 @@
         ]
     },
     {
+        "character": "\u50fd",
+        "pronunciation": "\ucd94",
+        "stroke_count": "15",
         "names": "\ubab9\uc2dc \uc695\ud560 \ucd94",
         "definitions": []
     },
@@ -93168,6 +95331,9 @@
         ]
     },
     {
+        "character": "\u9db5",
+        "pronunciation": "\ucd94",
+        "stroke_count": "21",
         "names": [],
         "definitions": [
             "chick, fledging",
@@ -93187,6 +95353,9 @@
         ]
     },
     {
+        "character": "\u9e84",
+        "pronunciation": "\ucd94",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "coarse, rough, rude"
@@ -93232,6 +95401,9 @@
         ]
     },
     {
+        "character": "\u5648",
+        "pronunciation": "\ucd95",
+        "stroke_count": "15",
         "names": "\uc785\ub9de\ucd9c \ucd95",
         "definitions": []
     },
@@ -93395,6 +95567,9 @@
         ]
     },
     {
+        "character": "\u8da3",
+        "pronunciation": "\ucd95",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "what attracts one's attention"
@@ -93482,6 +95657,9 @@
         ]
     },
     {
+        "character": "\u9f00",
+        "pronunciation": "\ucd95",
+        "stroke_count": "18",
         "names": "\ub450\uaebc\ube44 \ucd95",
         "definitions": []
     },
@@ -93525,10 +95703,16 @@
         ]
     },
     {
+        "character": "\u7443",
+        "pronunciation": "\ucd98",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u8405",
+        "pronunciation": "\ucd98",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "spring",
@@ -93579,6 +95763,9 @@
         ]
     },
     {
+        "character": "\u672f",
+        "pronunciation": "\ucd9c",
+        "stroke_count": "5",
         "names": [],
         "definitions": [
             "art, skill, special feat",
@@ -93687,6 +95874,9 @@
         ]
     },
     {
+        "character": "\u73eb",
+        "pronunciation": "\ucda9",
+        "stroke_count": "10",
         "names": "",
         "definitions": []
     },
@@ -93954,10 +96144,16 @@
         ]
     },
     {
+        "character": "\u75a9",
+        "pronunciation": "\ucde8",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u7601",
+        "pronunciation": "\ucde8",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "feel tired, be weary, be worn out"
@@ -94055,6 +96251,9 @@
         ]
     },
     {
+        "character": "\u9847",
+        "pronunciation": "\ucde8",
+        "stroke_count": "17",
         "names": [],
         "definitions": [
             "be worn out, be haggard"
@@ -94162,6 +96361,9 @@
         ]
     },
     {
+        "character": "\u5601",
+        "pronunciation": "\uce21",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "to be grieved",
@@ -94480,6 +96682,9 @@
         ]
     },
     {
+        "character": "\u6603",
+        "pronunciation": "\uce58",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "afternoon",
@@ -94515,6 +96720,9 @@
         ]
     },
     {
+        "character": "\u6a28",
+        "pronunciation": "\uce58",
+        "stroke_count": "15",
         "names": "",
         "definitions": []
     },
@@ -94708,6 +96916,9 @@
         ]
     },
     {
+        "character": "\u8006",
+        "pronunciation": "\uce58",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "man of sixty",
@@ -94926,6 +97137,9 @@
         ]
     },
     {
+        "character": "\u9d19",
+        "pronunciation": "\uce58",
+        "stroke_count": "16",
         "names": "\u96c9\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -94976,6 +97190,9 @@
         ]
     },
     {
+        "character": "\u4f99",
+        "pronunciation": "\uce59",
+        "stroke_count": "8",
         "names": "\ub450\ub824\uc6cc\ud560 \uce59",
         "definitions": []
     },
@@ -95078,6 +97295,9 @@
         ]
     },
     {
+        "character": "\u85fd",
+        "pronunciation": "\uce5c",
+        "stroke_count": "22",
         "names": "",
         "definitions": []
     },
@@ -95184,6 +97404,9 @@
         ]
     },
     {
+        "character": "\u5153",
+        "pronunciation": "\uce68",
+        "stroke_count": "8",
         "names": "\ub0a0\uce74\ub85c\uc6b8 \uce68",
         "definitions": []
     },
@@ -95252,6 +97475,9 @@
         ]
     },
     {
+        "character": "\u60e8",
+        "pronunciation": "\uce68",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "sad, pitiful, wretched",
@@ -95259,6 +97485,9 @@
         ]
     },
     {
+        "character": "\u6158",
+        "pronunciation": "\uce68",
+        "stroke_count": "14",
         "names": [],
         "definitions": [
             "sad, pitiful, wretched",
@@ -95667,6 +97896,9 @@
         ]
     },
     {
+        "character": "\u579e",
+        "pronunciation": "\ud0c0",
+        "stroke_count": "9",
         "names": [],
         "definitions": [
             "small mound",
@@ -95960,6 +98192,9 @@
         ]
     },
     {
+        "character": "\u99d8",
+        "pronunciation": "\ud0c0",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "an old, tired horse, a jade",
@@ -96114,6 +98349,9 @@
         ]
     },
     {
+        "character": "\u5545",
+        "pronunciation": "\ud0c1",
+        "stroke_count": "11",
         "names": "\u5544\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -96329,6 +98567,9 @@
         ]
     },
     {
+        "character": "\u7438",
+        "pronunciation": "\ud0c1",
+        "stroke_count": "12",
         "names": "\uc0ac\ub78c\uc774\ub984 \ud0c1",
         "definitions": []
     },
@@ -96602,6 +98843,9 @@
         ]
     },
     {
+        "character": "\u61bb",
+        "pronunciation": "\ud0c4",
+        "stroke_count": "17",
         "names": "\u5766\uacfc \u540c\u5b57",
         "definitions": []
     },
@@ -96848,6 +99092,9 @@
         ]
     },
     {
+        "character": "\u5fd0",
+        "pronunciation": "\ud0d0",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "timorous",
@@ -96935,6 +99182,9 @@
         "definitions": []
     },
     {
+        "character": "\u55d2",
+        "pronunciation": "\ud0d1",
+        "stroke_count": "13",
         "names": "\uc6b0\ub450\uba3c\ud560 \ud0d1",
         "definitions": []
     },
@@ -97023,6 +99273,9 @@
         ]
     },
     {
+        "character": "\u5052",
+        "pronunciation": "\ud0d5",
+        "stroke_count": "11",
         "names": "\ud5cc\uac78\ucc30 \ud0d5",
         "definitions": []
     },
@@ -97112,6 +99365,9 @@
         ]
     },
     {
+        "character": "\u7cd6",
+        "pronunciation": "\ud0d5",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "sugar",
@@ -97148,6 +99404,9 @@
         ]
     },
     {
+        "character": "\ufa03",
+        "pronunciation": "\ud0d5",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "sugar",
@@ -97156,6 +99415,9 @@
         ]
     },
     {
+        "character": "\u514a",
+        "pronunciation": "\ud0dc",
+        "stroke_count": "6",
         "names": "\u514c\uc758 \u4fd7\u5b57",
         "definitions": []
     },
@@ -97206,6 +99468,9 @@
         ]
     },
     {
+        "character": "\u5446",
+        "pronunciation": "\ud0dc",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "dull",
@@ -97264,6 +99529,9 @@
         "definitions": []
     },
     {
+        "character": "\u5b61",
+        "pronunciation": "\ud0dc",
+        "stroke_count": "8",
         "names": "",
         "definitions": []
     },
@@ -97597,6 +99865,9 @@
         ]
     },
     {
+        "character": "\u5e40",
+        "pronunciation": "\ud0f1",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "picture, scroll",
@@ -97631,6 +99902,9 @@
         ]
     },
     {
+        "character": "\u725a",
+        "pronunciation": "\ud0f1",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
@@ -97759,12 +100033,18 @@
         ]
     },
     {
+        "character": "\u5678",
+        "pronunciation": "\ud1a4",
+        "stroke_count": "16",
         "names": [],
         "definitions": [
             "metric ton"
         ]
     },
     {
+        "character": "\u74f2",
+        "pronunciation": "\ud1a4",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -98213,6 +100493,9 @@
         ]
     },
     {
+        "character": "\u4f5f",
+        "pronunciation": "\ud241",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "a name"
@@ -98279,6 +100562,9 @@
         ]
     },
     {
+        "character": "\u95d6",
+        "pronunciation": "\ud2c8",
+        "stroke_count": "18",
         "names": [],
         "definitions": [
             "rush in, burst in, charge in"
@@ -98358,6 +100644,9 @@
         ]
     },
     {
+        "character": "\u5ca5",
+        "pronunciation": "\ud30c",
+        "stroke_count": "8",
         "names": "\uc0b0 \ube44\uc54c\uc9c8 \ud30c",
         "definitions": []
     },
@@ -98446,6 +100735,9 @@
         ]
     },
     {
+        "character": "\u6733",
+        "pronunciation": "\ud30c",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "tree"
@@ -98466,10 +100758,16 @@
         ]
     },
     {
+        "character": "\u6c43",
+        "pronunciation": "\ud30c",
+        "stroke_count": "5",
         "names": "",
         "definitions": []
     },
     {
+        "character": "\u6c74",
+        "pronunciation": "\ud30c",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "name of a river in Henan",
@@ -99008,6 +101306,9 @@
         ]
     },
     {
+        "character": "\u62e8",
+        "pronunciation": "\ud328",
+        "stroke_count": "8",
         "names": [],
         "definitions": [
             "move",
@@ -99387,6 +101688,9 @@
         ]
     },
     {
+        "character": "\u533e",
+        "pronunciation": "\ud3b8",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "flat, round split-bamboo contain"
@@ -99405,6 +101709,9 @@
         ]
     },
     {
+        "character": "\u5fa7",
+        "pronunciation": "\ud3b8",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "everywhere, all over, all around"
@@ -99513,6 +101820,9 @@
         ]
     },
     {
+        "character": "\u8439",
+        "pronunciation": "\ud3b8",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "grass"
@@ -100088,6 +102398,9 @@
         ]
     },
     {
+        "character": "\u5124",
+        "pronunciation": "\ud3ec",
+        "stroke_count": "17",
         "names": [],
         "definitions": [
             "on duty"
@@ -100898,6 +103211,9 @@
         ]
     },
     {
+        "character": "\u6153",
+        "pronunciation": "\ud45c",
+        "stroke_count": "14",
         "names": "\uae09\ud560 \ud45c",
         "definitions": []
     },
@@ -101339,6 +103655,9 @@
         ]
     },
     {
+        "character": "\u95cf",
+        "pronunciation": "\ud48d",
+        "stroke_count": "17",
         "names": "",
         "definitions": []
     },
@@ -101379,6 +103698,9 @@
         ]
     },
     {
+        "character": "\u4f4a",
+        "pronunciation": "\ud53c",
+        "stroke_count": "7",
         "names": "\uac04\uc0ac\ud560 \ud53c",
         "definitions": []
     },
@@ -101720,6 +104042,9 @@
         ]
     },
     {
+        "character": "\u6eed",
+        "pronunciation": "\ud544",
+        "stroke_count": "14",
         "names": "\uc0d8 \ub053\uc5b4 \uc19f\uc744 \ud544",
         "definitions": []
     },
@@ -101791,10 +104116,16 @@
         ]
     },
     {
+        "character": "\u7f7c",
+        "pronunciation": "\ud544",
+        "stroke_count": "16",
         "names": "\ud1a0\ub07c\uadf8\ubb3c \ud544",
         "definitions": []
     },
     {
+        "character": "\u82fe",
+        "pronunciation": "\ud544",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "smell, fragrance, aroma"
@@ -102021,6 +104352,9 @@
         ]
     },
     {
+        "character": "\u54ec",
+        "pronunciation": "\ud558",
+        "stroke_count": "10",
         "names": "\uafb8\uc9d6\uc744 \ud558",
         "definitions": []
     },
@@ -102061,6 +104395,9 @@
         ]
     },
     {
+        "character": "\u5c88",
+        "pronunciation": "\ud558",
+        "stroke_count": "7",
         "names": "\ud711\ub385\uadf8\ub801\ud560 \ud558",
         "definitions": []
     },
@@ -102076,6 +104413,9 @@
         ]
     },
     {
+        "character": "\u61d7",
+        "pronunciation": "\ud558",
+        "stroke_count": "17",
         "names": "\uc18d\uc77c \ud558",
         "definitions": []
     },
@@ -102208,6 +104548,9 @@
         ]
     },
     {
+        "character": "\u935c",
+        "pronunciation": "\ud558",
+        "stroke_count": "17",
         "names": "\ubaa9\ud22c\uad6c \ud558",
         "definitions": []
     },
@@ -102234,6 +104577,9 @@
         ]
     },
     {
+        "character": "\u55c0",
+        "pronunciation": "\ud559",
+        "stroke_count": "13",
         "names": "\uac8c\uc6b8 \ud559",
         "definitions": []
     },
@@ -102249,6 +104595,9 @@
         ]
     },
     {
+        "character": "\u569b",
+        "pronunciation": "\ud559",
+        "stroke_count": "18",
         "names": "\ub9e4\uc6b8 \ud559",
         "definitions": []
     },
@@ -102350,6 +104699,9 @@
         ]
     },
     {
+        "character": "\u76ac",
+        "pronunciation": "\ud559",
+        "stroke_count": "21",
         "names": "\ud774 \ud559",
         "definitions": []
     },
@@ -103134,6 +105486,9 @@
         ]
     },
     {
+        "character": "\u530c",
+        "pronunciation": "\ud569",
+        "stroke_count": "8",
         "names": "\uae30\uc6b4 \ub2f5\ub2f5\ud560 \ud569",
         "definitions": []
     },
@@ -103968,6 +106323,9 @@
         ]
     },
     {
+        "character": "\u744e",
+        "pronunciation": "\ud574",
+        "stroke_count": "13",
         "names": "",
         "definitions": []
     },
@@ -104344,6 +106702,9 @@
         ]
     },
     {
+        "character": "\u73e6",
+        "pronunciation": "\ud5a5",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "a kind of jade"
@@ -104617,6 +106978,9 @@
         "definitions": []
     },
     {
+        "character": "\u6af6",
+        "pronunciation": "\ud5cc",
+        "stroke_count": "20",
         "names": "",
         "definitions": []
     },
@@ -104774,6 +107138,9 @@
         ]
     },
     {
+        "character": "\u66b3",
+        "pronunciation": "\ud600",
+        "stroke_count": "15",
         "names": "",
         "definitions": []
     },
@@ -104939,6 +107306,9 @@
         ]
     },
     {
+        "character": "\u5405",
+        "pronunciation": "\ud604",
+        "stroke_count": "6",
         "names": "\ubd80\ub974\uc9d6\uc744 \ud604",
         "definitions": []
     },
@@ -104954,6 +107324,9 @@
         ]
     },
     {
+        "character": "\u54ef",
+        "pronunciation": "\ud604",
+        "stroke_count": "10",
         "names": "\uc544\uc774 \uc816 \ud1a0\ud560 \ud604",
         "definitions": []
     },
@@ -105102,6 +107475,9 @@
         ]
     },
     {
+        "character": "\u7404",
+        "pronunciation": "\ud604",
+        "stroke_count": "11",
         "names": "",
         "definitions": []
     },
@@ -105274,6 +107650,9 @@
         ]
     },
     {
+        "character": "\u8aa2",
+        "pronunciation": "\ud604",
+        "stroke_count": "14",
         "names": "",
         "definitions": []
     },
@@ -105502,6 +107881,9 @@
         ]
     },
     {
+        "character": "\u52a6",
+        "pronunciation": "\ud611",
+        "stroke_count": "6",
         "names": "\ud798\uc744 \ud569\ud560 \ud611",
         "definitions": []
     },
@@ -105558,10 +107940,16 @@
         ]
     },
     {
+        "character": "\u55cb",
+        "pronunciation": "\ud611",
+        "stroke_count": "13",
         "names": "\ub4e4\uc774\ub9c8\uc2e4 \ud611",
         "definitions": []
     },
     {
+        "character": "\u57c9",
+        "pronunciation": "\ud611",
+        "stroke_count": "10",
         "names": "",
         "definitions": []
     },
@@ -105607,6 +107995,9 @@
         ]
     },
     {
+        "character": "\u608f",
+        "pronunciation": "\ud611",
+        "stroke_count": "10",
         "names": "",
         "definitions": []
     },
@@ -105941,6 +108332,9 @@
         ]
     },
     {
+        "character": "\u7050",
+        "pronunciation": "\ud615",
+        "stroke_count": "21",
         "names": "\ubb3c \uc774\ub984 \ud615",
         "definitions": []
     },
@@ -105982,6 +108376,9 @@
         ]
     },
     {
+        "character": "\u73b9",
+        "pronunciation": "\ud615",
+        "stroke_count": "9",
         "names": "",
         "definitions": []
     },
@@ -106272,6 +108669,9 @@
         ]
     },
     {
+        "character": "\u6075",
+        "pronunciation": "\ud61c",
+        "stroke_count": "10",
         "names": [],
         "definitions": [
             "favor, benefit, confer kindness"
@@ -106350,6 +108750,9 @@
         ]
     },
     {
+        "character": "\u8b7f",
+        "pronunciation": "\ud61c",
+        "stroke_count": "22",
         "names": "\uc2ac\uae30\ub85c\uc6b8 \ud61c",
         "definitions": []
     },
@@ -106426,6 +108829,9 @@
         ]
     },
     {
+        "character": "\u512b",
+        "pronunciation": "\ud638",
+        "stroke_count": "16",
         "names": "\uc601\uc6c5 \ud638",
         "definitions": []
     },
@@ -106469,6 +108875,9 @@
         ]
     },
     {
+        "character": "\u5433",
+        "pronunciation": "\ud638",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "one of warring states",
@@ -106476,6 +108885,9 @@
         ]
     },
     {
+        "character": "\u5449",
+        "pronunciation": "\ud638",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "one of warring states",
@@ -106583,6 +108995,9 @@
         ]
     },
     {
+        "character": "\u58fc",
+        "pronunciation": "\ud638",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "palace corridor or passageway"
@@ -106659,6 +109074,9 @@
         ]
     },
     {
+        "character": "\u6237",
+        "pronunciation": "\ud638",
+        "stroke_count": "4",
         "names": [],
         "definitions": [
             "door",
@@ -106666,6 +109084,9 @@
         ]
     },
     {
+        "character": "\u6238",
+        "pronunciation": "\ud638",
+        "stroke_count": "4",
         "names": [],
         "definitions": [
             "door",
@@ -106759,6 +109180,9 @@
         ]
     },
     {
+        "character": "\u6dcf",
+        "pronunciation": "\ud638",
+        "stroke_count": "11",
         "names": "\ub9d1\uc744 \ud638",
         "definitions": []
     },
@@ -106776,6 +109200,9 @@
         ]
     },
     {
+        "character": "\u6ec8",
+        "pronunciation": "\ud638",
+        "stroke_count": "13",
         "names": "\uc7a5\ub9c8 \ud638",
         "definitions": []
     },
@@ -107291,6 +109718,9 @@
         ]
     },
     {
+        "character": "\u5031",
+        "pronunciation": "\ud63c",
+        "stroke_count": "10",
         "names": "\ud750\ub9bf\ud560 \ud63c",
         "definitions": []
     },
@@ -107529,6 +109959,9 @@
         ]
     },
     {
+        "character": "\u55ca",
+        "pronunciation": "\ud64d",
+        "stroke_count": "13",
         "names": "\ub178\ub798 \ud64d",
         "definitions": []
     },
@@ -107545,6 +109978,9 @@
         ]
     },
     {
+        "character": "\u664e",
+        "pronunciation": "\ud64d",
+        "stroke_count": "10",
         "names": "\ub0a0 \ubc1d\uc73c\ub824 \ud560 \ud64d",
         "definitions": []
     },
@@ -107606,6 +110042,9 @@
         ]
     },
     {
+        "character": "\u7bca",
+        "pronunciation": "\ud64d",
+        "stroke_count": "15",
         "names": "\ud648\ud1b5 \ud64d",
         "definitions": []
     },
@@ -107704,6 +110143,9 @@
         ]
     },
     {
+        "character": "\u4ff0",
+        "pronunciation": "\ud654",
+        "stroke_count": "10",
         "names": "\ud654\ud560 \ud654",
         "definitions": []
     },
@@ -107772,10 +110214,16 @@
         ]
     },
     {
+        "character": "\u5a72",
+        "pronunciation": "\ud654",
+        "stroke_count": "11",
         "names": "\uc608\uc060 \ud654",
         "definitions": []
     },
     {
+        "character": "\u5b05",
+        "pronunciation": "\ud654",
+        "stroke_count": "15",
         "names": "\uc5ec\uc790 \uc774\ub984 \ud654",
         "definitions": []
     },
@@ -108062,6 +110510,9 @@
         ]
     },
     {
+        "character": "\u77e1",
+        "pronunciation": "\ud655",
+        "stroke_count": "25",
         "names": "\ud638\ubbf8 \ud655",
         "definitions": []
     },
@@ -108089,6 +110540,9 @@
         ]
     },
     {
+        "character": "\u792d",
+        "pronunciation": "\ud655",
+        "stroke_count": "21",
         "names": "\ud68c\ucd08\ub9ac \ud655",
         "definitions": []
     },
@@ -108186,6 +110640,9 @@
         "definitions": []
     },
     {
+        "character": "\u56be",
+        "pronunciation": "\ud658",
+        "stroke_count": "21",
         "names": "\uc9c0\uaec4\uc77c \ud658",
         "definitions": []
     },
@@ -108490,6 +110947,9 @@
         ]
     },
     {
+        "character": "\u7d59",
+        "pronunciation": "\ud658",
+        "stroke_count": "12",
         "names": "\ub048\ubaa9 \ud658",
         "definitions": []
     },
@@ -108754,6 +111214,9 @@
         ]
     },
     {
+        "character": "\u5a93",
+        "pronunciation": "\ud669",
+        "stroke_count": "12",
         "names": "\uc5b4\uba38\ub2c8 \ud669",
         "definitions": []
     },
@@ -108815,6 +111278,9 @@
         ]
     },
     {
+        "character": "\u60fa",
+        "pronunciation": "\ud669",
+        "stroke_count": "12",
         "names": [],
         "definitions": [
             "intelligent, clever, astute"
@@ -108936,6 +111402,9 @@
         ]
     },
     {
+        "character": "\u745d",
+        "pronunciation": "\ud669",
+        "stroke_count": "13",
         "names": "\uc625 \uc18c\ub9ac \ud669",
         "definitions": []
     },
@@ -109126,6 +111595,9 @@
         ]
     },
     {
+        "character": "\u5667",
+        "pronunciation": "\ud670",
+        "stroke_count": "16",
         "names": "\uae30\uc6b4 \ub192\uc5ec \ub5a0\ub4e4 \ud670",
         "definitions": []
     },
@@ -109319,6 +111791,9 @@
         ]
     },
     {
+        "character": "\u6a11",
+        "pronunciation": "\ud68c",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "bridge",
@@ -109398,6 +111873,9 @@
         ]
     },
     {
+        "character": "\u70e3",
+        "pronunciation": "\ud68c",
+        "stroke_count": "10",
         "names": "\ub113\ud790 \ud68c",
         "definitions": []
     },
@@ -109470,6 +111948,9 @@
         ]
     },
     {
+        "character": "\u8716",
+        "pronunciation": "\ud68c",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "tapeworm"
@@ -109525,6 +112006,9 @@
         ]
     },
     {
+        "character": "\u9025",
+        "pronunciation": "\ud68c",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "return, turn around",
@@ -109636,6 +112120,9 @@
         ]
     },
     {
+        "character": "\u5b96",
+        "pronunciation": "\ud6a1",
+        "stroke_count": "8",
         "names": "\uc9d1 \uc6b8\ub9b4 \ud6a1",
         "definitions": []
     },
@@ -109662,6 +112149,9 @@
         ]
     },
     {
+        "character": "\u6f8b",
+        "pronunciation": "\ud6a1",
+        "stroke_count": "15",
         "names": "\ubb3c\uc774 \ube59 \ub3cc \ud6a1",
         "definitions": []
     },
@@ -109689,6 +112179,9 @@
         ]
     },
     {
+        "character": "\u921c",
+        "pronunciation": "\ud6a1",
+        "stroke_count": "12",
         "names": "\uc1f3\uc18c\ub9ac \ud6a1",
         "definitions": []
     },
@@ -109786,6 +112279,9 @@
         ]
     },
     {
+        "character": "\u554b",
+        "pronunciation": "\ud6a8",
+        "stroke_count": "11",
         "names": [],
         "definitions": [
             "(Cant.) an interjection used to berate someone"
@@ -109886,6 +112382,9 @@
         ]
     },
     {
+        "character": "\u6569",
+        "pronunciation": "\ud6a8",
+        "stroke_count": "12",
         "names": "\u6586\uc758 \u7565\u5b57",
         "definitions": []
     },
@@ -109977,6 +112476,9 @@
         ]
     },
     {
+        "character": "\u6d8d",
+        "pronunciation": "\ud6a8",
+        "stroke_count": "10",
         "names": "\uc131 \ud6a8",
         "definitions": []
     },
@@ -110025,6 +112527,9 @@
         ]
     },
     {
+        "character": "\u769b",
+        "pronunciation": "\ud6a8",
+        "stroke_count": "15",
         "names": "\ub098\ud0c0\ub0a0 \ud6a8",
         "definitions": []
     },
@@ -110171,6 +112676,9 @@
         ]
     },
     {
+        "character": "\u543d",
+        "pronunciation": "\ud6c4",
+        "stroke_count": "7",
         "names": [],
         "definitions": [
             "'OM'",
@@ -110320,6 +112828,9 @@
         ]
     },
     {
+        "character": "\u73dd",
+        "pronunciation": "\ud6c4",
+        "stroke_count": "10",
         "names": "\uc625 \uc774\ub984 \ud6c4",
         "definitions": []
     },
@@ -110347,6 +112858,9 @@
         ]
     },
     {
+        "character": "\u8774",
+        "pronunciation": "\ud6c4",
+        "stroke_count": "15",
         "names": [],
         "definitions": [
             "butterfly"
@@ -110366,6 +112880,9 @@
         ]
     },
     {
+        "character": "\u8b43",
+        "pronunciation": "\ud6c4",
+        "stroke_count": "19",
         "names": "\ub9dd\ub155\ub41c \ub9d0 \ud6c4",
         "definitions": []
     },
@@ -110547,6 +113064,9 @@
         ]
     },
     {
+        "character": "\u720b",
+        "pronunciation": "\ud6c8",
+        "stroke_count": "20",
         "names": "\ubd88\uc5d0 \ub9d0\ub9b4 \ud6c8",
         "definitions": []
     },
@@ -110622,6 +113142,9 @@
         ]
     },
     {
+        "character": "\u9442",
+        "pronunciation": "\ud6c8",
+        "stroke_count": "22",
         "names": "\uae08\ube5b \ud22c\uc0c9\ud560 \ud6c8",
         "definitions": []
     },
@@ -110683,6 +113206,9 @@
         ]
     },
     {
+        "character": "\u56be",
+        "pronunciation": "\ud6e4",
+        "stroke_count": "21",
         "names": "\uc9c0\uaec4\uc77c \ud6e4",
         "definitions": []
     },
@@ -110979,6 +113505,9 @@
         ]
     },
     {
+        "character": "\u7fda",
+        "pronunciation": "\ud718",
+        "stroke_count": "12",
         "names": "",
         "definitions": []
     },
@@ -111045,6 +113574,9 @@
         ]
     },
     {
+        "character": "\u5020",
+        "pronunciation": "\ud734",
+        "stroke_count": "10",
         "names": "\ucd94\ud560 \ud734",
         "definitions": []
     },
@@ -111072,6 +113604,9 @@
         ]
     },
     {
+        "character": "\u563c",
+        "pronunciation": "\ud734",
+        "stroke_count": "15",
         "names": "\uc313\uc744 \ud734",
         "definitions": []
     },
@@ -111105,6 +113640,9 @@
         ]
     },
     {
+        "character": "\u64d5",
+        "pronunciation": "\ud734",
+        "stroke_count": "16",
         "names": "\u643a\uc640 \u540c\u5b57",
         "definitions": []
     },
@@ -111167,6 +113705,9 @@
         ]
     },
     {
+        "character": "\u9af9",
+        "pronunciation": "\ud734",
+        "stroke_count": "16",
         "names": "\uc63b\uce60\ud560 \ud734",
         "definitions": []
     },
@@ -111266,6 +113807,9 @@
         ]
     },
     {
+        "character": "\u54c5",
+        "pronunciation": "\ud749",
+        "stroke_count": "9",
         "names": "\ub5a0\ub4e4 \ud749",
         "definitions": []
     },
@@ -111355,6 +113899,9 @@
         ]
     },
     {
+        "character": "\u4fd2",
+        "pronunciation": "\ud754",
+        "stroke_count": "9",
         "names": "\uc644\uc804\ud560 \ud754",
         "definitions": []
     },
@@ -111441,6 +113988,9 @@
         ]
     },
     {
+        "character": "\u743f",
+        "pronunciation": "\ud754",
+        "stroke_count": "13",
         "names": [],
         "definitions": [
             "bright, glorious, splendid"
@@ -111533,6 +114083,9 @@
         ]
     },
     {
+        "character": "\u6c54",
+        "pronunciation": "\ud758",
+        "stroke_count": "6",
         "names": "\uac70\uc758 \ud758",
         "definitions": []
     },
@@ -111597,6 +114150,9 @@
         ]
     },
     {
+        "character": "\u9df8",
+        "pronunciation": "\ud758",
+        "stroke_count": "23",
         "names": [],
         "definitions": [
             "snipe, kingfisher",
@@ -111760,6 +114316,9 @@
         ]
     },
     {
+        "character": "\u5308",
+        "pronunciation": "\ud765",
+        "stroke_count": "6",
         "names": [],
         "definitions": [
             "breast, chest, thorax",
@@ -111959,6 +114518,9 @@
         ]
     },
     {
+        "character": "\u6095",
+        "pronunciation": "\ud76c",
+        "stroke_count": "10",
         "names": "\uc2ac\ud37c\ud560 \ud76c",
         "definitions": []
     },
@@ -112043,6 +114605,9 @@
         ]
     },
     {
+        "character": "\u66bf",
+        "pronunciation": "\ud76c",
+        "stroke_count": "16",
         "names": "\uc6c3\uc744 \ud76c",
         "definitions": []
     },
@@ -112139,6 +114704,9 @@
         ]
     },
     {
+        "character": "\u7214",
+        "pronunciation": "\ud76c",
+        "stroke_count": "20",
         "names": "\ubd88 \ud76c",
         "definitions": []
     },

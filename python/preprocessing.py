@@ -55,6 +55,10 @@ def process_line(line, current_syllable):
         stroke_count = remaining_line.split('(')[-1].split(')')[0]
         remaining_line = remaining_line.rsplit('(', 1)[0]
 
+        new_hanja['character'] = hanja_character
+        new_hanja['pronunciation'] = current_syllable
+        new_hanja['stroke_count'] = stroke_count
+
         # awkward part
         names_and_definitions = remaining_line.split(',')
         # print(names_and_definitions)
@@ -62,7 +66,7 @@ def process_line(line, current_syllable):
         # check if any names
         if len(names_and_definitions) == 1: # only name or all blank
             new_hanja['names'] = names_and_definitions[0]
-            print(names_and_definitions[0])
+            # print(names_and_definitions[0])
             new_hanja['definitions'] = []
 
         # if both, check if names is empty
@@ -81,10 +85,6 @@ def process_line(line, current_syllable):
                     c = names_and_definitions[i][index_to_check]
                     if (c >= 'a' and c <= 'z') or (c >= 'A' and c <= 'Z'):
                         first_def = i
-
-            new_hanja['character'] = hanja_character
-            new_hanja['pronunciation'] = current_syllable
-            new_hanja['stroke_count'] = stroke_count
 
             if first_def == -1: # no definitions
                 new_hanja['names'] = remove_leading_and_trailing_spaces(names_and_definitions)
