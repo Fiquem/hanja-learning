@@ -38,16 +38,16 @@ async function display_hanja_button_click(evt) {
     display_hanja_info(hanja_obj)
 }
 
-// helper function for hanja definitions display
-function format_definitions(definitions) {
-    if (definitions.length == 0) {
-        return "(definition missing)"
-    } else if (definitions.length == 1) {
-        return definitions
+// helper function for hanja names/definitions display
+function format_names_and_defs(unformatted_list, list_type, separator) {
+    if (unformatted_list.length == 0) {
+        return "(" + list_type + " missing)"
+    } else if (unformatted_list.length == 1) {
+        return unformatted_list
     } else {
-        var definitions_string = definitions[0]
-        for (var i = 1; i < definitions.length; i++) {
-            definitions_string += '; ' + definitions[i]
+        var definitions_string = unformatted_list[0]
+        for (var i = 1; i < unformatted_list.length; i++) {
+            definitions_string += separator + ' ' + unformatted_list[i]
         }
         return definitions_string
     }
@@ -66,8 +66,8 @@ function display_hanja_info(hanja) {
     const p_definitions = document.createElement('p')
 
     p_char.textContent = hanja.character
-    p_names.textContent = hanja.names
-    p_definitions.textContent = format_definitions(hanja.definitions)
+    p_names.textContent = format_names_and_defs(hanja.names, "names", ",")
+    p_definitions.textContent = format_names_and_defs(hanja.definitions, "definitions", ";")
 
     hanja_section.appendChild(p_char)
     hanja_section.appendChild(p_names)
