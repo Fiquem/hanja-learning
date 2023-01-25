@@ -21,9 +21,10 @@ Viewable at https://fiquem.github.io/subs/hanja-learning/
 - is there a better database to use?
 
 ## to-fix
-- some definitions + names missing space after comma
+- ~~some definitions + names missing space after comma~~
 - some blank/incomplete hanja
-- some names include first definition (due to first char being '(', it seems)
+- ~~some names include first definition (due to first char being punctuation)~~
+- hanja with multiple readings have multiple entries, mb should combine?
 - incorrect readings? (吢 should be 침 not 심 according to naver https://hanja.dict.naver.com/#/entry/ccko/fe661337d2794c84b1b7764b76131808)
 
 # Source
