@@ -65,7 +65,7 @@ def process_line(line, current_syllable):
 
         # check if any names
         if len(names_and_definitions) == 1: # only name or all blank
-            new_hanja['names'] = names_and_definitions[0]
+            new_hanja['names'] = names_and_definitions
             # print(names_and_definitions[0])
             new_hanja['definitions'] = []
 
