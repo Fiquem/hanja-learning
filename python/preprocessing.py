@@ -25,6 +25,9 @@ def process_def_list(def_list):
     # want to split by ';'
     # remove initial space
     merged_list = ','.join(def_list)
+
+    # I think here is when I need to fix that split inside brackets issue
+
     split_list = merged_list.split(';')
     split_list = remove_leading_and_trailing_spaces(split_list)
 
@@ -56,12 +59,13 @@ def process_line(line, current_syllable):
         names_and_definitions = remaining_line.split(',')
         # print(names_and_definitions)
 
-        # check if any names or definitions
-        if len(names_and_definitions) == 1: # no names or definitions
-            new_hanja['names'] = []
+        # check if any names
+        if len(names_and_definitions) == 1: # only name or all blank
+            new_hanja['names'] = names_and_definitions[0]
+            print(names_and_definitions[0])
             new_hanja['definitions'] = []
 
-        # then check if names exist
+        # if both, check if names is empty
         elif len(names_and_definitions[0]) == 0: # no names, yes definitions
             new_hanja['names'] = []
             new_hanja['definitions'] = process_def_list(names_and_definitions[1:])
@@ -71,7 +75,7 @@ def process_line(line, current_syllable):
             for i in range(0, len(names_and_definitions)):
                 if first_def == -1:
                     index_to_check = 0
-                    while names_and_definitions[i][index_to_check] == ' ':
+                    while names_and_definitions[i][index_to_check] in [' ', "'", '(']:
                         index_to_check += 1
 
                     c = names_and_definitions[i][index_to_check]
@@ -105,7 +109,7 @@ def create_dict(raw_data):
     current_syllable = 0;
 
     for i in range(0, len(data_lines)):
-        print(data_lines[i])
+        # print(data_lines[i])
         [next_hanja, current_syllable] = process_line(data_lines[i], current_syllable)
         if next_hanja != 0:
             hanja_list.append(next_hanja)
@@ -132,6 +136,7 @@ def main():
     # - names : string array
     # - definitions : string array
     # 
+    # takes arguments : read_file, write_file
 
 
     # check arguments
