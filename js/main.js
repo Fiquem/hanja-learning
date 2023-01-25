@@ -38,6 +38,21 @@ async function display_hanja_button_click(evt) {
     display_hanja_info(hanja_obj)
 }
 
+// helper function for hanja definitions display
+function format_definitions(definitions) {
+    if (definitions.length == 0) {
+        return "(definition missing)"
+    } else if (definitions.length == 1) {
+        return definitions
+    } else {
+        var definitions_string = definitions[0]
+        for (var i = 1; i < definitions.length; i++) {
+            definitions_string += '; ' + definitions[i]
+        }
+        return definitions_string
+    }
+}
+
 // display used for single hanja shown on the screen, hanja info page
 function display_hanja_info(hanja) {
     const main = document.querySelector('main')
@@ -52,7 +67,7 @@ function display_hanja_info(hanja) {
 
     p_char.textContent = hanja.character
     p_names.textContent = hanja.names
-    p_definitions.textContent = hanja.definitions
+    p_definitions.textContent = format_definitions(hanja.definitions)
 
     hanja_section.appendChild(p_char)
     hanja_section.appendChild(p_names)
