@@ -59,8 +59,10 @@ button.dictionary-index-reading, button.dictionary-index-stroke {
     transition: var(--transition-speed);
 }
 
-button.dictionary-index:hover,
-button.dictionary-index:focus {
+button.dictionary-index-reading:hover,
+button.dictionary-index-reading:focus,
+button.dictionary-index-stroke:hover,
+button.dictionary-index-stroke:focus {
     color: var(--accent-colour);
 }
 
