@@ -82,12 +82,14 @@ async function hanja_pronunciation_quiz() {
 
 	// create answer buttons
 	correct_button = document.createElement("button")
+    correct_button.setAttribute('class', 'mcq-button')
 	correct_button.textContent = correct_pronunciation
 	correct_button.addEventListener('click', correct_answer, false)
 
 	wrong_buttons = new Array(num_answers-1)
     for (var i = 0; i < wrong_buttons.length; i++) {
 		wrong_buttons[i] = document.createElement("button")
+    	wrong_buttons[i].setAttribute('class', 'mcq-button')
 		wrong_buttons[i].textContent = wrong_ps[i]
 		wrong_buttons[i].addEventListener('click', wrong_answer, false)
     }

@@ -4,6 +4,7 @@
 
 :root {
     --bg-colour: #eee;
+    --bg-colour-hover: #ddd;
     --accent-colour: #bab;
     --accent-colour-strong: #e7e;
     --transition-speed: 0.25s;
@@ -48,6 +49,28 @@ button {
     font-size: 20px;
 }
 
+/* SHARED */
+.single-hanja-display-block {
+    font-size: 24px;
+    text-align: center;
+}
+
+.single-hanja-character {
+    font-size: 64px;
+}
+
+/* ABOUT ME  */
+section.about-me {
+    font-size: 20px;
+    max-width: 500px;
+    width: 100%;
+    margin: 25px auto;
+    background: var(--bg-colour);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+/* DICTIONARY  */
 button.dictionary-index-reading, button.dictionary-index-stroke {
     font-size: 24px;
     background: none;
@@ -85,15 +108,6 @@ details > *:not(summary) {
     margin: 5px 40px 5px 40px;
 }
 
-.single-hanja-display-block {
-    font-size: 24px;
-    text-align: center;
-}
-
-.single-hanja-character {
-    font-size: 64px;
-}
-
 div.dictionary-row {
     display: flex;
     flex-flow: row wrap;
@@ -113,17 +127,29 @@ details.dict-reading {
     background-color: var(--bg-colour);
 }
 
-section.about-me {
-    font-size: 20px;
-    max-width: 500px;
-    width: 100%;
-    margin: 25px auto;
-    background: var(--bg-colour);
-    padding: 15px;
-    border-radius: 15px;
-}
-
+/* QUIZ  */
 section.mcq-quiz {
     font-size: 24px;
     text-align: center;
+}
+
+section.mcq-answers {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+}
+
+button.mcq-button {
+    flex: 30%;
+    margin: 10px;
+    padding: 20px 100px 20px 100px;
+    background: var(--bg-colour);
+    border: 0px;
+    border-radius: 5px;
+    font-size: 28px;
+    transition: var(--transition-speed);
+}
+
+button.mcq-button:hover, button.mcq-button:focus {
+    background: var(--bg-colour-hover);
 }
