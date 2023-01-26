@@ -69,7 +69,7 @@ function display_hanja_info(hanja) {
 async function load_random_hanja() {
     document.querySelector('main').innerHTML = ""
     const hanja_dict = await load_dict()
-    percent = Math.random()
+    const percent = Math.random()
     const index = Math.round(hanja_dict.length * percent)
     display_hanja_info(hanja_dict[index])
 }

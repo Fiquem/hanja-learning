@@ -122,3 +122,8 @@ section.about-me {
     padding: 15px;
     border-radius: 15px;
 }
+
+section.mcq-quiz {
+    font-size: 24px;
+    text-align: center;
+}
