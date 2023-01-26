@@ -21,17 +21,33 @@ def remove_leading_and_trailing_spaces(spaces_list):
 
 
 def process_def_list(def_list):
-    # split by ','
+    # def_list is split by ','
     # want to split by ';'
     # remove initial space
     merged_list = ','.join(def_list)
-
-    # I think here is when I need to fix that split inside brackets issue
-
     split_list = merged_list.split(';')
-    split_list = remove_leading_and_trailing_spaces(split_list)
 
-    return split_list
+    # check if there is a bracket pair that was split up and remerge
+    # prob a nice regex way to do this?
+    remerged_list = []
+    left_bracket_index = 0
+    while left_bracket_index < len(split_list):
+        if '(' in split_list[left_bracket_index] and ')' not in split_list[left_bracket_index]:
+            right_bracket_index = left_bracket_index + 1
+            while right_bracket_index < len(split_list):
+                if ')' in split_list[right_bracket_index]:
+                    remerged_list.append(', '.join(split_list[left_bracket_index:right_bracket_index+1]))
+                    left_bracket_index = right_bracket_index
+                    right_bracket_index = len(split_list)
+                right_bracket_index += 1
+        else:
+            remerged_list.append(split_list[left_bracket_index])
+        left_bracket_index += 1
+
+
+    remerged_list = remove_leading_and_trailing_spaces(remerged_list)
+
+    return remerged_list
 
 
 

@@ -40,6 +40,7 @@ async function display_hanja_button_click(evt) {
 
 // helper function for hanja names/definitions display
 function format_names_and_defs(unformatted_list, list_type, separator) {
+    // console.log("formatting: " + unformatted_list)
     if (unformatted_list.length == 0) {
         return "(" + list_type + " missing)"
     } else if (unformatted_list.length == 1) {
@@ -174,7 +175,6 @@ async function display_dictionary() {
                 current_alphabet.appendChild(alphabet_summary)
             }
 
-            console.log("adding button")
             var dict_button = document.createElement('button')
             dict_button.setAttribute("class", "dictionary-index-reading")
             dict_button.textContent = element
