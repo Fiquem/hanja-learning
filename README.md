@@ -9,10 +9,12 @@ Viewable at https://fiquem.github.io/subs/hanja-learning/
   - ~~based on stroke count~~ (is there a better way to do this?)
   - ~~click hanja to go to info page~~
   - format a bit more nicely
-- menu for each mode
+- ~~menu for each mode~~
 - quiz
   - fill in blank, either hanja, reading, name, meaning
   - multiple choice versions
+  - ~~mcq reading~~
+  - make it so the answer appears under the question with names (+ meanings?)
 - just make pretty ~
 - show incomplete entries somewhere, mb can use it as a list to improve upon
 - feedback section? bug reports, etc.
