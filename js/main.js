@@ -2,7 +2,7 @@
 var db_url = 'https://raw.githubusercontent.com/Fiquem/hanja-learning/main/js/hanja_definitions.json'
 
 async function load_dict() {
-    url = db_url
+    url = 'https://raw.githubusercontent.com/Fiquem/hanja-learning/main/js/hanja_definitions.json'
     const request = new Request(url)
     const response = await fetch(request)
     const hanja_dict = await response.json()
