@@ -1,20 +1,42 @@
 // QUIZ
-function correct_answer(evt) {
-	const quiz_main = document.querySelector('main')
-    quiz_main.innerHTML = ""
+async function correct_answer(evt) {
+	const quiz_section = document.getElementById('mcq-quiz-section')
 
-    win_text = document.createElement("p")
+    p_hanja = document.getElementById('mcq-quiz-hanja')
+    correct_hanja = p_hanja.textContent
+    hanja_obj = await get_hanja_given_character(correct_hanja)
+
+    const answer_description_section = document.createElement('section')
+    answer_description_section.innerHTML = ""
+    answer_description_section.setAttribute("class", "quiz-answer-correct")
+
+    let win_text = document.createElement("p")
     win_text.textContent = "u win"
-    quiz_main.appendChild(win_text)
+    answer_description_section.appendChild(win_text)
+
+    display_hanja_and_reading_inline(hanja_obj, answer_description_section)
+
+    quiz_section.appendChild(answer_description_section)
 }
 
-function wrong_answer(evt) {
-	const quiz_main = document.querySelector('main')
-    quiz_main.innerHTML = ""
+async function wrong_answer(evt) {
+	const quiz_section = document.getElementById('mcq-quiz-section')
 
-    win_text = document.createElement("p")
-    win_text.textContent = "u lose :("
-    quiz_main.appendChild(win_text)
+    p_hanja = document.getElementById('mcq-quiz-hanja')
+    correct_hanja = p_hanja.textContent
+    hanja_obj = await get_hanja_given_character(correct_hanja)
+
+    const answer_description_section = document.createElement('section')
+    answer_description_section.innerHTML = ""
+    answer_description_section.setAttribute("class", "quiz-answer-wrong")
+
+    let lose_text = document.createElement("p")
+    lose_text.textContent = "u lose :("
+    answer_description_section.appendChild(lose_text)
+
+    display_hanja_and_reading_inline(hanja_obj, answer_description_section)
+
+    quiz_section.appendChild(answer_description_section)
 }
 
 function shuffle(array) {
@@ -38,9 +60,11 @@ function display_hanja_MCQ(character, answer_buttons) {
     quiz_main.innerHTML = ""
 
 	const question_section = document.createElement('section')
+    question_section.setAttribute('id', 'mcq-quiz-section')
     question_section.setAttribute('class', 'mcq-quiz')
 
 	const p_hanja = document.createElement('p')
+    p_hanja.setAttribute('id', 'mcq-quiz-hanja')
     p_hanja.setAttribute('class', 'single-hanja-character')
     p_hanja.textContent = character
 

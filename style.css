@@ -8,6 +8,10 @@
     --accent-colour: #bab;
     --accent-colour-strong: #e7e;
     --transition-speed: 0.25s;
+    --bg-colour-correct: #cec;
+    --text-colour-correct: #363;
+    --bg-colour-wrong: #ecc;
+    --text-colour-wrong: #633;
 }
 
 a {
@@ -137,6 +141,24 @@ section.mcq-answers {
     display: flex;
     flex-flow: row wrap;
     width: 100%;
+}
+
+section.quiz-answer-correct, section.quiz-answer-wrong {
+    margin: 25px auto;
+    padding: 20px;
+    max-width: 500px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+section.quiz-answer-correct {
+    background-color: var(--bg-colour-correct);
+    color: var(--text-colour-correct);
+}
+
+section.quiz-answer-wrong {
+    background-color: var(--bg-colour-wrong);
+    color: var(--text-colour-wrong);
 }
 
 button.mcq-button {

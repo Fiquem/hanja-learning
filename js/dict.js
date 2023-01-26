@@ -25,6 +25,7 @@ async function display_hanja_given_reading(evt) {
             display_hanja_and_reading_inline(hanja_dict[i], display)
         }
     }
+
     hanja_buttons = document.getElementsByClassName("hanja-text-button")
     hanja_buttons_array = Array.from(hanja_buttons)
     hanja_buttons_array.map(x => x.addEventListener('click', display_hanja_button_click, false))

@@ -65,6 +65,19 @@ function display_hanja_info(hanja) {
     main.appendChild(hanja_section)
 }
 
+async function get_hanja_given_character(character) {
+    const hanja_dict = await load_dict()
+    let hanja_obj = ""
+    let i = 0
+    while (hanja_obj == "") {
+        if (hanja_dict[i].character == character) {
+            hanja_obj = hanja_dict[i]
+        }
+        i += 1
+    }
+    return hanja_obj
+}
+
 // RANDOM
 async function load_random_hanja() {
     document.querySelector('main').innerHTML = ""
