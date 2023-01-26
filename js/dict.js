@@ -1,71 +1,3 @@
-var db_url = 'https://raw.githubusercontent.com/Fiquem/hanja-learning/main/js/hanja_definitions.json'
-
-// SHARED
-async function load_dict() {
-    url = db_url
-    const request = new Request(url)
-    const response = await fetch(request)
-    const hanja_dict = await response.json()
-    // console.log(hanja_dict[0])
-    return hanja_dict
-}
-
-async function display_hanja_button_click(evt) {
-    var hanja_char = evt.currentTarget.textContent // can't be doing other functions before currentTarget...
-    // console.log("here?")
-    const hanja_dict = await load_dict(db_url)
-    var hanja_obj = ""
-    var i = 0
-
-    while (hanja_obj == "") {
-        if (hanja_dict[i].character == hanja_char) {
-            hanja_obj = hanja_dict[i]
-        }
-        i += 1
-    }
-
-    display_hanja_info(hanja_obj)
-}
-
-// helper function for hanja names/definitions display
-function format_names_and_defs(unformatted_list, list_type, separator) {
-    // console.log("formatting: " + unformatted_list)
-    if (unformatted_list.length == 0) {
-        return "(" + list_type + " missing)"
-    } else if (unformatted_list.length == 1) {
-        return unformatted_list
-    } else {
-        var definitions_string = unformatted_list[0]
-        for (var i = 1; i < unformatted_list.length; i++) {
-            definitions_string += separator + ' ' + unformatted_list[i]
-        }
-        return definitions_string
-    }
-}
-
-// display used for single hanja shown on the screen, hanja info page
-function display_hanja_info(hanja) {
-    const main = document.querySelector('main')
-    main.innerHTML = ""
-
-    const hanja_section = document.createElement('section')
-    hanja_section.setAttribute('class', 'single-hanja-display-block')
-    const p_char = document.createElement('p')
-    p_char.setAttribute('class', 'single-hanja-character')
-    const p_names = document.createElement('p')
-    const p_definitions = document.createElement('p')
-
-    p_char.textContent = hanja.character
-    p_names.textContent = format_names_and_defs(hanja.names, "names", ",")
-    p_definitions.textContent = format_names_and_defs(hanja.definitions, "definitions", ";")
-
-    hanja_section.appendChild(p_char)
-    hanja_section.appendChild(p_names)
-    hanja_section.appendChild(p_definitions)
-    main.appendChild(hanja_section)
-}
-
-
 // DICTIONARY
 
 // display hanja inline in dictionary
@@ -81,7 +13,7 @@ function display_hanja_and_reading_inline(hanja, parent_element) {
 async function display_hanja_given_reading(evt) {
     // console.log("we made it")
     var reading = evt.currentTarget.textContent
-    const hanja_dict = await load_dict(db_url)
+    const hanja_dict = await load_dict()
     const display = document.querySelector('main')
     display.innerHTML = ""
     hangeul_title = document.createElement("heading")
@@ -101,7 +33,7 @@ async function display_hanja_given_reading(evt) {
 async function display_hanja_given_stroke(evt) {
     // console.log("we made it")
     var stroke = evt.currentTarget.textContent
-    const hanja_dict = await load_dict(db_url)
+    const hanja_dict = await load_dict()
     const display = document.querySelector('main')
     display.innerHTML = ""
     hangeul_title = document.createElement("heading")
@@ -133,7 +65,7 @@ async function display_dictionary() {
     //
 
     // get hanja
-    const hanja_dict = await load_dict(db_url)
+    const hanja_dict = await load_dict()
     const readings = get_unique_readings(hanja_dict)
 
     const hangeul_index = document.createElement("div")
