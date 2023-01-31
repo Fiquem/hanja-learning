@@ -7,7 +7,6 @@ async function correct_answer(evt) {
     hanja_obj = await get_hanja_given_character(correct_hanja)
 
     const answer_description_section = document.createElement('section')
-    answer_description_section.innerHTML = ""
     answer_description_section.setAttribute("class", "quiz-answer-correct")
 
     let win_text = document.createElement("p")
@@ -27,7 +26,6 @@ async function wrong_answer(evt) {
     hanja_obj = await get_hanja_given_character(correct_hanja)
 
     const answer_description_section = document.createElement('section')
-    answer_description_section.innerHTML = ""
     answer_description_section.setAttribute("class", "quiz-answer-wrong")
 
     let lose_text = document.createElement("p")
@@ -44,15 +42,15 @@ function shuffle(array) {
   return array
 }
 
-async function basic_quiz_test() {
-	const quiz_main = document.querySelector('main')
-    quiz_main.innerHTML = ""
+// async function basic_quiz_test() {
+// 	const quiz_main = document.querySelector('main')
+//     quiz_main.innerHTML = ""
 
-    win_button = document.createElement("button")
-    win_button.textContent = "click here to win"
-    win_button.addEventListener('click', correct_answer, false)
-    quiz_main.appendChild(win_button)
-}
+//     win_button = document.createElement("button")
+//     win_button.textContent = "click here to win"
+//     win_button.addEventListener('click', correct_answer, false)
+//     quiz_main.appendChild(win_button)
+// }
 
 // display hanja mcq
 function display_hanja_MCQ(character, answer_buttons) {
@@ -126,8 +124,121 @@ async function hanja_pronunciation_quiz() {
     display_hanja_MCQ(correct_hanja.character, answer_buttons)
 }
 
+// hanja name quiz
+async function hanja_names_quiz() {
+	const hanja_dict = await load_dict()
 
+    // get answer hanja
+    percent = Math.random()
+    const correct_index = Math.round(hanja_dict.length * percent)
+    correct_hanja = hanja_dict[correct_index]
+    correct_names = correct_hanja.names
 
+    // set number of answers
+    var num_answers = 3
+
+    // get wrong choices
+    wrong_names = new Array(num_answers-1)
+    for (var i = 0; i < wrong_names.length; i++) {
+    	wrong_names[i] = correct_names
+	    while(wrong_names[i] == correct_names && wrong_names.includes(wrong_names[i])) {
+		    let percent = Math.random()
+		    let wrong_index = Math.round(hanja_dict.length * percent)
+		    wrong_names[i] = hanja_dict[wrong_index].names
+	    }
+	}
+
+	// create answer buttons
+	correct_button = document.createElement("button")
+    correct_button.setAttribute('class', 'mcq-button')
+	correct_button.textContent = format_names_and_defs(correct_names, "names", ",")
+	correct_button.addEventListener('click', correct_answer, false)
+
+	wrong_buttons = new Array(num_answers-1)
+    for (var i = 0; i < wrong_buttons.length; i++) {
+		wrong_buttons[i] = document.createElement("button")
+    	wrong_buttons[i].setAttribute('class', 'mcq-button')
+		wrong_buttons[i].textContent = format_names_and_defs(wrong_names[i], "names", ",")
+		wrong_buttons[i].addEventListener('click', wrong_answer, false)
+    }
+
+    // prepare for display
+    answer_buttons = [correct_button].concat(wrong_buttons)
+    answer_buttons = shuffle(answer_buttons)
+
+    // display
+    display_hanja_MCQ(correct_hanja.character, answer_buttons)
+}
+
+// hanja definition quiz
+async function hanja_definitions_quiz() {
+	const hanja_dict = await load_dict()
+
+    // get answer hanja
+    percent = Math.random()
+    const correct_index = Math.round(hanja_dict.length * percent)
+    correct_hanja = hanja_dict[correct_index]
+    correct_definitions = correct_hanja.definitions
+
+    // set number of answers
+    var num_answers = 3
+
+    // get wrong choices
+    wrong_ds = new Array(num_answers-1)
+    for (var i = 0; i < wrong_ds.length; i++) {
+    	wrong_ds[i] = correct_definitions
+	    while(wrong_ds[i] == correct_definitions && wrong_ds.includes(wrong_ds[i])) {
+		    let percent = Math.random()
+		    let wrong_index = Math.round(hanja_dict.length * percent)
+		    wrong_ds[i] = hanja_dict[wrong_index].definitions
+	    }
+	}
+
+	// create answer buttons
+	correct_button = document.createElement("button")
+    correct_button.setAttribute('class', 'mcq-button')
+	correct_button.textContent = format_names_and_defs(correct_definitions, "definitions", ";")
+	correct_button.addEventListener('click', correct_answer, false)
+
+	wrong_buttons = new Array(num_answers-1)
+    for (var i = 0; i < wrong_buttons.length; i++) {
+		wrong_buttons[i] = document.createElement("button")
+    	wrong_buttons[i].setAttribute('class', 'mcq-button')
+		wrong_buttons[i].textContent = format_names_and_defs(wrong_ds[i], "definitions", ";")
+		wrong_buttons[i].addEventListener('click', wrong_answer, false)
+    }
+
+    // prepare for display
+    answer_buttons = [correct_button].concat(wrong_buttons)
+    answer_buttons = shuffle(answer_buttons)
+
+    // display
+    display_hanja_MCQ(correct_hanja.character, answer_buttons)
+}
+
+function display_quiz_menu() {
+	const quiz_main = document.querySelector('main')
+    quiz_main.innerHTML = ""
+
+    let quiz_title = document.createElement("h1")
+    quiz_title.textContent = "which quiz would u like?"
+    quiz_main.appendChild(quiz_title)
+
+    let num_quiz_types = 3
+    let quiz_types = new Array(num_quiz_types)
+    for (let i = 0; i < num_quiz_types; i++) {
+    	quiz_types[i] = document.createElement("button")
+    	quiz_types[i].setAttribute('class', 'mcq-button')
+    	quiz_main.appendChild(quiz_types[i])
+    }
+
+    quiz_types[0].textContent = "pronunciation"
+    quiz_types[0].addEventListener('click', hanja_pronunciation_quiz, false)
+    quiz_types[1].textContent = "names"
+    quiz_types[1].addEventListener('click', hanja_names_quiz, false)
+    quiz_types[2].textContent = "definitions"
+    quiz_types[2].addEventListener('click', hanja_definitions_quiz, false)
+}
 
 
 

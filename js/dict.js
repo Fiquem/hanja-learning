@@ -4,9 +4,16 @@
 function display_hanja_and_reading_inline(hanja, parent_element) {
     let hanja_p = document.createElement("p")
     let hanja_button = document.createElement("button")
+    let text_span = document.createElement("span")
+
     hanja_button.setAttribute("class", "hanja-text-button")
+    hanja_button.addEventListener('click', display_hanja_button_click, false)
     hanja_button.textContent = hanja.character
-    hanja_p.innerHTML = hanja_button.outerHTML + " - " + hanja.names
+
+    text_span.textContent = " - " + format_names_and_defs(hanja.names, "names", ",")
+
+    hanja_p.appendChild(hanja_button)
+    hanja_p.appendChild(text_span)
     parent_element.appendChild(hanja_p)
 }
 
@@ -25,10 +32,6 @@ async function display_hanja_given_reading(evt) {
             display_hanja_and_reading_inline(hanja_dict[i], display)
         }
     }
-
-    hanja_buttons = document.getElementsByClassName("hanja-text-button")
-    hanja_buttons_array = Array.from(hanja_buttons)
-    hanja_buttons_array.map(x => x.addEventListener('click', display_hanja_button_click, false))
 }
 
 async function display_hanja_given_stroke(evt) {
@@ -46,9 +49,6 @@ async function display_hanja_given_stroke(evt) {
             display_hanja_and_reading_inline(hanja_dict[i], display)
         }
     }
-    hanja_buttons = document.getElementsByClassName("hanja-text-button")
-    hanja_buttons_array = Array.from(hanja_buttons)
-    hanja_buttons_array.map(x => x.addEventListener('click', display_hanja_button_click, false))
 }
 
 function get_unique_readings(hanja) {
