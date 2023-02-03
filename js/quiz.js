@@ -1,40 +1,63 @@
 // QUIZ
-async function correct_answer(evt) {
+function clear_or_create_answer_section() {
+	let element = document.getElementById("quiz-answer-correct");
+
+    //If it isn't "undefined" and it isn't "null", then it exists.
+    if(typeof(element) != 'undefined' && element != null){
+    	console.log("correct answer exists - clearing")
+        element.innerHTML = ""
+        return element
+    }
+
+    element = document.getElementById("quiz-answer-wrong");
+
+    //If it isn't "undefined" and it isn't "null", then it exists.
+    if(typeof(element) != 'undefined' && element != null){
+    	console.log("wrong answer exists - clearing")
+        element.innerHTML = ""
+        return element
+    }
+
+    console.log("no answer exists - creating")
+    return document.createElement('section')
+}
+
+async function display_answer(correct_or_wrong) {
 	const quiz_section = document.getElementById('mcq-quiz-section')
 
     p_hanja = document.getElementById('mcq-quiz-hanja')
     correct_hanja = p_hanja.textContent
     hanja_obj = await get_hanja_given_character(correct_hanja)
 
-    const answer_description_section = document.createElement('section')
-    answer_description_section.setAttribute("class", "quiz-answer-correct")
+    let answer_description_section = clear_or_create_answer_section()
 
-    let win_text = document.createElement("p")
-    win_text.textContent = "u win"
-    answer_description_section.appendChild(win_text)
+    let answer_text = document.createElement("p")
+    answer_description_section.appendChild(answer_text)
+
+    // here is the difference in correct or wrong
+    if (correct_or_wrong == 'correct') {
+	    answer_description_section.setAttribute("class", "quiz-answer-correct")
+	    answer_description_section.setAttribute("id", "quiz-answer-correct")
+	    answer_text.textContent = "u win"
+    } else if (correct_or_wrong == 'wrong') {
+	    answer_description_section.setAttribute("class", "quiz-answer-wrong")
+	    answer_description_section.setAttribute("id", "quiz-answer-wrong")
+	    answer_text.textContent = "u lose :("
+    } else {
+    	console.log("answer is neither correct nor wrong so idk")
+    }
 
     display_hanja_and_reading_inline(hanja_obj, answer_description_section)
 
     quiz_section.appendChild(answer_description_section)
 }
 
-async function wrong_answer(evt) {
-	const quiz_section = document.getElementById('mcq-quiz-section')
+function correct_answer(evt) {
+	display_answer('correct')
+}
 
-    p_hanja = document.getElementById('mcq-quiz-hanja')
-    correct_hanja = p_hanja.textContent
-    hanja_obj = await get_hanja_given_character(correct_hanja)
-
-    const answer_description_section = document.createElement('section')
-    answer_description_section.setAttribute("class", "quiz-answer-wrong")
-
-    let lose_text = document.createElement("p")
-    lose_text.textContent = "u lose :("
-    answer_description_section.appendChild(lose_text)
-
-    display_hanja_and_reading_inline(hanja_obj, answer_description_section)
-
-    quiz_section.appendChild(answer_description_section)
+function wrong_answer(evt) {
+	display_answer('wrong')
 }
 
 function shuffle(array) {
@@ -224,12 +247,17 @@ function display_quiz_menu() {
     quiz_title.textContent = "which quiz would u like?"
     quiz_main.appendChild(quiz_title)
 
+    let quiz_options = document.createElement("section")
+    quiz_options.setAttribute('class', 'quiz-section')
+    quiz_main.appendChild(quiz_options)
+
     let num_quiz_types = 3
     let quiz_types = new Array(num_quiz_types)
     for (let i = 0; i < num_quiz_types; i++) {
     	quiz_types[i] = document.createElement("button")
-    	quiz_types[i].setAttribute('class', 'mcq-button')
-    	quiz_main.appendChild(quiz_types[i])
+    	quiz_types[i].setAttribute('class', 'quiz-button')
+    	quiz_options.appendChild(quiz_types[i])
+    	quiz_options.appendChild(document.createElement("br"))
     }
 
     quiz_types[0].textContent = "pronunciation"

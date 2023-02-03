@@ -29,6 +29,10 @@ nav {
     background-color: var(--bg-colour);
 }
 
+h1 {
+    text-align: center;
+}
+
 .nav-button {
     padding: 20px 0px 20px 0px;
     background: none;
@@ -173,5 +177,27 @@ button.mcq-button {
 }
 
 button.mcq-button:hover, button.mcq-button:focus {
+    background: var(--bg-colour-hover);
+}
+
+section.quiz-section {
+    display: flex;
+    flex-flow: row wrap;
+    width: 50%;
+    margin: auto;
+}
+
+button.quiz-button {
+    flex: 100%;
+    margin: 10px;
+    padding: 20px 100px 20px 100px;
+    background: var(--bg-colour);
+    border: 0px;
+    border-radius: 5px;
+    font-size: 28px;
+    transition: var(--transition-speed);
+}
+
+button.quiz-button:hover, button.quiz-button:focus {
     background: var(--bg-colour-hover);
 }
